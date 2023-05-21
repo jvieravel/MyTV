@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1 tvg-shift="-1" tvg-id="I850.87004.schedulesdirect.org",A&E
+http://190.83.119.67:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I850.87004.schedulesdirect.org",A&E HD
+http://190.83.119.67:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org",A3S Atreseries
+http://168.194.171.33:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-shift="-1",AMC
+http://190.83.119.67:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I913.90852.schedulesdirect.org",AMC HD
+http://190.83.119.67:8000/play/a01v/index.m3u8
+#EXTINF:-1,ATV HD 
+http://168.121.46.90:8000/play/a05t/index.m3u8
+#EXTINF:-1,ATV+ HD
+http://168.121.46.90:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I841.72534.schedulesdirect.org",AXN
+http://190.83.119.67:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I79.72534.schedulesdirect.org",AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="I159.111305.schedulesdirect.org",AZ click HD
+http://190.83.119.67:8000/play/a021/index.m3u8
+#EXTINF:-1,AZ Cinema HD
+http://168.194.171.33:8000/play/a0d0/index.m3u8 
+#EXTINF:-1 tvg-shift="-1" tvg-id="I23.96445.schedulesdirect.org",Animal Planet
+http://190.83.119.67:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I22.107374.schedulesdirect.org",Animal Planet HD
+http://190.83.119.67:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="I25.16800.schedulesdirect.org",Antena 3
+http://190.83.119.67:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="I185.89542.schedulesdirect.org",BBC World
+http://190.83.119.67:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org",Baby First
+http://190.83.119.67:8000/play/a029/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.83.119.67:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="I119.16141.schedulesdirect.org",Cartoon Network
+http://190.83.119.67:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="I120.101735.schedulesdirect.org",CARTOON NT HD
+http://190.83.119.67:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="I358.10146.zap2it.com",CNN Internacional
+http://190.83.119.67:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="I419.17054.zap2it.com",CNN En Espanol
+http://190.83.119.67:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="I314.55719.schedulesdirect.org",Cartoonito
+http://190.83.119.67:8000/play/a00z/index.m3u8
+#EXTINF:-1,Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:-1 tvg-shift="-1",CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:-1 tvg-shift="-1",CINECANAL HD
+http://190.83.119.67:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="I307.10120.schedulesdirect.org",Cinemax HD
+http://168.121.46.90:8000/play/a056/index.m3u8
+#EXTINF:-1,Clover HD
+http://190.43.92.145:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-id="I837.74906.schedulesdirect.org",Comedy Central HD
+http://190.83.119.67:8000/play/a03k/index.m3u8
+#EXTINF:-1,De Pelicula
+http://190.43.92.145:8000/play/a0zn/index.m3u8
+#EXTINF:-1,DHE
+http://190.83.119.67:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="I111.81622.schedulesdirect.org",DHE HD
+http://190.83.119.67:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="I195.65940.schedulesdirect.org",DISC THEATHER HD
+http://190.83.119.67:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org",Discovery Channel
+http://190.83.119.67:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org",Discovery Channel HD
+http://190.83.119.67:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="I386.109896.schedulesdirect.org",Discovery ID HD
+http://190.83.119.67:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I191.45955.schedulesdirect.org",Discovery Kids HD
+http://190.83.119.67:8000/play/a00f/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://168.121.46.90:8000/play/a01u/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.119.67:8000/play/a007/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.83.119.67:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I199.79589.schedulesdirect.org",DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="I201.61311.schedulesdirect.org",Disney JR
+http://190.83.119.67:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I242.30259.schedulesdirect.org",E!
+http://190.83.119.67:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I242.30259.schedulesdirect.org",E! Entertairment HD
+http://190.83.119.67:8000/play/a01s/index.m3u8
+#EXTINF:-1,ESPN
+http://190.83.119.67:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="I256.110964.schedulesdirect.org",ESPN HD
+http://190.83.119.67:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org",ESPN 2
+http://190.83.119.67:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org",ESPN 2 HD
+http://190.83.119.67:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org",ESPN 3
+http://190.83.119.67:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org",ESPN 3 HD
+http://190.83.119.67:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="I265.65930.schedulesdirect.org",ESPN EXTRA HD
+http://168.121.46.90:8000/play/a04d/index.m3u8
+#EXTINF:-1,EURO Channel
+http://190.83.119.67:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="I276.16350.schedulesdirect.org",EWTN
+http://190.83.119.67:8000/play/a01j/index.m3u8
+#EXTINF:-1,El Gourmet
+http://190.83.119.67:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="I273.99979.schedulesdirect.org",Europa HD
+http://190.83.119.67:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="I303.110959.schedulesdirect.org",FOX NEWS HD
+http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org",FOX Sports 2
+http://190.83.119.67:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org",FOX SPORTS 2 HD
+http://190.83.119.67:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org",Fox Sport 3
+http://190.83.119.67:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org",FOX SPORTS 3 HD
+http://190.83.119.67:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-shift="-1",FX
+http://190.83.119.67:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I839.77617.schedulesdirect.org",FX HD
+http://190.83.119.67:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I288.106731.schedulesdirect.org",Film & Arts
+http://190.83.119.67:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I288.106731.schedulesdirect.org",Film & arts HD
+http://190.83.119.67:8000/play/a01t/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://181.78.21.60:16123/play/ch28
+#EXTINF:-1 tvg-id="I9862.58685.schedulesdirect.org",France24
+http://45.166.92.22:58001/play/a057/index.m3u8
+#EXTINF:-1,GLITZ
+http://181.78.21.60:16123/play/ch34
+#EXTINF:-1,Globovision SD
+http://190.43.92.145:8000/play/a0yz/index.m3u8
+#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org",Golden
+http://168.121.46.90:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="I340.68317.schedulesdirect.org",Golden Plus HD
+http://181.78.75.11:9500/play/a01d/index.m3u8 
+#EXTINF:-1tvg-id="I643.80804.schedulesdirect.org",Golden Premiere HD
+http://190.83.119.67:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="I644.80805.schedulesdirect.org",Golden Premiere 2 HD
+http://190.83.119.67:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-shift="1",GOLDEN EDGE
+http://181.78.21.60:16123/play/ch47
+#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel
+http://190.83.119.67:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel HD
+http://190.83.119.67:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="I348.84823.schedulesdirect.org",HBO HD
+http://190.83.119.67:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="I351.80652.schedulesdirect.org",HBO2 HD
+http://190.83.119.67:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="I362.82003.schedulesdirect.org",HBO Plus HD
+http://190.83.119.67:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="I353.34879.schedulesdirect.org",HBO Family HD
+http://190.83.119.67:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="I370.80115.schedulesdirect.org",HBO XTREME
+http://190.83.119.67:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I361.87164.schedulesdirect.org",HBO MUNDI SD
+http://190.43.92.145:8000/play/a0zo/index.m3u8
+#EXTINF:-1 tvg-id="I364.70545.schedulesdirect.org",HBO POP HD
+http://190.43.92.145:8000/play/a0sz/index.m3u8
+#EXTINF:-1 tvg-id="I382.62161.schedulesdirect.org",Hola! TV
+http://190.83.119.67:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="I382.62161.schedulesdirect.org",HOLA! TV HD
+http://190.83.119.67:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="I383.15969.schedulesdirect.org",HTV
+http://190.83.119.67:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="I443.43362.zap2it.com",History Channel
+http://190.83.119.67:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="I443.43362.zap2it.com",History Channel HD
+http://190.83.119.67:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="I378.80374.schedulesdirect.org",H2
+http://190.83.119.67:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="I378.80374.schedulesdirect.org",History 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="I189.76960.schedulesdirect.org",Home & Health HD
+http://190.83.119.67:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="I373.111055.schedulesdirect.org",Home Garden Latino
+http://190.83.119.67:8000/play/a006/index.m3u8
+#EXTINF:-1,I-Sat
+http://168.121.46.90:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="I409.100088.schedulesdirect.org",Lifetime
+http://190.43.92.145:8000/play/a0zi/index.m3u8
+#EXTINF:-1 tvg-id="I409.100088.schedulesdirect.org",LIFE TIME
+http://190.83.119.67:8000/play/a019/index.m3u8
+#EXTINF:-1,MTV 00s
+http://190.83.119.67:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="I433.120767.schedulesdirect.org",MTV 00s HD
+http://190.83.119.67:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="I434.65060.schedulesdirect.org",MTV 80s
+http://190.83.119.67:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="I431.84432.schedulesdirect.org",MTV HD
+http://190.83.119.67:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="I437.67787.schedulesdirect.org",MTV Hits
+http://190.83.119.67:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="I438.66419.schedulesdirect.org",MTV Live HD
+http://190.83.119.67:8000/play/a03l/index.m3u8
+#EXTINF:-1,Mas Chic
+http://190.83.119.67:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="I418.18329.schedulesdirect.org",Multicinema
+http://190.83.119.67:8000/play/a02o/index.m3u8
+#EXTINF:-1,Multipremier**
+http://190.83.119.67:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-shift="-1",National Geographic
+http://190.83.119.67:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I403.25068.schedulesdirect.org",Nat Geo HD
+http://190.83.119.67:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="I301.82649.zap2it.com",Nick Jr
+http://190.83.119.67:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="I316.16707.schedulesdirect.org",Nick HD
+http://190.83.119.67:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="I502.72625.schedulesdirect.org",PX Sports TV
+http://190.83.119.67:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="I487.106214.schedulesdirect.org",Paramount
+http://190.83.119.67:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="I489.91120.schedulesdirect.org",Paramount HD
+http://190.83.119.67:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="I491.71621.schedulesdirect.org",Pasiones HD
+http://190.83.119.67:8000/play/a043/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://190.83.119.67:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org",RT ESPANOL HD
+http://45.166.92.22:58001/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="I115.70312.schedulesdirect.org",SONY
+http://190.83.119.67:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="I116.19385.schedulesdirect.org",SONY HD
+http://190.83.119.67:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org",Sony Movies HD*
+http://190.83.119.67:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="I530.60801.schedulesdirect.org",SPACE
+http://190.83.119.67:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="I530.60801.schedulesdirect.org",SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="I531.88534.schedulesdirect.org",STAR CHANNEL HD
+http://190.83.119.67:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="I533.106724.schedulesdirect.org",Star TVE HD
+http://190.83.119.67:8000/play/a022/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://190.43.92.145:8000/play/a0ol/index.m3u8
+#EXTINF:-1 tvg-id="I915.90605.schedulesdirect.org",Studio Universal HD
+http://190.83.119.67:8000/play/a01q/index.m3u8
+#EXTINF:-1,Sun Channel
+http://190.83.119.67:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org",SyFy
+http://190.83.119.67:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="I269.33527.schedulesdirect.org",TBN Enlace
+http://190.83.119.67:8000/play/a01i/index.m3u8
+#EXTINF:-1,TBS
+http://190.83.119.67:8000/play/a017/index.m3u8
+#EXTINF:-1,TCM
+http://190.83.119.67:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="I871.72294.schedulesdirect.org",Teen Nick HD
+http://190.83.119.67:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="I633.15211.schedulesdirect.org",Telehit HD
+http://168.121.46.90:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org",Telemundo
+http://190.83.119.67:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org",Telemundo HD
+http://190.83.119.67:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="I51.4.79548.zap2it.com",TELEMUNDO MIAMI 51
+http://45.166.92.22:58001/play/a05i/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://190.83.119.67:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-shift="-1",TLC
+http://190.83.119.67:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I647.19384.schedulesdirect.org",TNT
+http://190.83.119.67:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I646.80807.schedulesdirect.org",TNT HD
+http://190.83.119.67:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="I651.92075.schedulesdirect.org",TNT Series
+http://190.83.119.67:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="I651.92075.schedulesdirect.org",TNT Series HD
+http://190.83.119.67:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="I323.63109.schedulesdirect.org",Tooncast
+http://190.83.119.67:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org",Tru TV
+http://190.83.119.67:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org",TRUTV HD
+http://168.121.46.90:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="I666.16046.schedulesdirect.org",TVChile
+http://190.83.119.67:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-shift="-3" tvg-id="I0.122767.schedulesdirect.org",UNIVERSAL CINEMA ESTE HD
+http://190.83.119.67:8000/play/a046/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://190.83.119.67:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-shift="-3" tvg-id="I688.122765.schedulesdirect.org",UNIVERSAL CRIME HD
+http://190.83.119.67:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-shift="-3" tvg-id="I689.122761.schedulesdirect.org",UNIVERSAL PREMIERE HD
+http://190.83.119.67:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="I689.122761.schedulesdirect.org",UNIVERSAL PREMIERE O HD
+http://190.83.119.67:8000/play/a03o/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://190.83.119.67:8000/play/a03p/index.m3u8
+#EXTINF:-1,Univision HD
+http://190.83.119.67:8000/play/a044/index.m3u8
+#EXTINF:-1,Venevision
+http://168.121.46.90:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="I409.102305.zap2it.com",VE PLUS
+http://181.78.21.60:16123/play/ch36
+#EXTINF:-1,Vive
+http://168.121.46.90:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I712.98111.schedulesdirect.org",Warner
+http://190.83.119.67:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-shift="-1" tvg-id="I713.80808.schedulesdirect.org",WARNER HD
+http://190.83.119.67:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="I1220.89973.schedulesdirect.org",ZooMoo
+http://190.83.119.67:8000/play/a003/index.m3u8
