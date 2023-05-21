@@ -27,6 +27,8 @@ http://190.83.119.67:8000/play/a032/index.m3u8
 http://190.83.119.67:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="I25.16800.schedulesdirect.org",Antena 3
 http://190.83.119.67:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="I25.16800.schedulesdirect.org",Antena 3 HD
+http://160.20.165.245:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="I185.89542.schedulesdirect.org",BBC World
 http://190.83.119.67:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org",Baby First
