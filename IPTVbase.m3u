@@ -253,6 +253,8 @@ http://190.83.119.67:8000/play/a01i/index.m3u8
 http://190.83.119.67:8000/play/a017/index.m3u8
 #EXTINF:-1,TCM
 http://190.83.119.67:8000/play/a02n/index.m3u8
+#EXTINF:-1,TCM HD
+http://190.60.39.198:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="I871.72294.schedulesdirect.org",Teen Nick HD
 http://190.83.119.67:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="I633.15211.schedulesdirect.org",Telehit HD
