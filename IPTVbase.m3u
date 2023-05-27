@@ -139,6 +139,8 @@ http://190.60.39.198:8000/play/a09q/index.m3u8
 http://190.43.92.145:8000/play/a0yz/index.m3u8
 #EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org",Golden
 http://168.121.46.90:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org",Golden HD
+http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="I337.68317.schedulesdirect.org",Golden Plus HD
 http://181.78.75.11:9500/play/a01d/index.m3u8 
 #EXTINF:-1tvg-id="I643.80804.schedulesdirect.org",Golden Premiere HD
@@ -249,6 +251,8 @@ http://190.83.119.67:8000/play/a01q/index.m3u8
 http://190.83.119.67:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org",SyFy
 http://190.83.119.67:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org",SYFY HD
+http://181.119.66.30:8000/play/56/index.m3u8
 #EXTINF:-1 tvg-id="I266.33527.schedulesdirect.org",TBN Enlace
 http://190.83.119.67:8000/play/a01i/index.m3u8
 #EXTINF:-1,TBS
@@ -267,6 +271,8 @@ http://190.83.119.67:8000/play/a013/index.m3u8
 http://190.83.119.67:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="I51.4.79548.zap2it.com",TELEMUNDO MIAMI 51
 http://45.166.92.22:58001/play/a05i/index.m3u8
+#EXTINF:-1,TELEVEN
+http://181.119.66.30:8000/play/44/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://190.83.119.67:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-shift="-1",TLC
@@ -302,7 +308,7 @@ http://190.83.119.67:8000/play/a03p/index.m3u8
 #EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a044/index.m3u8
 #EXTINF:-1,Venevision
-http://168.121.46.90:8000/play/a03j/index.m3u8
+http://181.119.66.30:8000/play/42/index.m3u8
 #EXTINF:-1 tvg-id="I409.102305.zap2it.com",VE PLUS
 http://181.78.21.60:16123/play/ch36
 #EXTINF:-1,Vive
