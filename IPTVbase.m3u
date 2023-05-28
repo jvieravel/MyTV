@@ -149,6 +149,8 @@ http://190.83.119.67:8000/play/a00g/index.m3u8
 http://190.83.119.67:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-shift="1",GOLDEN EDGE
 http://181.78.21.60:16123/play/ch47
+#EXTINF:-1,Golden Edge HD
+http://177.93.52.98:45001/play/a0cu
 #EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel
 http://190.83.119.67:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel HD
