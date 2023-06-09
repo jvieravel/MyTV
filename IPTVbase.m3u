@@ -3,6 +3,8 @@
 http://190.83.119.67:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-shift="-1" tvg-id="I850.87004.schedulesdirect.org",A&E HD
 http://190.83.119.67:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-shift="-3" tvg-id="I850.87004.schedulesdirect.org",A&E HD
+http://168.194.171.33:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org",A3S Atreseries
 http://168.194.171.33:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-shift="-1",AMC
@@ -175,9 +177,9 @@ http://190.83.119.67:8000/play/a008/index.m3u8
 http://190.83.119.67:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="I383.15969.schedulesdirect.org",HTV
 http://190.83.119.67:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="I443.43362.zap2it.com",History Channel
+#EXTINF:-1 tvg-shift="-1" tvg-id="I373.40137.schedulesdirect.org",History Channel
 http://190.83.119.67:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="I443.43362.zap2it.com",History Channel HD
+#EXTINF:-1 tvg-shift="-1" tvg-id="I372.70669.schedulesdirect.org",History Channel HD
 http://190.83.119.67:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org",H2
 http://190.83.119.67:8000/play/a02d/index.m3u8
@@ -255,8 +257,10 @@ http://190.83.119.67:8000/play/a030/index.m3u8
 http://181.119.66.30:8000/play/56/index.m3u8
 #EXTINF:-1 tvg-id="I266.33527.schedulesdirect.org",TBN Enlace
 http://190.83.119.67:8000/play/a01i/index.m3u8
-#EXTINF:-1,TBS SD
+#EXTINF:-1 tvg-id="I622.75073.schedulesdirect.org",TBS SD
 http://190.83.119.67:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-shift="-3" tvg-id="I622.75073.schedulesdirect.org",TBS Very Funny HD
+http://168.194.171.33:8000/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org",TCM
 http://190.83.119.67:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org",TCM HD
@@ -277,9 +281,9 @@ http://181.119.66.30:8000/play/44/index.m3u8
 http://190.83.119.67:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-shift="-1",TLC
 http://190.83.119.67:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-shift="-1" tvg-id="I647.19384.schedulesdirect.org",TNT
+#EXTINF:-1 tvg-shift="-1" tvg-id="I644.19384.schedulesdirect.org",TNT
 http://190.83.119.67:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-shift="-1" tvg-id="I646.80807.schedulesdirect.org",TNT HD
+#EXTINF:-1 tvg-shift="-1" tvg-id="I643.80807.schedulesdirect.org",TNT HD
 http://190.83.119.67:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="I648.92075.schedulesdirect.org",TNT Series
 http://190.83.119.67:8000/play/a016/index.m3u8
@@ -313,9 +317,9 @@ http://181.119.66.30:8000/play/42/index.m3u8
 http://181.78.21.60:16123/play/ch36
 #EXTINF:-1,Vive
 http://168.121.46.90:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-shift="-1" tvg-id="I709.98111.schedulesdirect.org",Warner
+#EXTINF:-1 tvg-shift="-1" tvg-id="I710.98111.schedulesdirect.org",Warner
 http://190.83.119.67:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-shift="-1" tvg-id="I710.80808.schedulesdirect.org",Warner HD
+#EXTINF:-1 tvg-shift="-1" tvg-id="I711.80808.schedulesdirect.org",Warner HD
 http://190.83.119.67:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="I1220.89973.schedulesdirect.org",ZooMoo
 http://190.83.119.67:8000/play/a003/index.m3u8
