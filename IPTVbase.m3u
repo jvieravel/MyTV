@@ -169,7 +169,7 @@ http://190.83.119.67:8000/play/a00s/index.m3u8
 http://190.83.119.67:8000/play/a00t/index.m3u8
 #EXTINF:1 tvg-shift="-1" tvg-id="I358.87164.schedulesdirect.org",HBO Mundi SD
 http://190.43.92.145:8000/play/a0zo/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I927.68301.schedulesdirect.org",HBO POP HD
+#EXTINF:1 tvg-id="I927.68301.schedulesdirect.org",HBO POP HD
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/30348
 #EXTINF:1 tvg-id="I379.62161.schedulesdirect.org",Hola! TV
 http://190.83.119.67:8000/play/a008/index.m3u8
