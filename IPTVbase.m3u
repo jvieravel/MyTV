@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E" tvg-logo="" group-title="(no group)",A&E
 http://190.83.119.67:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="" group-title="(no group)",A&E HD
