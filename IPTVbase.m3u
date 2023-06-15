@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58"
 #EXTINF:1 tvg-id="A.and.E.(Mexico).(AandE).mx",A&E (540p)
 http://190.83.119.67:8000/play/a02z/index.m3u8
 #EXTINF:1 tvg-id="AandE.mx(m3u4u)",A&E HD (720p)
