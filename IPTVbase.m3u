@@ -1,325 +1,325 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58"
-#EXTINF:1 tvg-id="A.and.E.(Mexico).(AandE).mx",A&E (540p)
+#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5264phw3zrgn39p"
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E" tvg-logo="" group-title="(no group)",A&E
 http://190.83.119.67:8000/play/a02z/index.m3u8
-#EXTINF:1 tvg-id="AandE.mx(m3u4u)",A&E HD (720p)
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="" group-title="(no group)",A&E HD
 http://190.83.119.67:8000/play/a01u/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I850.87004.schedulesdirect.org",A&E HD (1920p)
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="" group-title="(no group)",A&E HD
 http://168.194.171.33:8000/play/a05n/index.m3u8
-#EXTINF:1 tvg-id="I58.90898.schedulesdirect.org",A3S Atreseries (1920p)
+#EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="A3S Atreseries" tvg-logo="" group-title="(no group)",A3S Atreseries
 http://168.194.171.33:8000/play/a05f/index.m3u8
-#EXTINF:1 tvg-shift="-1",AMC (544p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-shift="-1"AMC" tvg-logo="" group-title="(no group)",tvg-shift="-1"AMC
 http://190.83.119.67:8000/play/a01f/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I913.90852.schedulesdirect.org",AMC HD (960p)
+#EXTINF:-1 tvg-id="I913.90852.schedulesdirect.org" tvg-name="AMC HD" tvg-logo="" group-title="(no group)",AMC HD
 http://190.83.119.67:8000/play/a01v/index.m3u8
-#EXTINF:1,ATV HD (1920p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV HD" tvg-logo="" group-title="(no group)",ATV HD
 http://168.121.46.90:8000/play/a05t/index.m3u8
-#EXTINF:1,ATV+ HD (1440p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV+ HD" tvg-logo="" group-title="(no group)",ATV+ HD
 http://168.121.46.90:8000/play/a05u/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I841.72534.schedulesdirect.org",AXN (544p)
+#EXTINF:-1 tvg-id="I841.72534.schedulesdirect.org" tvg-name="AXN" tvg-logo="" group-title="(no group)",AXN
 http://190.83.119.67:8000/play/a01d/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I78.72534.schedulesdirect.org",AXN HD (1920p)
+#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD" tvg-logo="" group-title="(no group)",AXN HD
 http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:1 tvg-id="I157.111305.schedulesdirect.org",AZ click HD (1920p)
+#EXTINF:-1 tvg-id="I157.111305.schedulesdirect.org" tvg-name="AZ click HD" tvg-logo="" group-title="(no group)",AZ click HD
 http://190.83.119.67:8000/play/a021/index.m3u8
-#EXTINF:1,AZ Cinema HD (1920p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ Cinema HD" tvg-logo="" group-title="(no group)",AZ Cinema HD
 http://168.194.171.33:8000/play/a0d0/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I23.96445.schedulesdirect.org",Animal Planet (544p)
+#EXTINF:-1 tvg-id="I23.96445.schedulesdirect.org" tvg-name="Animal Planet" tvg-logo="" group-title="(no group)",Animal Planet
 http://190.83.119.67:8000/play/a032/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I22.107374.schedulesdirect.org",Animal Planet HD (960p)
+#EXTINF:-1 tvg-id="I22.107374.schedulesdirect.org" tvg-name="Animal Planet HD" tvg-logo="" group-title="(no group)",Animal Planet HD
 http://190.83.119.67:8000/play/a01r/index.m3u8
-#EXTINF:1 tvg-id="I24.16800.schedulesdirect.org",Antena 3 (720p)
+#EXTINF:-1 tvg-id="I24.16800.schedulesdirect.org" tvg-name="Antena 3" tvg-logo="" group-title="(no group)",Antena 3
 http://190.83.119.67:8000/play/a004/index.m3u8
-#EXTINF:1 tvg-id="I25.83230.schedulesdirect.org",Antena 3 HD
+#EXTINF:-1 tvg-id="I25.83230.schedulesdirect.org" tvg-name="Antena 3 HD" tvg-logo="" group-title="(no group)",Antena 3 HD
 http://160.20.165.245:8000/play/a00e/index.m3u8
-#EXTINF:1 tvg-id="I185.89542.schedulesdirect.org",BBC World (544p)
+#EXTINF:-1 tvg-id="I185.89542.schedulesdirect.org" tvg-name="BBC World" tvg-logo="" group-title="(no group)",BBC World
 http://190.83.119.67:8000/play/a01h/index.m3u8
-#EXTINF:1 tvg-id="I823.50338.schedulesdirect.org",Baby First (544p)
+#EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org" tvg-name="Baby First" tvg-logo="" group-title="(no group)",Baby First
 http://190.83.119.67:8000/play/a029/index.m3u8
-#EXTINF:1,Baby TV (704p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby TV" tvg-logo="" group-title="(no group)",Baby TV
 http://190.83.119.67:8000/play/a002/index.m3u8
-#EXTINF:1 tvg-id="I119.16141.schedulesdirect.org",Cartoon Network (544p)
+#EXTINF:-1 tvg-id="I119.16141.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="" group-title="(no group)",Cartoon Network
 http://190.83.119.67:8000/play/a00x/index.m3u8
-#EXTINF:1 tvg-id="I118.101735.schedulesdirect.org",Cartoon Network HD (720p)
+#EXTINF:-1 tvg-id="I118.101735.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="" group-title="(no group)",Cartoon Network HD
 http://190.83.119.67:8000/play/a00o/index.m3u8
-#EXTINF:1 tvg-id="I358.10146.zap2it.com",CNN Internacional (544p)
+#EXTINF:-1 tvg-id="I358.10146.zap2it.com" tvg-name="CNN Internacional" tvg-logo="" group-title="(no group)",CNN Internacional
 http://190.83.119.67:8000/play/a00c/index.m3u8
-#EXTINF:1 tvg-id="I419.17054.zap2it.com",CNN En Espanol (544p)
+#EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN En Espanol" tvg-logo="" group-title="(no group)",CNN En Espanol
 http://190.83.119.67:8000/play/a01g/index.m3u8
-#EXTINF:1 tvg-id="I314.55719.schedulesdirect.org",Cartoonito (544p)
+#EXTINF:-1 tvg-id="I314.55719.schedulesdirect.org" tvg-name="Cartoonito" tvg-logo="" group-title="(no group)",Cartoonito
 http://190.83.119.67:8000/play/a00z/index.m3u8
-#EXTINF:1,Cine Latino (544p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Latino" tvg-logo="" group-title="(no group)",Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:1 tvg-shift="-1",CineCanal (544p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-shift="-1"CineCanal" tvg-logo="" group-title="(no group)",tvg-shift="-1"CineCanal
 http://45.166.92.22:58001/play/a02f/index.m3u8
-#EXTINF:1 tvg-shift="-1",CineCanal HD (1920p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvg-shift="-1"CineCanal HD" tvg-logo="" group-title="(no group)",tvg-shift="-1"CineCanal HD
 http://190.83.119.67:8000/play/a03b/index.m3u8
-#EXTINF:1 tvg-id="I307.10120.schedulesdirect.org",Cinemax HD
+#EXTINF:-1 tvg-id="I307.10120.schedulesdirect.org" tvg-name="Cinemax HD" tvg-logo="" group-title="(no group)",Cinemax HD
 http://168.121.46.90:8000/play/a056/index.m3u8
-#EXTINF:1,Clover HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD" tvg-logo="" group-title="(no group)",Clover HD
 http://190.43.92.145:8000/play/a0t1/index.m3u8
-#EXTINF:1 tvg-id="I837.74906.schedulesdirect.org",Comedy Central HD (1920p)
+#EXTINF:-1 tvg-id="I837.74906.schedulesdirect.org" tvg-name="Comedy Central HD" tvg-logo="" group-title="(no group)",Comedy Central HD
 http://190.83.119.67:8000/play/a03k/index.m3u8
-#EXTINF:1,De Pelicula
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Pelicula" tvg-logo="" group-title="(no group)",De Pelicula
 http://190.43.92.145:8000/play/a0zn/index.m3u8
-#EXTINF:1,DHE (544p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHE" tvg-logo="" group-title="(no group)",DHE
 http://190.83.119.67:8000/play/a00m/index.m3u8
-#EXTINF:1 tvg-id="I109.81622.schedulesdirect.org",DHE HD (960p)
+#EXTINF:-1 tvg-id="I109.81622.schedulesdirect.org" tvg-name="DHE HD" tvg-logo="" group-title="(no group)",DHE HD
 http://190.83.119.67:8000/play/a020/index.m3u8
-#EXTINF:1 tvg-id="I193.65940.schedulesdirect.org",Discovery Theater HD
+#EXTINF:-1 tvg-id="I193.65940.schedulesdirect.org" tvg-name="Discovery Theater HD" tvg-logo="" group-title="(no group)",Discovery Theater HD
 http://190.83.119.67:8000/play/a03h/index.m3u8
-#EXTINF:1 tvg-id="I183.91515.schedulesdirect.org",Discovery Channel
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
 http://190.83.119.67:8000/play/a031/index.m3u8
-#EXTINF:1 tvg-id="I183.91515.schedulesdirect.org",Discovery Channel HD
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel HD" tvg-logo="" group-title="(no group)",Discovery Channel HD
 http://190.83.119.67:8000/play/a041/index.m3u8
-#EXTINF:1 tvg-id="I383.109896.schedulesdirect.org",Discovery ID HD
+#EXTINF:-1 tvg-id="I383.109896.schedulesdirect.org" tvg-name="Discovery ID HD" tvg-logo="" group-title="(no group)",Discovery ID HD
 http://190.83.119.67:8000/play/a045/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I189.45955.schedulesdirect.org",Discovery Kids HD
+#EXTINF:-1 tvg-id="I189.45955.schedulesdirect.org" tvg-name="Discovery Kids HD" tvg-logo="" group-title="(no group)",Discovery Kids HD
 http://190.83.119.67:8000/play/a00f/index.m3u8
-#EXTINF:1,Discovery Turbo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="(no group)",Discovery Turbo
 http://168.121.46.90:8000/play/a01u/index.m3u8
-#EXTINF:1,Discovery Science
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="(no group)",Discovery Science
 http://190.83.119.67:8000/play/a007/index.m3u8
-#EXTINF:1,Discovery World HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD" tvg-logo="" group-title="(no group)",Discovery World HD
 http://190.83.119.67:8000/play/a042/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I197.79589.schedulesdirect.org",Disney HD
+#EXTINF:-1 tvg-id="I197.79589.schedulesdirect.org" tvg-name="Disney HD" tvg-logo="" group-title="(no group)",Disney HD
 http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:1 tvg-id="I199.61311.schedulesdirect.org",Disney JR SD
+#EXTINF:-1 tvg-id="I199.61311.schedulesdirect.org" tvg-name="Disney JR SD" tvg-logo="" group-title="(no group)",Disney JR SD
 http://190.83.119.67:8000/play/a010/index.m3u8
-#EXTINF:1,Dreamworks
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks" tvg-logo="" group-title="(no group)",Dreamworks
 http://190.60.39.198:8000/play/a09f/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I239.30259.schedulesdirect.org",E!
+#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E!" tvg-logo="" group-title="(no group)",E!
 http://190.83.119.67:8000/play/a02y/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I239.30259.schedulesdirect.org",E! Entertairment HD
+#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E! Entertairment HD" tvg-logo="" group-title="(no group)",E! Entertairment HD
 http://190.83.119.67:8000/play/a01s/index.m3u8
-#EXTINF:1,ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="(no group)",ESPN
 http://190.83.119.67:8000/play/a035/index.m3u8
-#EXTINF:1 tvg-id="I256.110964.schedulesdirect.org",ESPN HD
+#EXTINF:-1 tvg-id="I256.110964.schedulesdirect.org" tvg-name="ESPN HD" tvg-logo="" group-title="(no group)",ESPN HD
 http://190.83.119.67:8000/play/a03u/index.m3u8
-#EXTINF:1 tvg-id="I260.96876.schedulesdirect.org",ESPN 2
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2" tvg-logo="" group-title="(no group)",ESPN 2
 http://190.83.119.67:8000/play/a036/index.m3u8
-#EXTINF:1 tvg-id="I260.96876.schedulesdirect.org",ESPN 2 HD
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2 HD" tvg-logo="" group-title="(no group)",ESPN 2 HD
 http://190.83.119.67:8000/play/a03w/index.m3u8
-#EXTINF:1 tvg-id="I267.79049.schedulesdirect.org",ESPN 3
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="(no group)",ESPN 3
 http://190.83.119.67:8000/play/a02g/index.m3u8
-#EXTINF:1 tvg-id="I267.79049.schedulesdirect.org",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="(no group)",ESPN 3 HD
 http://190.83.119.67:8000/play/a03v/index.m3u8
-#EXTINF:1 tvg-id="I265.65930.schedulesdirect.org",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN EXTRA HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="(no group)",ESPN EXTRA HD
 http://168.121.46.90:8000/play/a04d/index.m3u8
-#EXTINF:1,EURO Channel
+#EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EURO Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="(no group)",EURO Channel
 http://190.83.119.67:8000/play/a02c/index.m3u8
-#EXTINF:1 tvg-id="I273.16350.schedulesdirect.org",EWTN
+#EXTINF:-1 tvg-id="EWTNEspanol.mx" tvg-name="EWTN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52649_dark_360w_270h.png" group-title="(no group)",EWTN
 http://190.83.119.67:8000/play/a01j/index.m3u8
-#EXTINF:1,El Gourmet
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="(no group)",El Gourmet
 http://190.83.119.67:8000/play/a02e/index.m3u8
-#EXTINF:1 tvg-id="I270.99979.schedulesdirect.org",Europa HD
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="(no group)",Europa HD
 http://190.83.119.67:8000/play/a01y/index.m3u8
-#EXTINF:1 tvg-id="I300.110959.schedulesdirect.org",FOX NEWS HD
+#EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="FOX NEWS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110959_dark_360w_270h.png" group-title="(no group)",FOX NEWS HD
 http://45.166.92.22:58001/play/a04p/index.m3u8
-#EXTINF:1 tvg-id="I893.71328.schedulesdirect.org",FOX Sports 2
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="(no group)",FOX Sports 2
 http://190.83.119.67:8000/play/a02h/index.m3u8
-#EXTINF:1 tvg-id="I893.71328.schedulesdirect.org",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="(no group)",FOX SPORTS 2 HD
 http://190.83.119.67:8000/play/a03f/index.m3u8
-#EXTINF:1 tvg-id="I894.105005.schedulesdirect.org",Fox Sport 3
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sport 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="(no group)",Fox Sport 3
 http://190.83.119.67:8000/play/a01a/index.m3u8
-#EXTINF:1 tvg-id="I894.105005.schedulesdirect.org",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="(no group)",FOX SPORTS 3 HD
 http://190.83.119.67:8000/play/a03x/index.m3u8
-#EXTINF:1 tvg-shift="-1",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="(no group)",FX
 http://190.83.119.67:8000/play/a02a/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I839.77617.schedulesdirect.org",FX HD
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="(no group)",FX HD
 http://190.83.119.67:8000/play/a01x/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I288.106731.schedulesdirect.org",Film & Arts
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film & Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="(no group)",Film & Arts
 http://190.83.119.67:8000/play/a00l/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I285.106731.schedulesdirect.org",Film & arts HD
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film & arts HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="(no group)",Film & arts HD
 http://190.83.119.67:8000/play/a01t/index.m3u8
-#EXTINF:1,Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="(no group)",Food Network
 http://181.78.21.60:16123/play/ch28
-#EXTINF:1 tvg-id="I9862.58685.schedulesdirect.org",France24
+#EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="(no group)",France24
 http://45.166.92.22:58001/play/a057/index.m3u8
-#EXTINF:1,Glitz HD
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="(no group)",Glitz HD
 http://190.60.39.198:8000/play/a09q/index.m3u8
-#EXTINF:1,Globovision SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globovision SD" tvg-logo="" group-title="(no group)",Globovision SD
 http://190.43.92.145:8000/play/a0yz/index.m3u8
-#EXTINF:1 tvg-id="I607.16298.schedulesdirect.org",Golden
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="(no group)",Golden
 http://168.121.46.90:8000/play/a02g/index.m3u8
-#EXTINF:1 tvg-id="I607.16298.schedulesdirect.org",Golden HD
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="(no group)",Golden HD
 http://181.119.66.30:8000/play/a004/index.m3u8
-#EXTINF:1 tvg-id="I337.68317.schedulesdirect.org",Golden Plus HD
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="(no group)",Golden Plus HD
 http://181.78.75.11:9500/play/a01d/index.m3u8
-#EXTINF:1tvg-id="I643.80804.schedulesdirect.org",Golden Premiere HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premiere HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="(no group)",Golden Premiere HD
 http://190.83.119.67:8000/play/a00g/index.m3u8
-#EXTINF:1 tvg-id="I644.80805.schedulesdirect.org",Golden Premiere 2 HD
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premiere 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="(no group)",Golden Premiere 2 HD
 http://190.83.119.67:8000/play/a00h/index.m3u8
-#EXTINF:1 tvg-shift="1" tvg-id="I608.16423.schedulesdirect.org",Golden Edge
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="(no group)",Golden Edge
 http://181.78.21.60:16123/play/ch47
-#EXTINF:1 tvg-shift="1" tvg-id="I608.16423.schedulesdirect.org",Golden Edge HD
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="(no group)",Golden Edge HD
 http://177.93.52.98:45001/play/a0cu
-#EXTINF:1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel(English).mx" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="(no group)",Golf Channel
 http://190.83.119.67:8000/play/a00b/index.m3u8
-#EXTINF:1 tvg-id="I345.14899.schedulesdirect.org",Golf Channel HD
+#EXTINF:-1 tvg-id="GolfChannel(English).mx" tvg-name="Golf Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="(no group)",Golf Channel HD
 http://190.83.119.67:8000/play/a023/index.m3u8
-#EXTINF:1 tvg-id="I345.84823.schedulesdirect.org",HBO HD
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="(no group)",HBO HD
 http://190.83.119.67:8000/play/a00p/index.m3u8
-#EXTINF:1 tvg-id="I348.80652.schedulesdirect.org",HBO2 HD
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="(no group)",HBO2 HD
 http://190.83.119.67:8000/play/a00q/index.m3u8
-#EXTINF:1 tvg-id="I359.82003.schedulesdirect.org",HBO Plus HD
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="(no group)",HBO Plus HD
 http://190.83.119.67:8000/play/a00r/index.m3u8
-#EXTINF:1 tvg-id="I350.34879.schedulesdirect.org",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="(no group)",HBO Family HD
 http://190.83.119.67:8000/play/a00s/index.m3u8
-#EXTINF:1 tvg-id="I370.80115.schedulesdirect.org",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="(no group)",HBO Xtreme HD
 http://190.83.119.67:8000/play/a00t/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I358.87164.schedulesdirect.org",HBO Mundi SD
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="(no group)",HBO Mundi SD
 http://190.43.92.145:8000/play/a0zo/index.m3u8
-#EXTINF:1 tvg-id="I927.68301.schedulesdirect.org",HBO POP HD
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="(no group)",HBO POP HD
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/30348
-#EXTINF:1 tvg-id="I379.62161.schedulesdirect.org",Hola! TV
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="Hola! TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="(no group)",Hola! TV
 http://190.83.119.67:8000/play/a008/index.m3u8
-#EXTINF:1 tvg-id="I379.62161.schedulesdirect.org",Hola! TV HD
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="Hola! TV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="(no group)",Hola! TV HD
 http://190.83.119.67:8000/play/a03j/index.m3u8
-#EXTINF:1 tvg-id="I383.15969.schedulesdirect.org",HTV
+#EXTINF:-1 tvg-id="HTV.mx" tvg-name="HTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="(no group)",HTV
 http://190.83.119.67:8000/play/a02l/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I373.40137.schedulesdirect.org",History Channel
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="(no group)",History Channel
 http://190.83.119.67:8000/play/a033/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I372.70669.schedulesdirect.org",History Channel HD
+#EXTINF:-1 tvg-id="History.mx" tvg-name="History Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="(no group)",History Channel HD
 http://190.83.119.67:8000/play/a01k/index.m3u8
-#EXTINF:1 tvg-id="I375.80374.schedulesdirect.org",H2
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="(no group)",H2
 http://190.83.119.67:8000/play/a02d/index.m3u8
-#EXTINF:1 tvg-id="I375.80374.schedulesdirect.org",History 2 HD
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="(no group)",History 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:1 tvg-id="I187.76960.schedulesdirect.org",Home & Health HD
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Home & Health HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="(no group)",Home & Health HD
 http://190.83.119.67:8000/play/a03i/index.m3u8
-#EXTINF:1 tvg-id="I370.111055.schedulesdirect.org",Home Garden Latino
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="Home Garden Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="(no group)",Home Garden Latino
 http://190.83.119.67:8000/play/a006/index.m3u8
-#EXTINF:1,I-Sat SD
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="(no group)",I-Sat SD
 http://168.121.46.90:8000/play/a008/index.m3u8
-#EXTINF:1 tvg-id="I406.100088.schedulesdirect.org",Lifetime SD
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="(no group)",Lifetime SD
 http://190.83.119.67:8000/play/a019/index.m3u8
-#EXTINF:1,MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="(no group)",MTV 00s
 http://190.83.119.67:8000/play/a02k/index.m3u8
-#EXTINF:1 tvg-id="I430.120767.schedulesdirect.org",MTV 00s HD
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="(no group)",MTV 00s HD
 http://190.83.119.67:8000/play/a03m/index.m3u8
-#EXTINF:1 tvg-id="I431.65060.schedulesdirect.org",MTV 80s
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="(no group)",MTV 80s
 http://190.83.119.67:8000/play/a01c/index.m3u8
-#EXTINF:1 tvg-id="I428.84432.schedulesdirect.org",MTV HD
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="(no group)",MTV HD
 http://190.83.119.67:8000/play/a01m/index.m3u8
-#EXTINF:1 tvg-id="I437.67787.schedulesdirect.org",MTV Hits
+#EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="MTV Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" group-title="(no group)",MTV Hits
 http://190.83.119.67:8000/play/a01b/index.m3u8
-#EXTINF:1 tvg-id="I435.66419.schedulesdirect.org",MTV Live HD
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="(no group)",MTV Live HD
 http://190.83.119.67:8000/play/a03l/index.m3u8
-#EXTINF:1,Mas Chic
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="(no group)",Mas Chic
 http://190.83.119.67:8000/play/a04m/index.m3u8
-#EXTINF:1 tvg-id="I415.18329.schedulesdirect.org",Multicinema SD
+#EXTINF:-1 tvg-id="I415.18329.schedulesdirect.org" tvg-name="Multicinema SD" tvg-logo="" group-title="(no group)",Multicinema SD
 http://190.83.119.67:8000/play/a02o/index.m3u8
-#EXTINF:1,Multipremier**
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier**" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="(no group)",Multipremier**
 http://190.83.119.67:8000/play/a04n/index.m3u8
-#EXTINF:1 tvg-shift="-1",Nat Geo
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="Nat Geo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="(no group)",Nat Geo
 http://190.83.119.67:8000/play/a018/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I403.25068.schedulesdirect.org",Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="Nat Geo HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="(no group)",Nat Geo HD
 http://190.83.119.67:8000/play/a03y/index.m3u8
-#EXTINF:1 tvg-id="I301.82649.zap2it.com",Nick Jr SD
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="(no group)",Nick Jr SD
 http://190.83.119.67:8000/play/a00y/index.m3u8
-#EXTINF:1 tvg-id="I316.16707.schedulesdirect.org",Nick HD
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="(no group)",Nick HD
 http://190.83.119.67:8000/play/a03e/index.m3u8
-#EXTINF:1 tvg-id="I502.72625.schedulesdirect.org",PX Sports TV
+#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PX Sports TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72625_dark_360w_270h.png" group-title="(no group)",PX Sports TV
 http://190.83.119.67:8000/play/a02i/index.m3u8
-#EXTINF:1 tvg-id="I483.106214.schedulesdirect.org",Paramount
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="(no group)",Paramount
 http://190.83.119.67:8000/play/a00n/index.m3u8
-#EXTINF:1 tvg-id="I485.91120.schedulesdirect.org",Paramount HD
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="(no group)",Paramount HD
 http://190.83.119.67:8000/play/a03z/index.m3u8
-#EXTINF:1 tvg-id="I491.71621.schedulesdirect.org",Pasiones HD
+#EXTINF:-1 tvg-id="PasionesTV.mx" tvg-name="Pasiones HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="(no group)",Pasiones HD
 http://190.83.119.67:8000/play/a043/index.m3u8
-#EXTINF:1,RCN Novelas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN Novelas" tvg-logo="" group-title="(no group)",RCN Novelas
 http://190.83.119.67:8000/play/a02b/index.m3u8
-#EXTINF:1 tvg-id="I551.69367.schedulesdirect.org",RT Espanol HD
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT Espanol HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_dark_360w_270h.png" group-title="(no group)",RT Espanol HD
 http://45.166.92.22:58001/play/a05j/index.m3u8
-#EXTINF:1 tvg-id="I113.70312.schedulesdirect.org",Sony
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="(no group)",Sony
 http://190.83.119.67:8000/play/a02w/index.m3u8
-#EXTINF:1 tvg-id="I114.19385.schedulesdirect.org",Sony HD
+#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="(no group)",Sony HD
 http://190.83.119.67:8000/play/a03a/index.m3u8
-#EXTINF:1 tvg-id="I212.19385.schedulesdirect.org",Sony Movies HD*
+#EXTINF:-1 tvg-id="SonyMovies.mx" tvg-name="Sony Movies HD*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" group-title="(no group)",Sony Movies HD*
 http://190.83.119.67:8000/play/a01z/index.m3u8
-#EXTINF:1 tvg-id="I526.60801.schedulesdirect.org",Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="(no group)",Space
 http://190.83.119.67:8000/play/a015/index.m3u8
-#EXTINF:1 tvg-id="I526.60801.schedulesdirect.org",Space HD
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="(no group)",Space HD
 http://45.166.92.22:58001/play/a02o/index.m3u8
-#EXTINF:1 tvg-id="I527.88534.schedulesdirect.org",Star Channel HD
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="(no group)",Star Channel HD
 http://190.83.119.67:8000/play/a038/index.m3u8
-#EXTINF:1 tvg-id="I533.106724.schedulesdirect.org",Star TVE HD
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="(no group)",Star TVE HD
 http://190.83.119.67:8000/play/a022/index.m3u8
-#EXTINF:1,Stingray Concerts HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Concerts HD" tvg-logo="" group-title="(no group)",Stingray Concerts HD
 http://190.43.92.145:8000/play/a0ol/index.m3u8
-#EXTINF:1 tvg-id="I915.90605.schedulesdirect.org",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="(no group)",Studio Universal HD
 http://190.83.119.67:8000/play/a01q/index.m3u8
-#EXTINF:1,Sun Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Channel" tvg-logo="" group-title="(no group)",Sun Channel
 http://190.83.119.67:8000/play/a02f/index.m3u8
-#EXTINF:1 tvg-id="I625.101327.schedulesdirect.org",SyFy
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SyFy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="(no group)",SyFy
 http://190.83.119.67:8000/play/a030/index.m3u8
-#EXTINF:1 tvg-id="I625.101327.schedulesdirect.org",Syfy HD
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="Syfy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="(no group)",Syfy HD
 http://181.119.66.30:8000/play/56/index.m3u8
-#EXTINF:1 tvg-id="I266.33527.schedulesdirect.org",TBN Enlace
+#EXTINF:-1 tvg-id="ETBNEnlaceUSA.mx" tvg-name="TBN Enlace" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33527_dark_360w_270h.png" group-title="(no group)",TBN Enlace
 http://190.83.119.67:8000/play/a01i/index.m3u8
-#EXTINF:1 tvg-id="I622.75073.schedulesdirect.org",TBS SD
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="(no group)",TBS SD
 http://190.83.119.67:8000/play/a017/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I622.75073.schedulesdirect.org",TBS Very Funny HD
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS Very Funny HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="(no group)",TBS Very Funny HD
 http://168.194.171.33:8000/play/a09s/index.m3u8
-#EXTINF:1 tvg-id="I623.19246.schedulesdirect.org",TCM
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="(no group)",TCM
 http://190.83.119.67:8000/play/a02n/index.m3u8
-#EXTINF:1 tvg-id="I623.19246.schedulesdirect.org",TCM HD
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="(no group)",TCM HD
 http://190.60.39.198:8000/play/a0ab/index.m3u8
-#EXTINF:1 tvg-id="I871.72294.schedulesdirect.org",Teen Nick HD
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="Teen Nick HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="(no group)",Teen Nick HD
 http://190.83.119.67:8000/play/a01p/index.m3u8
-#EXTINF:1 tvg-id="I629.15211.schedulesdirect.org",Telehit HD
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="(no group)",Telehit HD
 http://168.121.46.90:8000/play/a01z/index.m3u8
-#EXTINF:1 tvg-id="I205.64835.schedulesdirect.org",Telemundo
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="(no group)",Telemundo
 http://190.83.119.67:8000/play/a013/index.m3u8
-#EXTINF:1 tvg-id="I205.64835.schedulesdirect.org",Telemundo HD
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="(no group)",Telemundo HD
 http://190.83.119.67:8000/play/a01w/index.m3u8
-#EXTINF:1 tvg-id="I51.4.79548.zap2it.com",Telemundo Miami 51
+#EXTINF:-1 tvg-id="I51.4.79548.zap2it.com" tvg-name="Telemundo Miami 51" tvg-logo="" group-title="(no group)",Telemundo Miami 51
 http://45.166.92.22:58001/play/a05i/index.m3u8
-#EXTINF:1,Televen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televen" tvg-logo="" group-title="(no group)",Televen
 http://181.119.66.30:8000/play/44/index.m3u8
-#EXTINF:1,Tigo Sports HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tigo Sports HD" tvg-logo="" group-title="(no group)",Tigo Sports HD
 http://190.83.119.67:8000/play/a03d/index.m3u8
-#EXTINF:1 tvg-shift="-1",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)",TLC
 http://190.83.119.67:8000/play/a034/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I644.19384.schedulesdirect.org",TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="(no group)",TNT
 http://190.83.119.67:8000/play/a01e/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I643.80807.schedulesdirect.org",TNT HD
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="(no group)",TNT HD
 http://190.83.119.67:8000/play/a03g/index.m3u8
-#EXTINF:1 tvg-id="I648.92075.schedulesdirect.org",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="(no group)",TNT Series
 http://190.83.119.67:8000/play/a016/index.m3u8
-#EXTINF:1 tvg-id="I648.92075.schedulesdirect.org",TNT Series HD
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="(no group)",TNT Series HD
 http://190.83.119.67:8000/play/a040/index.m3u8
-#EXTINF:1 tvg-id="I323.63109.schedulesdirect.org",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="(no group)",Tooncast
 http://190.83.119.67:8000/play/a02u/index.m3u8
-#EXTINF:1 tvg-id="I861.68223.schedulesdirect.org",TruTV
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="(no group)",TruTV
 http://190.83.119.67:8000/play/a012/index.m3u8
-#EXTINF:1 tvg-id="I861.68223.schedulesdirect.org",TruTV HD
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="(no group)",TruTV HD
 http://168.121.46.90:8000/play/a059/index.m3u8
-#EXTINF:1 tvg-id="I666.16046.schedulesdirect.org",TVChile
+#EXTINF:-1 tvg-id="I666.16046.schedulesdirect.org" tvg-name="TVChile" tvg-logo="" group-title="(no group)",TVChile
 http://190.83.119.67:8000/play/a005/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I0.122767.schedulesdirect.org",Universal Cinema Este HD
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="Universal Cinema Este HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="(no group)",Universal Cinema Este HD
 http://190.83.119.67:8000/play/a046/index.m3u8
-#EXTINF:1,Universal Comedy HD
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="(no group)",Universal Comedy HD
 http://190.83.119.67:8000/play/a03r/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I685.122765.schedulesdirect.org",Universal Crime HD
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="Universal Crime HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="(no group)",Universal Crime HD
 http://190.83.119.67:8000/play/a03q/index.m3u8
-#EXTINF:1 tvg-shift="-3" tvg-id="I686.122761.schedulesdirect.org",Universal Premiere HD
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="(no group)",Universal Premiere HD
 http://190.83.119.67:8000/play/a03n/index.m3u8
-#EXTINF:1 tvg-id="I686.122761.schedulesdirect.org",Universal Premiere O HD
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="Universal Premiere O HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="(no group)",Universal Premiere O HD
 http://190.83.119.67:8000/play/a03o/index.m3u8
-#EXTINF:1,Universal Reality HD
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="(no group)",Universal Reality HD
 http://190.83.119.67:8000/play/a03p/index.m3u8
-#EXTINF:1,Univision HD
+#EXTINF:-1 tvg-id="UnivisionTDN.mx" tvg-name="Univision HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="(no group)",Univision HD
 http://190.83.119.67:8000/play/a044/index.m3u8
-#EXTINF:1,Venevision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venevision" tvg-logo="" group-title="(no group)",Venevision
 http://181.119.66.30:8000/play/42/index.m3u8
-#EXTINF:1 tvg-id="I409.102305.zap2it.com",Ve Plus
+#EXTINF:-1 tvg-id="I409.102305.zap2it.com" tvg-name="Ve Plus" tvg-logo="" group-title="(no group)",Ve Plus
 http://181.78.21.60:16123/play/ch36
-#EXTINF:1,Vive
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vive" tvg-logo="" group-title="(no group)",Vive
 http://168.121.46.90:8000/play/a03s/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I710.98111.schedulesdirect.org",Warner
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="(no group)",Warner
 http://190.83.119.67:8000/play/a02x/index.m3u8
-#EXTINF:1 tvg-shift="-1" tvg-id="I711.80808.schedulesdirect.org",Warner HD
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="(no group)",Warner HD
 http://190.83.119.67:8000/play/a039/index.m3u8
-#EXTINF:1 tvg-id="I1220.89973.schedulesdirect.org",ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.mx" tvg-name="ZooMoo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89920_dark_360w_270h.png" group-title="(no group)",ZooMoo
 http://190.83.119.67:8000/play/a003/index.m3u8
