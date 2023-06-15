@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXTINF:1 tvg-id="A.and.E.(Mexico).(AandE).mx",A&E (540p)
 http://190.83.119.67:8000/play/a02z/index.m3u8
-#EXTINF:1 tvg-id="A.and.E.(Mexico).(AandE).mx",A&E HD (720p)
+#EXTINF:1 tvg-id="AandE.mx(m3u4u)",A&E HD (720p)
 http://190.83.119.67:8000/play/a01u/index.m3u8
 #EXTINF:1 tvg-shift="-3" tvg-id="I850.87004.schedulesdirect.org",A&E HD (1920p)
 http://168.194.171.33:8000/play/a05n/index.m3u8
