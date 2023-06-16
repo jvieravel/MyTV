@@ -1,325 +1,325 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E (540p)" tvg-logo="" group-title="(no group)" tvg-shift="-1",A&E (540p)
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E (540p)" tvg-logo="" group-title="(no group)",A&E (540p)
 http://190.83.119.67:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD (720)" tvg-logo="" group-title="(no group)" tvg-shift="-1",A&E HD (720)
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD (720)" tvg-logo="" group-title="(no group)",A&E HD (720)
 http://190.83.119.67:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD (1920p)" tvg-logo="" group-title="(no group)" tvg-shift="-2",A&E HD (1920p)
+#EXTINF:-1 tvg-id="I850.87004.schedulesdirect.org" tvg-name="A&E HD (1920p)" tvg-logo="" group-title="(no group)",A&E HD (1920p)
 http://168.194.171.33:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="A3S Atreseries (1920p)" tvg-logo="" group-title="(no group)",A3S Atreseries (1920p)
 http://168.194.171.33:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC (544p)" tvg-logo="" group-title="(no group)" tvg-shift="-1",AMC (544p)
+#EXTINF:-1 tvg-id="I913.90852.schedulesdirect.org" tvg-name="AMC (544p)" tvg-logo="" group-title="(no group)",AMC (544p)
 http://190.83.119.67:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="I913.90852.schedulesdirect.org" tvg-name="AMC HD (960p)" tvg-logo="" group-title="(no group)" tvg-shift="-1",AMC HD (960p)
+#EXTINF:-1 tvg-id="I913.90852.schedulesdirect.org" tvg-name="AMC HD (960p)" tvg-logo="" group-title="(no group)",AMC HD (960p)
 http://190.83.119.67:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV HD (1920p)" tvg-logo="" group-title="(no group)",ATV HD (1920p)
 http://168.121.46.90:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATV+ HD (1440p)" tvg-logo="" group-title="(no group)",ATV+ HD (1440p)
 http://168.121.46.90:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="I841.72534.schedulesdirect.org" tvg-name="AXN (544p)" tvg-logo="" group-title="(no group)" tvg-shift="-1",AXN (544p)
+#EXTINF:-1 tvg-id="I841.72534.schedulesdirect.org" tvg-name="AXN (544p)" tvg-logo="" group-title="(no group)",AXN (544p)
 http://190.83.119.67:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD (1920p)" tvg-logo="" group-title="(no group)" tvg-shift="-1",AXN HD (1920p)
+#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD (1920p)" tvg-logo="" group-title="(no group)",AXN HD (1920p)
 http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="I157.111305.schedulesdirect.org" tvg-name="AZ click HD" tvg-logo="" group-title="(no group)",AZ click HD
+#EXTINF:-1 tvg-id="I157.111305.schedulesdirect.org" tvg-name="AZ click HD (1920p)" tvg-logo="" group-title="(no group)",AZ click HD (1920p)
 http://190.83.119.67:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ Cinema HD" tvg-logo="" group-title="(no group)",AZ Cinema HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZ Cinema HD (1920p)" tvg-logo="" group-title="(no group)",AZ Cinema HD (1920p)
 http://168.194.171.33:8000/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-id="I23.96445.schedulesdirect.org" tvg-name="Animal Planet" tvg-logo="" group-title="(no group)" tvg-shift="-1",Animal Planet
+#EXTINF:-1 tvg-id="I23.96445.schedulesdirect.org" tvg-name="Animal Planet (544p)" tvg-logo="" group-title="(no group)",Animal Planet (544p)
 http://190.83.119.67:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="I22.107374.schedulesdirect.org" tvg-name="Animal Planet HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Animal Planet HD
+#EXTINF:-1 tvg-id="I22.107374.schedulesdirect.org" tvg-name="Animal Planet HD (960p)" tvg-logo="" group-title="(no group)",Animal Planet HD (960p)
 http://190.83.119.67:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="I24.16800.schedulesdirect.org" tvg-name="Antena 3" tvg-logo="" group-title="(no group)",Antena 3
+#EXTINF:-1 tvg-id="I24.16800.schedulesdirect.org" tvg-name="Antena 3 (720p)" tvg-logo="" group-title="(no group)",Antena 3 (720p)
 http://190.83.119.67:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="I25.83230.schedulesdirect.org" tvg-name="Antena 3 HD" tvg-logo="" group-title="(no group)",Antena 3 HD
+#EXTINF:-1 tvg-id="I25.83230.schedulesdirect.org" tvg-name="Antena 3 HD ***" tvg-logo="" group-title="(no group)",Antena 3 HD ***
 http://160.20.165.245:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="I185.89542.schedulesdirect.org" tvg-name="BBC World" tvg-logo="" group-title="(no group)",BBC World
+#EXTINF:-1 tvg-id="I185.89542.schedulesdirect.org" tvg-name="BBC World (544p)" tvg-logo="" group-title="(no group)",BBC World (544p)
 http://190.83.119.67:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org" tvg-name="Baby First" tvg-logo="" group-title="(no group)",Baby First
+#EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org" tvg-name="Baby First (544p)" tvg-logo="" group-title="(no group)",Baby First (544p)
 http://190.83.119.67:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby TV" tvg-logo="" group-title="(no group)",Baby TV
+#EXTINF:-1 tvg-id="I306.56036.schedulesdirect.org" tvg-name="Baby TV (704p)" tvg-logo="" group-title="(no group)",Baby TV (704p)
 http://190.83.119.67:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="I119.16141.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="" group-title="(no group)",Cartoon Network
+#EXTINF:-1 tvg-id="I119.16141.schedulesdirect.org" tvg-name="Cartoon Network (544p)" tvg-logo="" group-title="(no group)",Cartoon Network (544p)
 http://190.83.119.67:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="I118.101735.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="" group-title="(no group)",Cartoon Network HD
+#EXTINF:-1 tvg-id="I118.101735.schedulesdirect.org" tvg-name="Cartoon Network HD (720p)" tvg-logo="" group-title="(no group)",Cartoon Network HD (720p)
 http://190.83.119.67:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="I358.10146.zap2it.com" tvg-name="CNN Internacional" tvg-logo="" group-title="(no group)",CNN Internacional
+#EXTINF:-1 tvg-id="I358.10146.zap2it.com" tvg-name="CNN Internacional (544p)" tvg-logo="" group-title="(no group)",CNN Internacional (544p)
 http://190.83.119.67:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN En Espanol" tvg-logo="" group-title="(no group)",CNN En Espanol
+#EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN En Espanol (544p)" tvg-logo="" group-title="(no group)",CNN En Espanol (544p)
 http://190.83.119.67:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="I314.55719.schedulesdirect.org" tvg-name="Cartoonito" tvg-logo="" group-title="(no group)",Cartoonito
+#EXTINF:-1 tvg-id="I314.55719.schedulesdirect.org" tvg-name="Cartoonito (544p)" tvg-logo="" group-title="(no group)",Cartoonito (544p)
 http://190.83.119.67:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Latino" tvg-logo="" group-title="(no group)",Cine Latino
+#EXTINF:-1 tvg-id="I128.15296.schedulesdirect.org" tvg-name="Cine Latino (544p)" tvg-logo="" group-title="(no group)",Cine Latino (544p)
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineCanal" tvg-logo="" group-title="(no group)" tvg-shift="-1",CineCanal
+#EXTINF:-1 tvg-id="I624.16435.schedulesdirect.org" tvg-name="CineCanal (544p)" tvg-logo="" group-title="(no group)",CineCanal (544p)
 http://45.166.92.22:58001/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineCanal HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",CineCanal HD
+#EXTINF:-1 tvg-id="I917.67687.schedulesdirect.org" tvg-name="CineCanal HD (1920p)" tvg-logo="" group-title="(no group)",CineCanal HD (1920p)
 http://190.83.119.67:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="I307.10120.schedulesdirect.org" tvg-name="Cinemax HD" tvg-logo="" group-title="(no group)",Cinemax HD
+#EXTINF:-1 tvg-id="I307.10120.schedulesdirect.org" tvg-name="Cinemax HD ***" tvg-logo="" group-title="(no group)",Cinemax HD ***
 http://168.121.46.90:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD" tvg-logo="" group-title="(no group)",Clover HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clover HD ***" tvg-logo="" group-title="(no group)",Clover HD ***
 http://190.43.92.145:8000/play/a0t1/index.m3u8
-#EXTINF:-1 tvg-id="I837.74906.schedulesdirect.org" tvg-name="Comedy Central HD" tvg-logo="" group-title="(no group)",Comedy Central HD
+#EXTINF:-1 tvg-id="I837.74906.schedulesdirect.org" tvg-name="Comedy Central HD (1920p)" tvg-logo="" group-title="(no group)",Comedy Central HD (1920p)
 http://190.83.119.67:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Pelicula" tvg-logo="" group-title="(no group)",De Pelicula
+#EXTINF:-1 tvg-id="I176.16288.schedulesdirect.org" tvg-name="De Pelicula ***" tvg-logo="" group-title="(no group)",De Pelicula ***
 http://190.43.92.145:8000/play/a0zn/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHE" tvg-logo="" group-title="(no group)",DHE
+#EXTINF:-1 tvg-id="I109.81622.schedulesdirect.org" tvg-name="DHE (544p)" tvg-logo="" group-title="(no group)",DHE (544p)
 http://190.83.119.67:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="I109.81622.schedulesdirect.org" tvg-name="DHE HD" tvg-logo="" group-title="(no group)",DHE HD
+#EXTINF:-1 tvg-id="I109.81622.schedulesdirect.org" tvg-name="DHE HD (960p)" tvg-logo="" group-title="(no group)",DHE HD (960p)
 http://190.83.119.67:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="I193.65940.schedulesdirect.org" tvg-name="Discovery Theater HD" tvg-logo="" group-title="(no group)",Discovery Theater HD
+#EXTINF:-1 tvg-id="I193.65940.schedulesdirect.org" tvg-name="Discovery Theater HD (1440p)" tvg-logo="" group-title="(no group)",Discovery Theater HD (1440p)
 http://190.83.119.67:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel (544p)" tvg-logo="" group-title="(no group)",Discovery Channel (544p)
 http://190.83.119.67:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel HD" tvg-logo="" group-title="(no group)",Discovery Channel HD
+#EXTINF:-1 tvg-id="I183.91515.schedulesdirect.org" tvg-name="Discovery Channel HD (1920p)" tvg-logo="" group-title="(no group)",Discovery Channel HD (1920p)
 http://190.83.119.67:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-id="I383.109896.schedulesdirect.org" tvg-name="Discovery ID HD" tvg-logo="" group-title="(no group)",Discovery ID HD
+#EXTINF:-1 tvg-id="I383.109896.schedulesdirect.org" tvg-name="Discovery ID HD (1920p)" tvg-logo="" group-title="(no group)",Discovery ID HD (1920p)
 http://190.83.119.67:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="I189.45955.schedulesdirect.org" tvg-name="Discovery Kids HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Discovery Kids HD
+#EXTINF:-1 tvg-id="I189.45955.schedulesdirect.org" tvg-name="Discovery Kids HD (960p)" tvg-logo="" group-title="(no group)",Discovery Kids HD (960p)
 http://190.83.119.67:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="(no group)",Discovery Turbo
+#EXTINF:-1 tvg-id="I195.46608.schedulesdirect.org" tvg-name="Discovery Turbo ***" tvg-logo="" group-title="(no group)",Discovery Turbo ***
 http://168.121.46.90:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="(no group)",Discovery Science
+#EXTINF:-1 tvg-id="I421.46610.schedulesdirect.org" tvg-name="Discovery Science (720p)" tvg-logo="" group-title="(no group)",Discovery Science (720p)
 http://190.83.119.67:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD" tvg-logo="" group-title="(no group)",Discovery World HD
+#EXTINF:-1 tvg-id="I848.66488.schedulesdirect.org" tvg-name="Discovery World HD (1920p)" tvg-logo="" group-title="(no group)",Discovery World HD (1920p)
 http://190.83.119.67:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="I197.79589.schedulesdirect.org" tvg-name="Disney HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Disney HD
+#EXTINF:-1 tvg-id="I197.79589.schedulesdirect.org" tvg-name="Disney HD (1920p)" tvg-logo="" group-title="(no group)",Disney HD (1920p)
 http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="I199.61311.schedulesdirect.org" tvg-name="Disney JR SD" tvg-logo="" group-title="(no group)",Disney JR SD
+#EXTINF:-1 tvg-id="I199.61311.schedulesdirect.org" tvg-name="Disney JR SD (544p)" tvg-logo="" group-title="(no group)",Disney JR SD (544p)
 http://190.83.119.67:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks" tvg-logo="" group-title="(no group)",Dreamworks
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks (1920p)" tvg-logo="" group-title="(no group)",Dreamworks (1920p)
 http://190.60.39.198:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E!" tvg-logo="" group-title="(no group)" tvg-shift="-1",E!
+#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E! (544p)" tvg-logo="" group-title="(no group)",E! (544p)
 http://190.83.119.67:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E! Entertairment HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",E! Entertairment HD
+#EXTINF:-1 tvg-id="I239.30259.schedulesdirect.org" tvg-name="E! Entertairment HD (1920p)" tvg-logo="" group-title="(no group)",E! Entertairment HD (1920p)
 http://190.83.119.67:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="(no group)",ESPN
+#EXTINF:-1 tvg-id="I256.110964.schedulesdirect.org" tvg-name="ESPN (544p)" tvg-logo="" group-title="(no group)",ESPN (544p)
 http://190.83.119.67:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="I256.110964.schedulesdirect.org" tvg-name="ESPN HD" tvg-logo="" group-title="(no group)",ESPN HD
+#EXTINF:-1 tvg-id="I256.110964.schedulesdirect.org" tvg-name="ESPN HD (1280p)" tvg-logo="" group-title="(no group)",ESPN HD (1280p)
 http://190.83.119.67:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2" tvg-logo="" group-title="(no group)",ESPN 2
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2 (544p)" tvg-logo="" group-title="(no group)",ESPN 2 (544p)
 http://190.83.119.67:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2 HD" tvg-logo="" group-title="(no group)",ESPN 2 HD
+#EXTINF:-1 tvg-id="I260.96876.schedulesdirect.org" tvg-name="ESPN 2 HD (1280p)" tvg-logo="" group-title="(no group)",ESPN 2 HD (1280p)
 http://190.83.119.67:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org" tvg-name="ESPN 3" tvg-logo="" group-title="(no group)",ESPN 3
+#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org" tvg-name="ESPN 3 (352p)" tvg-logo="" group-title="(no group)",ESPN 3 (352p)
 http://190.83.119.67:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org" tvg-name="ESPN 3 HD" tvg-logo="" group-title="(no group)",ESPN 3 HD
+#EXTINF:-1 tvg-id="I267.79049.schedulesdirect.org" tvg-name="ESPN 3 HD (1280p)" tvg-logo="" group-title="(no group)",ESPN 3 HD (1280p)
 http://190.83.119.67:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="I265.65930.schedulesdirect.org" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="(no group)",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="I265.65930.schedulesdirect.org" tvg-name="ESPN EXTRA HD ***" tvg-logo="" group-title="(no group)",ESPN EXTRA HD ***
 http://168.121.46.90:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURO Channel" tvg-logo="" group-title="(no group)",EURO Channel
+#EXTINF:-1 tvg-id="I267.16574.schedulesdirect.org" tvg-name="EURO Channel (544p)" tvg-logo="" group-title="(no group)",EURO Channel (544p)
 http://190.83.119.67:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="I273.16350.schedulesdirect.org" tvg-name="EWTN" tvg-logo="" group-title="(no group)",EWTN
+#EXTINF:-1 tvg-id="I273.16350.schedulesdirect.org" tvg-name="EWTN (544p)" tvg-logo="" group-title="(no group)",EWTN (544p)
 http://190.83.119.67:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Gourmet" tvg-logo="" group-title="(no group)",El Gourmet
+#EXTINF:-1 tvg-id="I227.45910.schedulesdirect.org" tvg-name="El Gourmet (544p)" tvg-logo="" group-title="(no group)",El Gourmet (544p)
 http://190.83.119.67:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="I270.99979.schedulesdirect.org" tvg-name="Europa HD" tvg-logo="" group-title="(no group)",Europa HD
+#EXTINF:-1 tvg-id="I270.99979.schedulesdirect.org" tvg-name="Europa HD (1920p)" tvg-logo="" group-title="(no group)",Europa HD (1920p)
 http://190.83.119.67:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="I300.110959.schedulesdirect.org" tvg-name="FOX NEWS HD" tvg-logo="" group-title="(no group)",FOX NEWS HD
+#EXTINF:-1 tvg-id="I300.110959.schedulesdirect.org" tvg-name="FOX NEWS HD (1920p)" tvg-logo="" group-title="(no group)",FOX NEWS HD (1920p)
 http://45.166.92.22:58001/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org" tvg-name="FOX Sports 2" tvg-logo="" group-title="(no group)",FOX Sports 2
+#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org" tvg-name="FOX Sports 2 ***" tvg-logo="" group-title="(no group)",FOX Sports 2 ***
 http://190.83.119.67:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="(no group)",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="I893.71328.schedulesdirect.org" tvg-name="FOX SPORTS 2 HD ***" tvg-logo="" group-title="(no group)",FOX SPORTS 2 HD ***
 http://190.83.119.67:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org" tvg-name="Fox Sport 3" tvg-logo="" group-title="(no group)",Fox Sport 3
+#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org" tvg-name="Fox Sport 3 (544p)" tvg-logo="" group-title="(no group)",Fox Sport 3 (544p)
 http://190.83.119.67:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org" tvg-name="FOX SPORTS 3 HD" tvg-logo="" group-title="(no group)",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="I894.105005.schedulesdirect.org" tvg-name="FOX SPORTS 3 HD (1440p)" tvg-logo="" group-title="(no group)",FOX SPORTS 3 HD (1440p)
 http://190.83.119.67:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="(no group)" tvg-shift="-1",FX
+#EXTINF:-1 tvg-id="I839.77617.schedulesdirect.org" tvg-name="FX (544p)" tvg-logo="" group-title="(no group)",FX (544p)
 http://190.83.119.67:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="I839.77617.schedulesdirect.org" tvg-name="FX HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",FX HD
+#EXTINF:-1 tvg-id="I839.77617.schedulesdirect.org" tvg-name="FX HD (1920p)" tvg-logo="" group-title="(no group)",FX HD (1920p)
 http://190.83.119.67:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="I288.106731.schedulesdirect.org" tvg-name="Film & Arts" tvg-logo="" group-title="(no group)" tvg-shift="-1",Film & Arts
+#EXTINF:-1 tvg-id="I288.106731.schedulesdirect.org" tvg-name="Film & Arts (544p)" tvg-logo="" group-title="(no group)",Film & Arts (544p)
 http://190.83.119.67:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="I285.106731.schedulesdirect.org" tvg-name="Film & arts HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Film & arts HD
+#EXTINF:-1 tvg-id="I285.106731.schedulesdirect.org" tvg-name="Film & arts HD (960p)" tvg-logo="" group-title="(no group)",Film & arts HD (960p)
 http://190.83.119.67:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="(no group)",Food Network
+#EXTINF:-1 tvg-id="I290.91919.schedulesdirect.org" tvg-name="Food Network (1920p)" tvg-logo="" group-title="(no group)",Food Network (1920p)
 http://181.78.21.60:16123/play/ch28
-#EXTINF:-1 tvg-id="I9862.58685.schedulesdirect.org" tvg-name="France24" tvg-logo="" group-title="(no group)",France24
+#EXTINF:-1 tvg-id="I9862.58685.schedulesdirect.org" tvg-name="France24 (544p)" tvg-logo="" group-title="(no group)",France24 (544p)
 http://45.166.92.22:58001/play/a057/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glitz HD" tvg-logo="" group-title="(no group)",Glitz HD
+#EXTINF:-1 tvg-id="I331.61514.schedulesdirect.org" tvg-name="Glitz HD (1920p)" tvg-logo="" group-title="(no group)",Glitz HD (1920p)
 http://190.60.39.198:8000/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globovision SD" tvg-logo="" group-title="(no group)",Globovision SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globovision SD ***" tvg-logo="" group-title="(no group)",Globovision SD ***
 http://190.43.92.145:8000/play/a0yz/index.m3u8
-#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="Golden" tvg-logo="" group-title="(no group)",Golden
+#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="Golden ***" tvg-logo="" group-title="(no group)",Golden ***
 http://168.121.46.90:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="Golden HD" tvg-logo="" group-title="(no group)",Golden HD
+#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="Golden HD (1920p)*" tvg-logo="" group-title="(no group)",Golden HD (1920p)*
 http://181.119.66.30:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="I337.68317.schedulesdirect.org" tvg-name="Golden Plus HD" tvg-logo="" group-title="(no group)",Golden Plus HD
-http://181.78.75.11:9500/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="I643.80804.schedulesdirect.org" tvg-name="Golden Premiere HD" tvg-logo="" group-title="(no group)",Golden Premiere HD
-http://190.83.119.67:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="I644.80805.schedulesdirect.org" tvg-name="Golden Premiere 2 HD" tvg-logo="" group-title="(no group)",Golden Premiere 2 HD
-http://190.83.119.67:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="I608.16423.schedulesdirect.org" tvg-name="Golden Edge" tvg-logo="" group-title="(no group)" tvg-shift="-1",Golden Edge
+#EXTINF:-1 tvg-id="I608.16423.schedulesdirect.org" tvg-name="Golden Edge (720p)" tvg-logo="" group-title="(no group)",Golden Edge (720p)
 http://181.78.21.60:16123/play/ch47
-#EXTINF:-1 tvg-id="I608.16423.schedulesdirect.org" tvg-name="Golden Edge HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Golden Edge HD
+#EXTINF:-1 tvg-id="I608.16423.schedulesdirect.org" tvg-name="Golden Edge HD (1920p)" tvg-logo="" group-title="(no group)",Golden Edge HD (1920p)
 http://177.93.52.98:45001/play/a0cu
-#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="" group-title="(no group)",Golf Channel
+#EXTINF:-1 tvg-id="I337.68317.schedulesdirect.org" tvg-name="Golden Plus HD (1920p)" tvg-logo="" group-title="(no group)",Golden Plus HD (1920p)
+http://181.78.75.11:9500/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="I643.80804.schedulesdirect.org" tvg-name="Golden Premiere HD (1920p)" tvg-logo="" group-title="(no group)",Golden Premiere HD (1920p)
+http://190.83.119.67:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="I644.80805.schedulesdirect.org" tvg-name="Golden Premiere 2 HD (1920p)" tvg-logo="" group-title="(no group)",Golden Premiere 2 HD (1920p)
+http://190.83.119.67:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org" tvg-name="Golf Channel (720p)" tvg-logo="" group-title="(no group)",Golf Channel (720p)
 http://190.83.119.67:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="" group-title="(no group)",Golf Channel HD
+#EXTINF:-1 tvg-id="I345.14899.schedulesdirect.org" tvg-name="Golf Channel HD (1920p)" tvg-logo="" group-title="(no group)",Golf Channel HD (1920p)
 http://190.83.119.67:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="I345.84823.schedulesdirect.org" tvg-name="HBO HD" tvg-logo="" group-title="(no group)",HBO HD
+#EXTINF:-1 tvg-id="I345.84823.schedulesdirect.org" tvg-name="HBO HD (1920p)" tvg-logo="" group-title="(no group)",HBO HD (1920p)
 http://190.83.119.67:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO2 HD" tvg-logo="" group-title="(no group)",HBO2 HD
+#EXTINF:-1 tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO2 HD (1920p)" tvg-logo="" group-title="(no group)",HBO2 HD (1920p)
 http://190.83.119.67:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="I359.82003.schedulesdirect.org" tvg-name="HBO Plus HD" tvg-logo="" group-title="(no group)",HBO Plus HD
+#EXTINF:-1 tvg-id="I359.82003.schedulesdirect.org" tvg-name="HBO Plus HD (1920p)" tvg-logo="" group-title="(no group)",HBO Plus HD (1920p)
 http://190.83.119.67:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" tvg-name="HBO Family HD" tvg-logo="" group-title="(no group)",HBO Family HD
+#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" tvg-name="HBO Family HD (1920p)" tvg-logo="" group-title="(no group)",HBO Family HD (1920p)
 http://190.83.119.67:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="I370.80115.schedulesdirect.org" tvg-name="HBO Xtreme HD" tvg-logo="" group-title="(no group)",HBO Xtreme HD
-http://190.83.119.67:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="I358.87164.schedulesdirect.org" tvg-name="HBO Mundi SD" tvg-logo="" group-title="(no group)" tvg-shift="-1",HBO Mundi SD
+#EXTINF:-1 tvg-id="I358.87164.schedulesdirect.org" tvg-name="HBO Mundi SD ***" tvg-logo="" group-title="(no group)",HBO Mundi SD ***
 http://190.43.92.145:8000/play/a0zo/index.m3u8
-#EXTINF:-1 tvg-id="I364.70545.schedulesdirect.org" tvg-name="HBO POP HD" tvg-logo="" group-title="(no group)",HBO POP HD
+#EXTINF:-1 tvg-id="I364.70545.schedulesdirect.org" tvg-name="HBO POP HD (1280p)" tvg-logo="" group-title="(no group)",HBO POP HD (1280p)
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/30348
-#EXTINF:-1 tvg-id="I379.62161.schedulesdirect.org" tvg-name="Hola! TV" tvg-logo="" group-title="(no group)",Hola! TV
+#EXTINF:-1 tvg-id="I370.80115.schedulesdirect.org" tvg-name="HBO Xtreme HD (1920p)" tvg-logo="" group-title="(no group)",HBO Xtreme HD (1920p)
+http://190.83.119.67:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="I379.62161.schedulesdirect.org" tvg-name="Hola! TV (544p)" tvg-logo="" group-title="(no group)",Hola! TV (544p)
 http://190.83.119.67:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="I379.62161.schedulesdirect.org" tvg-name="Hola! TV HD" tvg-logo="" group-title="(no group)",Hola! TV HD
+#EXTINF:-1 tvg-id="I379.62161.schedulesdirect.org" tvg-name="Hola! TV HD (1920p)" tvg-logo="" group-title="(no group)",Hola! TV HD (1920p)
 http://190.83.119.67:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="I383.15969.schedulesdirect.org" tvg-name="HTV" tvg-logo="" group-title="(no group)",HTV
+#EXTINF:-1 tvg-id="I383.15969.schedulesdirect.org" tvg-name="HTV (544p)" tvg-logo="" group-title="(no group)",HTV (544p)
 http://190.83.119.67:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="I373.40137.schedulesdirect.org" tvg-name="History Channel" tvg-logo="" group-title="(no group)" tvg-shift="-1",History Channel
+#EXTINF:-1 tvg-id="I373.40137.schedulesdirect.org" tvg-name="History Channel (544p)" tvg-logo="" group-title="(no group)",History Channel (544p)
 http://190.83.119.67:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="I372.70669.schedulesdirect.org" tvg-name="History Channel HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",History Channel HD
+#EXTINF:-1 tvg-id="I372.70669.schedulesdirect.org" tvg-name="History Channel HD (1920p)" tvg-logo="" group-title="(no group)",History Channel HD (1920p)
 http://190.83.119.67:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="H2" tvg-logo="" group-title="(no group)",H2
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="H2 (544p)" tvg-logo="" group-title="(no group)",H2 (544p)
 http://190.83.119.67:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="History 2 HD" tvg-logo="" group-title="(no group)",History 2 HD
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="History 2 HD (1920p)" tvg-logo="" group-title="(no group)",History 2 HD (1920p)
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="I187.76960.schedulesdirect.org" tvg-name="Home & Health HD" tvg-logo="" group-title="(no group)",Home & Health HD
+#EXTINF:-1 tvg-id="I187.76960.schedulesdirect.org" tvg-name="Home & Health HD (1920p)" tvg-logo="" group-title="(no group)",Home & Health HD (1920p)
 http://190.83.119.67:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="I370.111055.schedulesdirect.org" tvg-name="Home Garden Latino" tvg-logo="" group-title="(no group)",Home Garden Latino
+#EXTINF:-1 tvg-id="I370.111055.schedulesdirect.org" tvg-name="Home Garden Latino (480p)" tvg-logo="" group-title="(no group)",Home Garden Latino (480p)
 http://190.83.119.67:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I-Sat SD" tvg-logo="" group-title="(no group)",I-Sat SD
+#EXTINF:-1 tvg-id="I389.16497.schedulesdirect.org" tvg-name="I-Sat SD ***" tvg-logo="" group-title="(no group)",I-Sat SD ***
 http://168.121.46.90:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="I406.100088.schedulesdirect.org" tvg-name="Lifetime SD" tvg-logo="" group-title="(no group)",Lifetime SD
+#EXTINF:-1 tvg-id="I406.100088.schedulesdirect.org" tvg-name="Lifetime SD (544p)" tvg-logo="" group-title="(no group)",Lifetime SD (544p)
 http://190.83.119.67:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 00s" tvg-logo="" group-title="(no group)",MTV 00s
+#EXTINF:-1 tvg-id="I430.120767.schedulesdirect.org" tvg-name="MTV 00s (544p)" tvg-logo="" group-title="(no group)",MTV 00s (544p)
 http://190.83.119.67:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="I430.120767.schedulesdirect.org" tvg-name="MTV 00s HD" tvg-logo="" group-title="(no group)",MTV 00s HD
+#EXTINF:-1 tvg-id="I430.120767.schedulesdirect.org" tvg-name="MTV 00s HD (1920p)" tvg-logo="" group-title="(no group)",MTV 00s HD (1920p)
 http://190.83.119.67:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="I431.65060.schedulesdirect.org" tvg-name="MTV 80s" tvg-logo="" group-title="(no group)",MTV 80s
+#EXTINF:-1 tvg-id="I431.65060.schedulesdirect.org" tvg-name="MTV 80s (544p)" tvg-logo="" group-title="(no group)",MTV 80s (544p)
 http://190.83.119.67:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="I428.84432.schedulesdirect.org" tvg-name="MTV HD" tvg-logo="" group-title="(no group)",MTV HD
+#EXTINF:-1 tvg-id="I428.84432.schedulesdirect.org" tvg-name="MTV HD (1920p)" tvg-logo="" group-title="(no group)",MTV HD (1920p)
 http://190.83.119.67:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="I437.67787.schedulesdirect.org" tvg-name="MTV Hits" tvg-logo="" group-title="(no group)",MTV Hits
+#EXTINF:-1 tvg-id="I437.67787.schedulesdirect.org" tvg-name="MTV Hits (544p)" tvg-logo="" group-title="(no group)",MTV Hits (544p)
 http://190.83.119.67:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="I435.66419.schedulesdirect.org" tvg-name="MTV Live HD" tvg-logo="" group-title="(no group)",MTV Live HD
+#EXTINF:-1 tvg-id="I435.66419.schedulesdirect.org" tvg-name="MTV Live HD (1920p)" tvg-logo="" group-title="(no group)",MTV Live HD (1920p)
 http://190.83.119.67:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mas Chic" tvg-logo="" group-title="(no group)",Mas Chic
+#EXTINF:-1 tvg-id="I414.17457.schedulesdirect.org" tvg-name="Mas Chic (544p)" tvg-logo="" group-title="(no group)",Mas Chic (544p)
 http://190.83.119.67:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="I415.18329.schedulesdirect.org" tvg-name="Multicinema SD" tvg-logo="" group-title="(no group)",Multicinema SD
+#EXTINF:-1 tvg-id="I415.18329.schedulesdirect.org" tvg-name="Multicinema SD (544p)" tvg-logo="" group-title="(no group)",Multicinema SD (544p)
 http://190.83.119.67:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multipremier**" tvg-logo="" group-title="(no group)",Multipremier**
+#EXTINF:-1 tvg-id="I443.18169.schedulesdirect.org" tvg-name="Multipremier ***" tvg-logo="" group-title="(no group)",Multipremier ***
 http://190.83.119.67:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="(no group)" tvg-shift="-1",Nat Geo
+#EXTINF:-1 tvg-id="I403.25068.schedulesdirect.org" tvg-name="Nat Geo (544p)" tvg-logo="" group-title="(no group)",Nat Geo (544p)
 http://190.83.119.67:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="I403.25068.schedulesdirect.org" tvg-name="Nat Geo HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Nat Geo HD
+#EXTINF:-1 tvg-id="I403.25068.schedulesdirect.org" tvg-name="Nat Geo HD (1920p)" tvg-logo="" group-title="(no group)",Nat Geo HD (1920p)
 http://190.83.119.67:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="I301.82649.zap2it.com" tvg-name="Nick Jr SD" tvg-logo="" group-title="(no group)",Nick Jr SD
+#EXTINF:-1 tvg-id="I301.82649.zap2it.com" tvg-name="Nick Jr SD (544p)" tvg-logo="" group-title="(no group)",Nick Jr SD (544p)
 http://190.83.119.67:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="I316.16707.schedulesdirect.org" tvg-name="Nick HD" tvg-logo="" group-title="(no group)",Nick HD
+#EXTINF:-1 tvg-id="I316.16707.schedulesdirect.org" tvg-name="Nick HD (1920p)" tvg-logo="" group-title="(no group)",Nick HD (1920p)
 http://190.83.119.67:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="I502.72625.schedulesdirect.org" tvg-name="PX Sports TV" tvg-logo="" group-title="(no group)",PX Sports TV
+#EXTINF:-1 tvg-id="I502.72625.schedulesdirect.org" tvg-name="PX Sports TV (544p)" tvg-logo="" group-title="(no group)",PX Sports TV (544p)
 http://190.83.119.67:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="I483.106214.schedulesdirect.org" tvg-name="Paramount" tvg-logo="" group-title="(no group)",Paramount
+#EXTINF:-1 tvg-id="I483.106214.schedulesdirect.org" tvg-name="Paramount (544p)" tvg-logo="" group-title="(no group)",Paramount (544p)
 http://190.83.119.67:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="I485.91120.schedulesdirect.org" tvg-name="Paramount HD" tvg-logo="" group-title="(no group)",Paramount HD
+#EXTINF:-1 tvg-id="I485.91120.schedulesdirect.org" tvg-name="Paramount HD (1920p)" tvg-logo="" group-title="(no group)",Paramount HD (1920p)
 http://190.83.119.67:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="I491.71621.schedulesdirect.org" tvg-name="Pasiones HD" tvg-logo="" group-title="(no group)",Pasiones HD
+#EXTINF:-1 tvg-id="I491.71621.schedulesdirect.org" tvg-name="Pasiones HD (1920p)" tvg-logo="" group-title="(no group)",Pasiones HD (1920p)
 http://190.83.119.67:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN Novelas" tvg-logo="" group-title="(no group)",RCN Novelas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN Novelas (544p)" tvg-logo="" group-title="(no group)",RCN Novelas (544p)
 http://190.83.119.67:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" tvg-name="RT Espanol HD" tvg-logo="" group-title="(no group)",RT Espanol HD
+#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" tvg-name="RT Espanol HD (1920p)" tvg-logo="" group-title="(no group)",RT Espanol HD (1920p)
 http://45.166.92.22:58001/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="I113.70312.schedulesdirect.org" tvg-name="Sony" tvg-logo="" group-title="(no group)",Sony
+#EXTINF:-1 tvg-id="I113.70312.schedulesdirect.org" tvg-name="Sony (544p)" tvg-logo="" group-title="(no group)",Sony (544p)
 http://190.83.119.67:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="I114.19385.schedulesdirect.org" tvg-name="Sony HD" tvg-logo="" group-title="(no group)",Sony HD
+#EXTINF:-1 tvg-id="I114.19385.schedulesdirect.org" tvg-name="Sony HD (1920p)" tvg-logo="" group-title="(no group)",Sony HD (1920p)
 http://190.83.119.67:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" tvg-name="Sony Movies HD*" tvg-logo="" group-title="(no group)",Sony Movies HD*
+#EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" tvg-name="Sony Movies HD (960p)" tvg-logo="" group-title="(no group)",Sony Movies HD (960p)
 http://190.83.119.67:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="I526.60801.schedulesdirect.org" tvg-name="Space" tvg-logo="" group-title="(no group)",Space
+#EXTINF:-1 tvg-id="I526.60801.schedulesdirect.org" tvg-name="Space (544p)" tvg-logo="" group-title="(no group)",Space (544p)
 http://190.83.119.67:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="I526.60801.schedulesdirect.org" tvg-name="Space HD" tvg-logo="" group-title="(no group)",Space HD
+#EXTINF:-1 tvg-id="I526.60801.schedulesdirect.org" tvg-name="Space HD (1920p)" tvg-logo="" group-title="(no group)",Space HD (1920p)
 http://45.166.92.22:58001/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="I527.88534.schedulesdirect.org" tvg-name="Star Channel HD" tvg-logo="" group-title="(no group)",Star Channel HD
+#EXTINF:-1 tvg-id="I527.88534.schedulesdirect.org" tvg-name="Star Channel HD (1920p)" tvg-logo="" group-title="(no group)",Star Channel HD (1920p)
 http://190.83.119.67:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="I533.106724.schedulesdirect.org" tvg-name="Star TVE HD" tvg-logo="" group-title="(no group)",Star TVE HD
+#EXTINF:-1 tvg-id="I533.106724.schedulesdirect.org" tvg-name="Star TVE HD (1920p)" tvg-logo="" group-title="(no group)",Star TVE HD (1920p)
 http://190.83.119.67:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Concerts HD" tvg-logo="" group-title="(no group)",Stingray Concerts HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray Concerts HD ***" tvg-logo="" group-title="(no group)",Stingray Concerts HD ***
 http://190.43.92.145:8000/play/a0ol/index.m3u8
-#EXTINF:-1 tvg-id="I915.90605.schedulesdirect.org" tvg-name="Studio Universal HD" tvg-logo="" group-title="(no group)",Studio Universal HD
+#EXTINF:-1 tvg-id="I915.90605.schedulesdirect.org" tvg-name="Studio Universal HD (960p)" tvg-logo="" group-title="(no group)",Studio Universal HD (960p)
 http://190.83.119.67:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Channel" tvg-logo="" group-title="(no group)",Sun Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Channel (720p)" tvg-logo="" group-title="(no group)",Sun Channel (720p)
 http://190.83.119.67:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org" tvg-name="SyFy" tvg-logo="" group-title="(no group)",SyFy
+#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org" tvg-name="SyFy (544p)" tvg-logo="" group-title="(no group)",SyFy (544p)
 http://190.83.119.67:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org" tvg-name="Syfy HD" tvg-logo="" group-title="(no group)",Syfy HD
+#EXTINF:-1 tvg-id="I625.101327.schedulesdirect.org" tvg-name="Syfy HD (1920p)" tvg-logo="" group-title="(no group)",Syfy HD (1920p)
 http://181.119.66.30:8000/play/56/index.m3u8
-#EXTINF:-1 tvg-id="I266.33527.schedulesdirect.org" tvg-name="TBN Enlace" tvg-logo="" group-title="(no group)",TBN Enlace
+#EXTINF:-1 tvg-id="I266.33527.schedulesdirect.org" tvg-name="TBN Enlace (544p)" tvg-logo="" group-title="(no group)",TBN Enlace (544p)
 http://190.83.119.67:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="I622.75073.schedulesdirect.org" tvg-name="TBS SD" tvg-logo="" group-title="(no group)",TBS SD
+#EXTINF:-1 tvg-id="I622.75073.schedulesdirect.org" tvg-name="TBS SD (544p)" tvg-logo="" group-title="(no group)",TBS SD (544p)
 http://190.83.119.67:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="I622.75073.schedulesdirect.org" tvg-name="TBS Very Funny HD" tvg-logo="" group-title="(no group)" tvg-shift="-3",TBS Very Funny HD
+#EXTINF:-1 tvg-id="I622.75073.schedulesdirect.org" tvg-name="TBS Very Funny HD (1920p)" tvg-logo="" group-title="(no group)",TBS Very Funny HD (1920p)
 http://168.194.171.33:8000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org" tvg-name="TCM" tvg-logo="" group-title="(no group)",TCM
+#EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org" tvg-name="TCM (544p)" tvg-logo="" group-title="(no group)",TCM (544p)
 http://190.83.119.67:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org" tvg-name="TCM HD" tvg-logo="" group-title="(no group)",TCM HD
+#EXTINF:-1 tvg-id="I623.19246.schedulesdirect.org" tvg-name="TCM HD (1920p)" tvg-logo="" group-title="(no group)",TCM HD (1920p)
 http://190.60.39.198:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-id="I871.72294.schedulesdirect.org" tvg-name="Teen Nick HD" tvg-logo="" group-title="(no group)",Teen Nick HD
+#EXTINF:-1 tvg-id="I871.72294.schedulesdirect.org" tvg-name="Teen Nick HD (960p)" tvg-logo="" group-title="(no group)",Teen Nick HD (960p)
 http://190.83.119.67:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="I629.15211.schedulesdirect.org" tvg-name="Telehit HD" tvg-logo="" group-title="(no group)",Telehit HD
+#EXTINF:-1 tvg-id="I629.15211.schedulesdirect.org" tvg-name="Telehit HD ***" tvg-logo="" group-title="(no group)",Telehit HD ***
 http://168.121.46.90:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org" tvg-name="Telemundo" tvg-logo="" group-title="(no group)",Telemundo
+#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org" tvg-name="Telemundo (544p)" tvg-logo="" group-title="(no group)",Telemundo (544p)
 http://190.83.119.67:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org" tvg-name="Telemundo HD" tvg-logo="" group-title="(no group)",Telemundo HD
+#EXTINF:-1 tvg-id="I205.64835.schedulesdirect.org" tvg-name="Telemundo HD (960p)" tvg-logo="" group-title="(no group)",Telemundo HD (960p)
 http://190.83.119.67:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="I51.4.79548.zap2it.com" tvg-name="Telemundo Miami 51" tvg-logo="" group-title="(no group)",Telemundo Miami 51
+#EXTINF:-1 tvg-id="I51.4.79548.zap2it.com" tvg-name="Telemundo Miami 51 (1024p)" tvg-logo="" group-title="(no group)",Telemundo Miami 51 (1024p)
 http://45.166.92.22:58001/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televen" tvg-logo="" group-title="(no group)",Televen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Televen (528p)" tvg-logo="" group-title="(no group)",Televen (528p)
 http://181.119.66.30:8000/play/44/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tigo Sports HD" tvg-logo="" group-title="(no group)",Tigo Sports HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tigo Sports HD (1920p)" tvg-logo="" group-title="(no group)",Tigo Sports HD (1920p)
 http://190.83.119.67:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)" tvg-shift="-1",TLC
+#EXTINF:-1 tvg-id="I641.74420.schedulesdirect.org" tvg-name="TLC (544p)" tvg-logo="" group-title="(no group)",TLC (544p)
 http://190.83.119.67:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="I644.19384.schedulesdirect.org" tvg-name="TNT" tvg-logo="" group-title="(no group)" tvg-shift="-1",TNT
+#EXTINF:-1 tvg-id="I644.19384.schedulesdirect.org" tvg-name="TNT (544p)" tvg-logo="" group-title="(no group)",TNT (544p)
 http://190.83.119.67:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="I643.80807.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",TNT HD
+#EXTINF:-1 tvg-id="I643.80807.schedulesdirect.org" tvg-name="TNT HD (1920p)" tvg-logo="" group-title="(no group)",TNT HD (1920p)
 http://190.83.119.67:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="I648.92075.schedulesdirect.org" tvg-name="TNT Series" tvg-logo="" group-title="(no group)",TNT Series
+#EXTINF:-1 tvg-id="I648.92075.schedulesdirect.org" tvg-name="TNT Series (544p)" tvg-logo="" group-title="(no group)",TNT Series (544p)
 http://190.83.119.67:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="I648.92075.schedulesdirect.org" tvg-name="TNT Series HD" tvg-logo="" group-title="(no group)",TNT Series HD
+#EXTINF:-1 tvg-id="I648.92075.schedulesdirect.org" tvg-name="TNT Series HD (1920p)" tvg-logo="" group-title="(no group)",TNT Series HD (1920p)
 http://190.83.119.67:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="I323.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="" group-title="(no group)",Tooncast
+#EXTINF:-1 tvg-id="I323.63109.schedulesdirect.org" tvg-name="Tooncast (544p)" tvg-logo="" group-title="(no group)",Tooncast (544p)
 http://190.83.119.67:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org" tvg-name="TruTV" tvg-logo="" group-title="(no group)",TruTV
+#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org" tvg-name="TruTV (544p)" tvg-logo="" group-title="(no group)",TruTV (544p)
 http://190.83.119.67:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org" tvg-name="TruTV HD" tvg-logo="" group-title="(no group)",TruTV HD
+#EXTINF:-1 tvg-id="I861.68223.schedulesdirect.org" tvg-name="TruTV HD ***" tvg-logo="" group-title="(no group)",TruTV HD ***
 http://168.121.46.90:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="I666.16046.schedulesdirect.org" tvg-name="TVChile" tvg-logo="" group-title="(no group)",TVChile
+#EXTINF:-1 tvg-id="I666.16046.schedulesdirect.org" tvg-name="TVChile (720p)" tvg-logo="" group-title="(no group)",TVChile (720p)
 http://190.83.119.67:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="I0.122767.schedulesdirect.org" tvg-name="Universal Cinema Este HD" tvg-logo="" group-title="(no group)" tvg-shift="-3",Universal Cinema Este HD
+#EXTINF:-1 tvg-id="I0.122767.schedulesdirect.org" tvg-name="Universal Cinema Este HD (1920p)" tvg-logo="" group-title="(no group)",Universal Cinema Este HD (1920p)
 http://190.83.119.67:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Comedy HD" tvg-logo="" group-title="(no group)",Universal Comedy HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Comedy HD (1920p)" tvg-logo="" group-title="(no group)",Universal Comedy HD (1920p)
 http://190.83.119.67:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="I685.122765.schedulesdirect.org" tvg-name="Universal Crime HD" tvg-logo="" group-title="(no group)" tvg-shift="-3",Universal Crime HD
+#EXTINF:-1 tvg-id="I685.122765.schedulesdirect.org" tvg-name="Universal Crime HD (1920p)" tvg-logo="" group-title="(no group)",Universal Crime HD (1920p)
 http://190.83.119.67:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="I686.122761.schedulesdirect.org" tvg-name="Universal Premiere HD" tvg-logo="" group-title="(no group)" tvg-shift="-3",Universal Premiere HD
+#EXTINF:-1 tvg-id="I686.122761.schedulesdirect.org" tvg-name="Universal Premiere HD (1920p)" tvg-logo="" group-title="(no group)",Universal Premiere HD (1920p)
 http://190.83.119.67:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="I686.122761.schedulesdirect.org" tvg-name="Universal Premiere O HD" tvg-logo="" group-title="(no group)",Universal Premiere O HD
+#EXTINF:-1 tvg-id="I686.122761.schedulesdirect.org" tvg-name="Universal Premiere O HD (1920p)" tvg-logo="" group-title="(no group)",Universal Premiere O HD (1920p)
 http://190.83.119.67:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Reality HD" tvg-logo="" group-title="(no group)",Universal Reality HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Reality HD (1920p)" tvg-logo="" group-title="(no group)",Universal Reality HD (1920p)
 http://190.83.119.67:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision HD" tvg-logo="" group-title="(no group)",Univision HD
+#EXTINF:-1 tvg-id="I690.11118.schedulesdirect.org" tvg-name="Univision HD (1920p)" tvg-logo="" group-title="(no group)",Univision HD (1920p)
 http://190.83.119.67:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venevision" tvg-logo="" group-title="(no group)",Venevision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venevision (528p)" tvg-logo="" group-title="(no group)",Venevision (528p)
 http://181.119.66.30:8000/play/42/index.m3u8
-#EXTINF:-1 tvg-id="I409.102305.zap2it.com" tvg-name="Ve Plus" tvg-logo="" group-title="(no group)",Ve Plus
+#EXTINF:-1 tvg-id="I409.102305.zap2it.com" tvg-name="Ve Plus (1280p)" tvg-logo="" group-title="(no group)",Ve Plus (1280p)
 http://181.78.21.60:16123/play/ch36
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vive" tvg-logo="" group-title="(no group)",Vive
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vive ***" tvg-logo="" group-title="(no group)",Vive ***
 http://168.121.46.90:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="I710.98111.schedulesdirect.org" tvg-name="Warner" tvg-logo="" group-title="(no group)" tvg-shift="-1",Warner
+#EXTINF:-1 tvg-id="I710.98111.schedulesdirect.org" tvg-name="Warner (544p)" tvg-logo="" group-title="(no group)",Warner (544p)
 http://190.83.119.67:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="I711.80808.schedulesdirect.org" tvg-name="Warner HD" tvg-logo="" group-title="(no group)" tvg-shift="-1",Warner HD
+#EXTINF:-1 tvg-id="I711.80808.schedulesdirect.org" tvg-name="Warner HD (1920p)" tvg-logo="" group-title="(no group)",Warner HD (1920p)
 http://190.83.119.67:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-id="I1220.89973.schedulesdirect.org" tvg-name="ZooMoo" tvg-logo="" group-title="(no group)",ZooMoo
+#EXTINF:-1 tvg-id="I1220.89973.schedulesdirect.org" tvg-name="ZooMoo (720p)" tvg-logo="" group-title="(no group)",ZooMoo (720p)
 http://190.83.119.67:8000/play/a003/index.m3u8
