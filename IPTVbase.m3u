@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz" tvg-shift="-1.5"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz" tvg-shift="1.5"
 #EXTINF:-1 tvg-id="A&E.MUNDO.HD.uy" tvg-name="A&E (540p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Latino" parent-code="1" tvg-shift="-1",A&E (540p)
 http://190.83.119.67:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="A&E.MUNDO.HD.uy" tvg-name="A&E HD (1920p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Latino" parent-code="1" tvg-shift="-2",A&E HD (1920p)
