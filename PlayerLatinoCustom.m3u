@@ -1,0 +1,1157 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+https://v3.playerlatino.live/stream/m3u8/1/hd
+#EXTINF:3 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
+https://v3.playerlatino.live/stream/m3u8/3/hd
+#EXTINF:4 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="",Azteca Uno
+https://v3.playerlatino.live/stream/m3u8/4/hd
+#EXTINF:5 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
+https://v3.playerlatino.live/stream/m3u8/5/hd
+#EXTINF:7 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
+https://v3.playerlatino.live/stream/m3u8/7/hd
+#EXTINF:8 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
+https://v3.playerlatino.live/stream/m3u8/8/hd
+#EXTINF:9 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="",BeinSports HD
+https://v3.playerlatino.live/stream/m3u8/9/hd
+#EXTINF:11 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles",Cartoonito (Boomerang)
+https://v3.playerlatino.live/stream/m3u8/11/hd
+#EXTINF:13 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
+https://v3.playerlatino.live/stream/m3u8/13/hd
+#EXTINF:14 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico",Canal 5
+https://v3.playerlatino.live/stream/m3u8/14/hd
+#EXTINF:15 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico",Canal Once
+https://v3.playerlatino.live/stream/m3u8/15/hd
+#EXTINF:17 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
+https://v3.playerlatino.live/stream/m3u8/17/hd
+#EXTINF:18 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
+https://v3.playerlatino.live/stream/m3u8/18/hd
+#EXTINF:20 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
+https://v3.playerlatino.live/stream/m3u8/20/hd
+#EXTINF:21 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De Película
+https://v3.playerlatino.live/stream/m3u8/21/hd
+#EXTINF:22 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel
+https://v3.playerlatino.live/stream/m3u8/22/hd
+#EXTINF:23 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura",Discovery Civilization
+https://v3.playerlatino.live/stream/m3u8/23/hd
+#EXTINF:24 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H
+https://v3.playerlatino.live/stream/m3u8/24/hd
+#EXTINF:25 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
+https://v3.playerlatino.live/stream/m3u8/25/hd
+#EXTINF:26 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
+https://v3.playerlatino.live/stream/m3u8/26/hd
+#EXTINF:27 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="",Discovery Theater HD
+https://v3.playerlatino.live/stream/m3u8/27/hd
+#EXTINF:28 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura",Discovery Turbo
+https://v3.playerlatino.live/stream/m3u8/28/hd
+#EXTINF:29 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
+https://v3.playerlatino.live/stream/m3u8/29/hd
+#EXTINF:30 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
+https://v3.playerlatino.live/stream/m3u8/30/hd
+#EXTINF:31 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
+https://v3.playerlatino.live/stream/m3u8/31/hd
+#EXTINF:32 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
+https://v3.playerlatino.live/stream/m3u8/32/hd
+#EXTINF:33 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
+https://v3.playerlatino.live/stream/m3u8/33/hd
+#EXTINF:34 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
+https://v3.playerlatino.live/stream/m3u8/34/hd
+#EXTINF:35 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
+https://v3.playerlatino.live/stream/m3u8/35/hd
+#EXTINF:37 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
+https://v3.playerlatino.live/stream/m3u8/37/hd
+#EXTINF:38 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
+https://v3.playerlatino.live/stream/m3u8/38/hd
+#EXTINF:39 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
+https://v3.playerlatino.live/stream/m3u8/39/hd
+#EXTINF:42 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
+https://v3.playerlatino.live/stream/m3u8/42/hd
+#EXTINF:43 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
+https://v3.playerlatino.live/stream/m3u8/43/hd
+#EXTINF:45 tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento",Star Channel
+https://v3.playerlatino.live/stream/m3u8/45/hd
+#EXTINF:46 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Peliculas",Star
+https://v3.playerlatino.live/stream/m3u8/46/hd
+#EXTINF:47 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas",Star
+https://v3.playerlatino.live/stream/m3u8/47/hd
+#EXTINF:48 tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Peliculas",Star Classics
+https://v3.playerlatino.live/stream/m3u8/48/hd
+#EXTINF:49 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun
+https://v3.playerlatino.live/stream/m3u8/49/hd
+#EXTINF:50 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Star Life
+https://v3.playerlatino.live/stream/m3u8/50/hd
+#EXTINF:51 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits
+https://v3.playerlatino.live/stream/m3u8/51/hd
+#EXTINF:53 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+https://v3.playerlatino.live/stream/m3u8/53/hd
+#EXTINF:54 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3 MX
+https://v3.playerlatino.live/stream/m3u8/54/hd
+#EXTINF:56 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
+https://v3.playerlatino.live/stream/m3u8/56/hd
+#EXTINF:57 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
+https://v3.playerlatino.live/stream/m3u8/57/hd
+#EXTINF:58 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
+https://v3.playerlatino.live/stream/m3u8/58/hd
+#EXTINF:61 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2
+https://v3.playerlatino.live/stream/m3u8/61/hd
+#EXTINF:62 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+https://v3.playerlatino.live/stream/m3u8/62/hd
+#EXTINF:63 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+https://v3.playerlatino.live/stream/m3u8/63/hd
+#EXTINF:64 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+https://v3.playerlatino.live/stream/m3u8/64/hd
+#EXTINF:66 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
+https://v3.playerlatino.live/stream/m3u8/66/hd
+#EXTINF:67 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",History Channel
+https://v3.playerlatino.live/stream/m3u8/67/hd
+#EXTINF:68 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
+https://v3.playerlatino.live/stream/m3u8/68/hd
+#EXTINF:69 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
+https://v3.playerlatino.live/stream/m3u8/69/hd
+#EXTINF:70 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
+https://v3.playerlatino.live/stream/m3u8/70/hd
+#EXTINF:76 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
+https://v3.playerlatino.live/stream/m3u8/76/hd
+#EXTINF:77 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",Nat Geo Wild
+https://v3.playerlatino.live/stream/m3u8/77/hd
+#EXTINF:78 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick
+https://v3.playerlatino.live/stream/m3u8/78/hd
+#EXTINF:79 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR
+https://v3.playerlatino.live/stream/m3u8/79/hd
+#EXTINF:80 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles",Nick Toons
+https://v3.playerlatino.live/stream/m3u8/80/hd
+#EXTINF:83 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
+https://v3.playerlatino.live/stream/m3u8/83/hd
+#EXTINF:84 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas",Studio Universal
+https://v3.playerlatino.live/stream/m3u8/84/hd
+#EXTINF:85 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas",TCM
+https://v3.playerlatino.live/stream/m3u8/85/hd
+#EXTINF:86 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA HD
+https://v3.playerlatino.live/stream/m3u8/86/hd
+#EXTINF:87 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento",TLC
+https://v3.playerlatino.live/stream/m3u8/87/hd
+#EXTINF:90 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series
+https://v3.playerlatino.live/stream/m3u8/90/hd
+#EXTINF:91 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Musica",Telehit
+https://v3.playerlatino.live/stream/m3u8/91/hd
+#EXTINF:92 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",Telemundo
+https://v3.playerlatino.live/stream/m3u8/92/hd
+#EXTINF:93 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantiles",Tiin
+https://v3.playerlatino.live/stream/m3u8/93/hd
+#EXTINF:94 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
+https://v3.playerlatino.live/stream/m3u8/94/hd
+#EXTINF:95 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",Tooncast
+https://v3.playerlatino.live/stream/m3u8/95/hd
+#EXTINF:96 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento",TruTV
+https://v3.playerlatino.live/stream/m3u8/96/hd
+#EXTINF:97 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes",UFC Network
+https://v3.playerlatino.live/stream/m3u8/97/hd
+#EXTINF:98 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Entretenimiento",Unicable
+https://v3.playerlatino.live/stream/m3u8/98/hd
+#EXTINF:99 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Entretenimiento",Univision
+https://v3.playerlatino.live/stream/m3u8/99/hd
+#EXTINF:100 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Univisión TDN
+https://v3.playerlatino.live/stream/m3u8/100/hd
+#EXTINF:101 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
+https://v3.playerlatino.live/stream/m3u8/101/hd
+#EXTINF:102 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
+https://v3.playerlatino.live/stream/m3u8/102/hd
+#EXTINF:135 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
+https://v3.playerlatino.live/stream/m3u8/135/hd
+#EXTINF:136 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias",CNN en Español
+https://v3.playerlatino.live/stream/m3u8/136/hd
+#EXTINF:137 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas",Universal
+https://v3.playerlatino.live/stream/m3u8/137/hd
+#EXTINF:139 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
+https://v3.playerlatino.live/stream/m3u8/139/hd
+#EXTINF:145 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento",Sony
+https://v3.playerlatino.live/stream/m3u8/145/hd
+#EXTINF:146 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
+https://v3.playerlatino.live/stream/m3u8/146/hd
+#EXTINF:148 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
+https://v3.playerlatino.live/stream/m3u8/148/hd
+#EXTINF:149 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="",Film & Arts HD
+https://v3.playerlatino.live/stream/m3u8/149/hd
+#EXTINF:150 tvg-logo="http://x.playerlatino.live/star_comedy.png" group-title="Peliculas",Star Comedy
+https://v3.playerlatino.live/stream/m3u8/150/hd
+#EXTINF:151 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy
+https://v3.playerlatino.live/stream/m3u8/151/hd
+#EXTINF:152 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
+https://v3.playerlatino.live/stream/m3u8/152/hd
+#EXTINF:153 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
+https://v3.playerlatino.live/stream/m3u8/153/hd
+#EXTINF:154 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica",Ritmoson Latino
+https://v3.playerlatino.live/stream/m3u8/154/hd
+#EXTINF:155 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico",Multimedios
+https://v3.playerlatino.live/stream/m3u8/155/hd
+#EXTINF:156 tvg-logo="http://x.playerlatino.live/garagetv.png" group-title="",Garage TV HD
+https://v3.playerlatino.live/stream/m3u8/156/hd
+#EXTINF:157 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
+https://v3.playerlatino.live/stream/m3u8/157/hd
+#EXTINF:158 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
+https://v3.playerlatino.live/stream/m3u8/158/hd
+#EXTINF:160 tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile",CTNI
+https://v3.playerlatino.live/stream/m3u8/160/hd
+#EXTINF:161 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace TV
+https://v3.playerlatino.live/stream/m3u8/161/hd
+#EXTINF:162 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace Juvenil
+https://v3.playerlatino.live/stream/m3u8/162/hd
+#EXTINF:165 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento",Az Clic
+https://v3.playerlatino.live/stream/m3u8/165/hd
+#EXTINF:166 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az Corazón
+https://v3.playerlatino.live/stream/m3u8/166/hd
+#EXTINF:171 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento",TBS Very Funny
+https://v3.playerlatino.live/stream/m3u8/171/hd
+#EXTINF:177 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
+https://v3.playerlatino.live/stream/m3u8/177/hd
+#EXTINF:179 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
+https://v3.playerlatino.live/stream/m3u8/179/hd
+#EXTINF:180 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",Más chic
+https://v3.playerlatino.live/stream/m3u8/180/hd
+#EXTINF:182 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento",TeleFórmula
+https://v3.playerlatino.live/stream/m3u8/182/hd
+#EXTINF:183 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
+https://v3.playerlatino.live/stream/m3u8/183/hd
+#EXTINF:184 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
+https://v3.playerlatino.live/stream/m3u8/184/hd
+#EXTINF:186 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
+https://v3.playerlatino.live/stream/m3u8/186/hd
+#EXTINF:187 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
+https://v3.playerlatino.live/stream/m3u8/187/hd
+#EXTINF:189 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
+https://v3.playerlatino.live/stream/m3u8/189/hd
+#EXTINF:192 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
+https://v3.playerlatino.live/stream/m3u8/192/hd
+#EXTINF:193 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes",PX TV
+https://v3.playerlatino.live/stream/m3u8/193/hd
+#EXTINF:195 tvg-logo="http://x.playerlatino.live/tve.png" group-title="España",TVE
+https://v3.playerlatino.live/stream/m3u8/195/hd
+#EXTINF:197 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="Colombia",Telemedellin
+https://v3.playerlatino.live/stream/m3u8/197/hd
+#EXTINF:198 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia",CHV Chilevision
+https://v3.playerlatino.live/stream/m3u8/198/hd
+#EXTINF:200 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
+https://v3.playerlatino.live/stream/m3u8/200/hd
+#EXTINF:201 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica",Hit TV
+https://v3.playerlatino.live/stream/m3u8/201/hd
+#EXTINF:203 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",m2o TV
+https://v3.playerlatino.live/stream/m3u8/203/hd
+#EXTINF:204 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
+https://v3.playerlatino.live/stream/m3u8/204/hd
+#EXTINF:205 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
+https://v3.playerlatino.live/stream/m3u8/205/hd
+#EXTINF:206 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
+https://v3.playerlatino.live/stream/m3u8/206/hd
+#EXTINF:211 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua",Canal 2 Televicentro
+https://v3.playerlatino.live/stream/m3u8/211/hd
+#EXTINF:220 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: RBC
+https://v3.playerlatino.live/stream/m3u8/220/hd
+#EXTINF:239 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina",El 13 Argentina
+https://v3.playerlatino.live/stream/m3u8/239/hd
+#EXTINF:242 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",ORBE 21
+https://v3.playerlatino.live/stream/m3u8/242/hd
+#EXTINF:251 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Miami TV
+https://v3.playerlatino.live/stream/m3u8/251/hd
+#EXTINF:259 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirecTV Sports
+https://v3.playerlatino.live/stream/m3u8/259/hd
+#EXTINF:263 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Juce TV
+https://v3.playerlatino.live/stream/m3u8/263/hd
+#EXTINF:269 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
+https://v3.playerlatino.live/stream/m3u8/269/hd
+#EXTINF:270 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Real Madrid TV
+https://v3.playerlatino.live/stream/m3u8/270/hd
+#EXTINF:274 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes",Tyc Sports
+https://v3.playerlatino.live/stream/m3u8/274/hd
+#EXTINF:275 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias",Efekto TV
+https://v3.playerlatino.live/stream/m3u8/275/hd
+#EXTINF:276 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes",WWE Network
+https://v3.playerlatino.live/stream/m3u8/276/hd
+#EXTINF:277 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica",Djing Ibiza
+https://v3.playerlatino.live/stream/m3u8/277/hd
+#EXTINF:279 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia",RCN Novelas
+https://v3.playerlatino.live/stream/m3u8/279/hd
+#EXTINF:287 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
+https://v3.playerlatino.live/stream/m3u8/287/hd
+#EXTINF:290 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
+https://v3.playerlatino.live/stream/m3u8/290/hd
+#EXTINF:292 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes",Win Sports
+https://v3.playerlatino.live/stream/m3u8/292/hd
+#EXTINF:293 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes",MLB Network
+https://v3.playerlatino.live/stream/m3u8/293/hd
+#EXTINF:294 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
+https://v3.playerlatino.live/stream/m3u8/294/hd
+#EXTINF:295 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
+https://v3.playerlatino.live/stream/m3u8/295/hd
+#EXTINF:298 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
+https://v3.playerlatino.live/stream/m3u8/298/hd
+#EXTINF:300 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+https://v3.playerlatino.live/stream/m3u8/300/hd
+#EXTINF:303 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series
+https://v3.playerlatino.live/stream/m3u8/303/hd
+#EXTINF:304 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: América TV
+https://v3.playerlatino.live/stream/m3u8/304/hd
+#EXTINF:306 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: TV Peru
+https://v3.playerlatino.live/stream/m3u8/306/hd
+#EXTINF:315 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Virgin TV
+https://v3.playerlatino.live/stream/m3u8/315/hd
+#EXTINF:317 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
+https://v3.playerlatino.live/stream/m3u8/317/hd
+#EXTINF:318 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
+https://v3.playerlatino.live/stream/m3u8/318/hd
+#EXTINF:319 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+https://v3.playerlatino.live/stream/m3u8/319/hd
+#EXTINF:320 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+https://v3.playerlatino.live/stream/m3u8/320/hd
+#EXTINF:321 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="Chile",VTV2 Chile
+https://v3.playerlatino.live/stream/m3u8/321/hd
+#EXTINF:326 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España",La Sexta
+https://v3.playerlatino.live/stream/m3u8/326/hd
+#EXTINF:327 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico",Wapa PR
+https://v3.playerlatino.live/stream/m3u8/327/hd
+#EXTINF:328 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
+https://v3.playerlatino.live/stream/m3u8/328/hd
+#EXTINF:329 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+https://v3.playerlatino.live/stream/m3u8/329/hd
+#EXTINF:330 tvg-logo="http://x.playerlatino.live/teledeporte.png" group-title="",Teledeporte HD (ES)
+https://v3.playerlatino.live/stream/m3u8/330/hd
+#EXTINF:334 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Willax TV
+https://v3.playerlatino.live/stream/m3u8/334/hd
+#EXTINF:336 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru",PERU: RPP
+https://v3.playerlatino.live/stream/m3u8/336/hd
+#EXTINF:337 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
+https://v3.playerlatino.live/stream/m3u8/337/hd
+#EXTINF:338 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: La Luz
+https://v3.playerlatino.live/stream/m3u8/338/hd
+#EXTINF:341 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",Imagen Television
+https://v3.playerlatino.live/stream/m3u8/341/hd
+#EXTINF:346 tvg-logo="http://x.playerlatino.live/play.png" group-title="Mexico",RCG TV Coahuila
+https://v3.playerlatino.live/stream/m3u8/346/hd
+#EXTINF:352 tvg-logo="http://x.playerlatino.live/play.png" group-title="España",Mega (ES)
+https://v3.playerlatino.live/stream/m3u8/352/hd
+#EXTINF:353 tvg-logo="http://x.playerlatino.live/neox.png" group-title="España",Neox (ES)
+https://v3.playerlatino.live/stream/m3u8/353/hd
+#EXTINF:357 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+https://v3.playerlatino.live/stream/m3u8/357/hd
+#EXTINF:359 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Musica",Video Rola
+https://v3.playerlatino.live/stream/m3u8/359/hd
+#EXTINF:364 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España",Canal+ Accion
+https://v3.playerlatino.live/stream/m3u8/364/hd
+#EXTINF:366 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes",Movistar Deportes Sur
+https://v3.playerlatino.live/stream/m3u8/366/hd
+#EXTINF:367 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2 HD
+https://v3.playerlatino.live/stream/m3u8/367/hd
+#EXTINF:369 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
+https://v3.playerlatino.live/stream/m3u8/369/hd
+#EXTINF:370 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España",Movistar Comedia
+https://v3.playerlatino.live/stream/m3u8/370/hd
+#EXTINF:371 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="",Movistar Cine Ñ
+https://v3.playerlatino.live/stream/m3u8/371/hd
+#EXTINF:372 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España",Movistar Xtra
+https://v3.playerlatino.live/stream/m3u8/372/hd
+#EXTINF:373 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes",Univisión Deportes
+https://v3.playerlatino.live/stream/m3u8/373/hd
+#EXTINF:376 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="",BeinSports Ñ HD
+https://v3.playerlatino.live/stream/m3u8/376/hd
+#EXTINF:390 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
+https://v3.playerlatino.live/stream/m3u8/390/hd
+#EXTINF:391 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
+https://v3.playerlatino.live/stream/m3u8/391/hd
+#EXTINF:399 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: BHTV
+https://v3.playerlatino.live/stream/m3u8/399/hd
+#EXTINF:400 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+https://v3.playerlatino.live/stream/m3u8/400/hd
+#EXTINF:401 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
+https://v3.playerlatino.live/stream/m3u8/401/hd
+#EXTINF:402 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
+https://v3.playerlatino.live/stream/m3u8/402/hd
+#EXTINF:403 tvg-logo="0" group-title="24/7",La Casa de Papel 24/7
+https://v3.playerlatino.live/stream/m3u8/403/hd
+#EXTINF:406 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
+https://v3.playerlatino.live/stream/m3u8/406/hd
+#EXTINF:410 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
+https://v3.playerlatino.live/stream/m3u8/410/hd
+#EXTINF:411 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
+https://v3.playerlatino.live/stream/m3u8/411/hd
+#EXTINF:412 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles",Nat Geo Kids
+https://v3.playerlatino.live/stream/m3u8/412/hd
+#EXTINF:413 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Univision Tlnovelas
+https://v3.playerlatino.live/stream/m3u8/413/hd
+#EXTINF:416 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+https://v3.playerlatino.live/stream/m3u8/416/hd
+#EXTINF:417 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
+https://v3.playerlatino.live/stream/m3u8/417/hd
+#EXTINF:418 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
+https://v3.playerlatino.live/stream/m3u8/418/hd
+#EXTINF:419 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
+https://v3.playerlatino.live/stream/m3u8/419/hd
+#EXTINF:420 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
+https://v3.playerlatino.live/stream/m3u8/420/hd
+#EXTINF:421 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+https://v3.playerlatino.live/stream/m3u8/421/hd
+#EXTINF:422 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+https://v3.playerlatino.live/stream/m3u8/422/hd
+#EXTINF:423 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
+https://v3.playerlatino.live/stream/m3u8/423/hd
+#EXTINF:424 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+https://v3.playerlatino.live/stream/m3u8/424/hd
+#EXTINF:425 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
+https://v3.playerlatino.live/stream/m3u8/425/hd
+#EXTINF:426 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+https://v3.playerlatino.live/stream/m3u8/426/hd
+#EXTINF:427 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+https://v3.playerlatino.live/stream/m3u8/427/hd
+#EXTINF:428 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
+https://v3.playerlatino.live/stream/m3u8/428/hd
+#EXTINF:429 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+https://v3.playerlatino.live/stream/m3u8/429/hd
+#EXTINF:430 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+https://v3.playerlatino.live/stream/m3u8/430/hd
+#EXTINF:431 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+https://v3.playerlatino.live/stream/m3u8/431/hd
+#EXTINF:432 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
+https://v3.playerlatino.live/stream/m3u8/432/hd
+#EXTINF:433 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
+https://v3.playerlatino.live/stream/m3u8/433/hd
+#EXTINF:435 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Company Radio TV
+https://v3.playerlatino.live/stream/m3u8/435/hd
+#EXTINF:439 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Dream TV
+https://v3.playerlatino.live/stream/m3u8/439/hd
+#EXTINF:444 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
+https://v3.playerlatino.live/stream/m3u8/444/hd
+#EXTINF:447 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
+https://v3.playerlatino.live/stream/m3u8/447/hd
+#EXTINF:448 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias",MVS Noticias
+https://v3.playerlatino.live/stream/m3u8/448/hd
+#EXTINF:451 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Antares TV
+https://v3.playerlatino.live/stream/m3u8/451/hd
+#EXTINF:474 tvg-logo="http://x.playerlatino.live/ae.png" group-title="",A&E HD
+https://v3.playerlatino.live/stream/m3u8/474/hd
+#EXTINF:475 tvg-logo="http://x.playerlatino.live/amc.png" group-title="",AMC HD
+https://v3.playerlatino.live/stream/m3u8/475/hd
+#EXTINF:476 tvg-logo="http://x.playerlatino.live/axn.png" group-title="",AXN HD
+https://v3.playerlatino.live/stream/m3u8/476/hd
+#EXTINF:479 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="",Cinecanal HD
+https://v3.playerlatino.live/stream/m3u8/479/hd
+#EXTINF:480 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="",Comedy Central HD
+https://v3.playerlatino.live/stream/m3u8/480/hd
+#EXTINF:481 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="",De Pelicula HD
+https://v3.playerlatino.live/stream/m3u8/481/hd
+#EXTINF:483 tvg-logo="http://x.playerlatino.live/e.png" group-title="",E! HD
+https://v3.playerlatino.live/stream/m3u8/483/hd
+#EXTINF:484 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="",ESPN 2 HD
+https://v3.playerlatino.live/stream/m3u8/484/hd
+#EXTINF:485 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="",ESPN 3 HD
+https://v3.playerlatino.live/stream/m3u8/485/hd
+#EXTINF:487 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="",ESPN Plus HD
+https://v3.playerlatino.live/stream/m3u8/487/hd
+#EXTINF:489 tvg-logo="http://x.playerlatino.live/star.png" group-title="",Star Channel HD
+https://v3.playerlatino.live/stream/m3u8/489/hd
+#EXTINF:493 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="",Fox Sports HD
+https://v3.playerlatino.live/stream/m3u8/493/hd
+#EXTINF:494 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="",Fox Sports 2 HD
+https://v3.playerlatino.live/stream/m3u8/494/hd
+#EXTINF:495 tvg-logo="http://x.playerlatino.live/fx.png" group-title="",FX HD
+https://v3.playerlatino.live/stream/m3u8/495/hd
+#EXTINF:498 tvg-logo="http://x.playerlatino.live/sony.png" group-title="",Sony HD
+https://v3.playerlatino.live/stream/m3u8/498/hd
+#EXTINF:499 tvg-logo="http://x.playerlatino.live/space.png" group-title="",Space HD
+https://v3.playerlatino.live/stream/m3u8/499/hd
+#EXTINF:500 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="",TNT HD
+https://v3.playerlatino.live/stream/m3u8/500/hd
+#EXTINF:501 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="",TruTv HD
+https://v3.playerlatino.live/stream/m3u8/501/hd
+#EXTINF:502 tvg-logo="http://x.playerlatino.live/universal.png" group-title="",Universal HD
+https://v3.playerlatino.live/stream/m3u8/502/hd
+#EXTINF:503 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="",Warner Channel HD
+https://v3.playerlatino.live/stream/m3u8/503/hd
+#EXTINF:509 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
+https://v3.playerlatino.live/stream/m3u8/509/hd
+#EXTINF:511 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
+https://v3.playerlatino.live/stream/m3u8/511/hd
+#EXTINF:512 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
+https://v3.playerlatino.live/stream/m3u8/512/hd
+#EXTINF:513 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
+https://v3.playerlatino.live/stream/m3u8/513/hd
+#EXTINF:514 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="",Gol TV HD
+https://v3.playerlatino.live/stream/m3u8/514/hd
+#EXTINF:515 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+https://v3.playerlatino.live/stream/m3u8/515/hd
+#EXTINF:518 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+https://v3.playerlatino.live/stream/m3u8/518/hd
+#EXTINF:519 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
+https://v3.playerlatino.live/stream/m3u8/519/hd
+#EXTINF:520 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+https://v3.playerlatino.live/stream/m3u8/520/hd
+#EXTINF:521 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
+https://v3.playerlatino.live/stream/m3u8/521/hd
+#EXTINF:522 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+https://v3.playerlatino.live/stream/m3u8/522/hd
+#EXTINF:523 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
+https://v3.playerlatino.live/stream/m3u8/523/hd
+#EXTINF:524 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+https://v3.playerlatino.live/stream/m3u8/524/hd
+#EXTINF:525 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+https://v3.playerlatino.live/stream/m3u8/525/hd
+#EXTINF:527 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
+https://v3.playerlatino.live/stream/m3u8/527/hd
+#EXTINF:528 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
+https://v3.playerlatino.live/stream/m3u8/528/hd
+#EXTINF:530 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
+https://v3.playerlatino.live/stream/m3u8/530/hd
+#EXTINF:531 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
+https://v3.playerlatino.live/stream/m3u8/531/hd
+#EXTINF:633 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="",Animal Planet HD
+https://v3.playerlatino.live/stream/m3u8/633/hd
+#EXTINF:634 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="",Azteca Uno HD
+https://v3.playerlatino.live/stream/m3u8/634/hd
+#EXTINF:635 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="",Azteca 7 HD
+https://v3.playerlatino.live/stream/m3u8/635/hd
+#EXTINF:636 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="",Canal de las Estrellas HD
+https://v3.playerlatino.live/stream/m3u8/636/hd
+#EXTINF:637 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="",Cartoon Network HD
+https://v3.playerlatino.live/stream/m3u8/637/hd
+#EXTINF:638 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="",Cinemax HD
+https://v3.playerlatino.live/stream/m3u8/638/hd
+#EXTINF:639 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="",Discovery Channel HD
+https://v3.playerlatino.live/stream/m3u8/639/hd
+#EXTINF:641 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="",Discovery Kids HD
+https://v3.playerlatino.live/stream/m3u8/641/hd
+#EXTINF:642 tvg-logo="http://x.playerlatino.live/history.png" group-title="",History Channel HD
+https://v3.playerlatino.live/stream/m3u8/642/hd
+#EXTINF:644 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="",Nat Geo HD
+https://v3.playerlatino.live/stream/m3u8/644/hd
+#EXTINF:645 tvg-logo="http://x.playerlatino.live/nick.png" group-title="",Nick HD
+https://v3.playerlatino.live/stream/m3u8/645/hd
+#EXTINF:646 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="",Nick 2 HD
+https://v3.playerlatino.live/stream/m3u8/646/hd
+#EXTINF:647 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="",Paramount HD
+https://v3.playerlatino.live/stream/m3u8/647/hd
+#EXTINF:648 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="",SyFy HD
+https://v3.playerlatino.live/stream/m3u8/648/hd
+#EXTINF:649 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="",Telehit HD
+https://v3.playerlatino.live/stream/m3u8/649/hd
+#EXTINF:650 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="",TNT Series HD
+https://v3.playerlatino.live/stream/m3u8/650/hd
+#EXTINF:653 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="",Unicable HD
+https://v3.playerlatino.live/stream/m3u8/653/hd
+#EXTINF:654 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="",HBO HD
+https://v3.playerlatino.live/stream/m3u8/654/hd
+#EXTINF:655 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="",HBO Plus HD
+https://v3.playerlatino.live/stream/m3u8/655/hd
+#EXTINF:658 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="",Fox Sports Premium HD
+https://v3.playerlatino.live/stream/m3u8/658/hd
+#EXTINF:660 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="",Telemundo HD
+https://v3.playerlatino.live/stream/m3u8/660/hd
+#EXTINF:661 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
+https://v3.playerlatino.live/stream/m3u8/661/hd
+#EXTINF:662 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
+https://v3.playerlatino.live/stream/m3u8/662/hd
+#EXTINF:663 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
+https://v3.playerlatino.live/stream/m3u8/663/hd
+#EXTINF:664 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+https://v3.playerlatino.live/stream/m3u8/664/hd
+#EXTINF:667 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
+https://v3.playerlatino.live/stream/m3u8/667/hd
+#EXTINF:669 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+https://v3.playerlatino.live/stream/m3u8/669/hd
+#EXTINF:670 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
+https://v3.playerlatino.live/stream/m3u8/670/hd
+#EXTINF:671 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+https://v3.playerlatino.live/stream/m3u8/671/hd
+#EXTINF:672 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+https://v3.playerlatino.live/stream/m3u8/672/hd
+#EXTINF:673 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
+https://v3.playerlatino.live/stream/m3u8/673/hd
+#EXTINF:674 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
+https://v3.playerlatino.live/stream/m3u8/674/hd
+#EXTINF:675 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+https://v3.playerlatino.live/stream/m3u8/675/hd
+#EXTINF:676 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+https://v3.playerlatino.live/stream/m3u8/676/hd
+#EXTINF:677 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
+https://v3.playerlatino.live/stream/m3u8/677/hd
+#EXTINF:678 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",Movie Max
+https://v3.playerlatino.live/stream/m3u8/678/hd
+#EXTINF:679 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas",Showtime
+https://v3.playerlatino.live/stream/m3u8/679/hd
+#EXTINF:680 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz Cinema
+https://v3.playerlatino.live/stream/m3u8/680/hd
+#EXTINF:681 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Peliculas",Starz Comedy
+https://v3.playerlatino.live/stream/m3u8/681/hd
+#EXTINF:682 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action
+https://v3.playerlatino.live/stream/m3u8/682/hd
+#EXTINF:683 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",Starz Encore Black
+https://v3.playerlatino.live/stream/m3u8/683/hd
+#EXTINF:684 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family
+https://v3.playerlatino.live/stream/m3u8/684/hd
+#EXTINF:685 tvg-logo="http://x.playerlatino.live/starz_hd.png" group-title="",Starz HD
+https://v3.playerlatino.live/stream/m3u8/685/hd
+#EXTINF:686 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
+https://v3.playerlatino.live/stream/m3u8/686/hd
+#EXTINF:687 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil
+https://v3.playerlatino.live/stream/m3u8/687/hd
+#EXTINF:688 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis
+https://v3.playerlatino.live/stream/m3u8/688/hd
+#EXTINF:689 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance
+https://v3.playerlatino.live/stream/m3u8/689/hd
+#EXTINF:690 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Music Now
+https://v3.playerlatino.live/stream/m3u8/690/hd
+#EXTINF:691 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica",MusicTop
+https://v3.playerlatino.live/stream/m3u8/691/hd
+#EXTINF:692 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica",Retro Music
+https://v3.playerlatino.live/stream/m3u8/692/hd
+#EXTINF:693 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror
+https://v3.playerlatino.live/stream/m3u8/693/hd
+#EXTINF:694 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",Cine Infantil Sagas
+https://v3.playerlatino.live/stream/m3u8/694/hd
+#EXTINF:695 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Peliculas",Cine Comedia 1
+https://v3.playerlatino.live/stream/m3u8/695/hd
+#EXTINF:696 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Peliculas",Cine Comedia 2
+https://v3.playerlatino.live/stream/m3u8/696/hd
+#EXTINF:697 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel
+https://v3.playerlatino.live/stream/m3u8/697/hd
+#EXTINF:698 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
+https://v3.playerlatino.live/stream/m3u8/698/hd
+#EXTINF:699 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion
+https://v3.playerlatino.live/stream/m3u8/699/hd
+#EXTINF:700 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Peliculas",Cine Accion Sagas
+https://v3.playerlatino.live/stream/m3u8/700/hd
+#EXTINF:701 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Marvel HD
+https://v3.playerlatino.live/stream/m3u8/701/hd
+#EXTINF:702 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Infantil 1 HD
+https://v3.playerlatino.live/stream/m3u8/702/hd
+#EXTINF:703 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Infantil Sagas HD
+https://v3.playerlatino.live/stream/m3u8/703/hd
+#EXTINF:705 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Romance 1 HD
+https://v3.playerlatino.live/stream/m3u8/705/hd
+#EXTINF:706 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Accion 2 HD
+https://v3.playerlatino.live/stream/m3u8/706/hd
+#EXTINF:707 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Accion Sagas HD
+https://v3.playerlatino.live/stream/m3u8/707/hd
+#EXTINF:708 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay",VTV Uruaguay
+https://v3.playerlatino.live/stream/m3u8/708/hd
+#EXTINF:709 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Ficcion/Fantasia
+https://v3.playerlatino.live/stream/m3u8/709/hd
+#EXTINF:710 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 2
+https://v3.playerlatino.live/stream/m3u8/710/hd
+#EXTINF:711 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia Sagas
+https://v3.playerlatino.live/stream/m3u8/711/hd
+#EXTINF:712 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Ficcion/Fantasia 1 HD
+https://v3.playerlatino.live/stream/m3u8/712/hd
+#EXTINF:713 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN (ES)
+https://v3.playerlatino.live/stream/m3u8/713/hd
+#EXTINF:714 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN WHITE (ES)
+https://v3.playerlatino.live/stream/m3u8/714/hd
+#EXTINF:715 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
+https://v3.playerlatino.live/stream/m3u8/715/hd
+#EXTINF:716 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España",TNT (ES)
+https://v3.playerlatino.live/stream/m3u8/716/hd
+#EXTINF:717 tvg-logo="http://x.playerlatino.live/nova.png" group-title="España",Nova (ES)
+https://v3.playerlatino.live/stream/m3u8/717/hd
+#EXTINF:718 tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
+https://v3.playerlatino.live/stream/m3u8/718/hd
+#EXTINF:719 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="España",Comedy Central (ES)
+https://v3.playerlatino.live/stream/m3u8/719/hd
+#EXTINF:720 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
+https://v3.playerlatino.live/stream/m3u8/720/hd
+#EXTINF:721 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+https://v3.playerlatino.live/stream/m3u8/721/hd
+#EXTINF:722 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
+https://v3.playerlatino.live/stream/m3u8/722/hd
+#EXTINF:723 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
+https://v3.playerlatino.live/stream/m3u8/723/hd
+#EXTINF:724 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
+https://v3.playerlatino.live/stream/m3u8/724/hd
+#EXTINF:725 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="",CDF Premium HD
+https://v3.playerlatino.live/stream/m3u8/725/hd
+#EXTINF:727 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="",Discovery Turbo HD
+https://v3.playerlatino.live/stream/m3u8/727/hd
+#EXTINF:728 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="",HBO Plus Oeste HD
+https://v3.playerlatino.live/stream/m3u8/728/hd
+#EXTINF:731 tvg-logo="0" group-title="Peliculas",FM Hot TV
+https://v3.playerlatino.live/stream/m3u8/731/hd
+#EXTINF:732 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="",HBO 2 HD
+https://v3.playerlatino.live/stream/m3u8/732/hd
+#EXTINF:735 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Cartoonito Sur
+https://v3.playerlatino.live/stream/m3u8/735/hd
+#EXTINF:736 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
+https://v3.playerlatino.live/stream/m3u8/736/hd
+#EXTINF:737 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
+https://v3.playerlatino.live/stream/m3u8/737/hd
+#EXTINF:738 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
+https://v3.playerlatino.live/stream/m3u8/738/hd
+#EXTINF:739 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
+https://v3.playerlatino.live/stream/m3u8/739/hd
+#EXTINF:740 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
+https://v3.playerlatino.live/stream/m3u8/740/hd
+#EXTINF:741 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
+https://v3.playerlatino.live/stream/m3u8/741/hd
+#EXTINF:742 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
+https://v3.playerlatino.live/stream/m3u8/742/hd
+#EXTINF:743 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
+https://v3.playerlatino.live/stream/m3u8/743/hd
+#EXTINF:744 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
+https://v3.playerlatino.live/stream/m3u8/744/hd
+#EXTINF:745 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series Sur
+https://v3.playerlatino.live/stream/m3u8/745/hd
+#EXTINF:746 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
+https://v3.playerlatino.live/stream/m3u8/746/hd
+#EXTINF:747 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits Sur
+https://v3.playerlatino.live/stream/m3u8/747/hd
+#EXTINF:748 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
+https://v3.playerlatino.live/stream/m3u8/748/hd
+#EXTINF:749 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
+https://v3.playerlatino.live/stream/m3u8/749/hd
+#EXTINF:750 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
+https://v3.playerlatino.live/stream/m3u8/750/hd
+#EXTINF:751 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space Sur
+https://v3.playerlatino.live/stream/m3u8/751/hd
+#EXTINF:752 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT Sur
+https://v3.playerlatino.live/stream/m3u8/752/hd
+#EXTINF:753 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
+https://v3.playerlatino.live/stream/m3u8/753/hd
+#EXTINF:754 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="",Win Sports HD
+https://v3.playerlatino.live/stream/m3u8/754/hd
+#EXTINF:755 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="",Pasiones HD
+https://v3.playerlatino.live/stream/m3u8/755/hd
+#EXTINF:757 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series Sur
+https://v3.playerlatino.live/stream/m3u8/757/hd
+#EXTINF:758 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy Sur
+https://v3.playerlatino.live/stream/m3u8/758/hd
+#EXTINF:759 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
+https://v3.playerlatino.live/stream/m3u8/759/hd
+#EXTINF:760 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
+https://v3.playerlatino.live/stream/m3u8/760/hd
+#EXTINF:761 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ñ
+https://v3.playerlatino.live/stream/m3u8/761/hd
+#EXTINF:764 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
+https://v3.playerlatino.live/stream/m3u8/764/hd
+#EXTINF:765 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile",El Trece
+https://v3.playerlatino.live/stream/m3u8/765/hd
+#EXTINF:766 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile",Mega
+https://v3.playerlatino.live/stream/m3u8/766/hd
+#EXTINF:767 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",El Trece
+https://v3.playerlatino.live/stream/m3u8/767/hd
+#EXTINF:769 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="",Fox Sports Argentina HD
+https://v3.playerlatino.live/stream/m3u8/769/hd
+#EXTINF:771 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe
+https://v3.playerlatino.live/stream/m3u8/771/hd
+#EXTINF:772 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina",El Nueve
+https://v3.playerlatino.live/stream/m3u8/772/hd
+#EXTINF:773 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras",Canal 5 Honduras
+https://v3.playerlatino.live/stream/m3u8/773/hd
+#EXTINF:774 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia",Trece
+https://v3.playerlatino.live/stream/m3u8/774/hd
+#EXTINF:775 tvg-logo="http://x.playerlatino.live/play.png" group-title="Colombia",Uno
+https://v3.playerlatino.live/stream/m3u8/775/hd
+#EXTINF:776 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="Ecuador",Televicentro
+https://v3.playerlatino.live/stream/m3u8/776/hd
+#EXTINF:778 tvg-logo="http://x.playerlatino.live/play.png" group-title="Uruguay",Tele
+https://v3.playerlatino.live/stream/m3u8/778/hd
+#EXTINF:779 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras",HCH
+https://v3.playerlatino.live/stream/m3u8/779/hd
+#EXTINF:780 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
+https://v3.playerlatino.live/stream/m3u8/780/hd
+#EXTINF:781 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia",RTP
+https://v3.playerlatino.live/stream/m3u8/781/hd
+#EXTINF:782 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
+https://v3.playerlatino.live/stream/m3u8/782/hd
+#EXTINF:783 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
+https://v3.playerlatino.live/stream/m3u8/783/hd
+#EXTINF:784 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico",Mega
+https://v3.playerlatino.live/stream/m3u8/784/hd
+#EXTINF:785 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
+https://v3.playerlatino.live/stream/m3u8/785/hd
+#EXTINF:786 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
+https://v3.playerlatino.live/stream/m3u8/786/hd
+#EXTINF:787 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
+https://v3.playerlatino.live/stream/m3u8/787/hd
+#EXTINF:788 tvg-logo="0" group-title="24/7",Barbie 24/7
+https://v3.playerlatino.live/stream/m3u8/788/hd
+#EXTINF:789 tvg-logo="0" group-title="24/7",Brickleberry 24/7
+https://v3.playerlatino.live/stream/m3u8/789/hd
+#EXTINF:790 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
+https://v3.playerlatino.live/stream/m3u8/790/hd
+#EXTINF:791 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
+https://v3.playerlatino.live/stream/m3u8/791/hd
+#EXTINF:792 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
+https://v3.playerlatino.live/stream/m3u8/792/hd
+#EXTINF:793 tvg-logo="0" group-title="24/7",Futurama 24/7
+https://v3.playerlatino.live/stream/m3u8/793/hd
+#EXTINF:794 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
+https://v3.playerlatino.live/stream/m3u8/794/hd
+#EXTINF:795 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
+https://v3.playerlatino.live/stream/m3u8/795/hd
+#EXTINF:796 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
+https://v3.playerlatino.live/stream/m3u8/796/hd
+#EXTINF:797 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
+https://v3.playerlatino.live/stream/m3u8/797/hd
+#EXTINF:798 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
+https://v3.playerlatino.live/stream/m3u8/798/hd
+#EXTINF:799 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
+https://v3.playerlatino.live/stream/m3u8/799/hd
+#EXTINF:800 tvg-logo="0" group-title="24/7",The Walking Dead 24/7
+https://v3.playerlatino.live/stream/m3u8/800/hd
+#EXTINF:801 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="",TUDN HD
+https://v3.playerlatino.live/stream/m3u8/801/hd
+#EXTINF:802 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="",Win Sports + HD
+https://v3.playerlatino.live/stream/m3u8/802/hd
+#EXTINF:803 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España",MTV (ES)
+https://v3.playerlatino.live/stream/m3u8/803/hd
+#EXTINF:804 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
+https://v3.playerlatino.live/stream/m3u8/804/hd
+#EXTINF:807 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
+https://v3.playerlatino.live/stream/m3u8/807/hd
+#EXTINF:808 tvg-logo="http://x.playerlatino.live/candy.png" group-title="",Candy 24/7
+https://v3.playerlatino.live/stream/m3u8/808/hd
+#EXTINF:809 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
+https://v3.playerlatino.live/stream/m3u8/809/hd
+#EXTINF:810 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los Años Maravillosos 24/7
+https://v3.playerlatino.live/stream/m3u8/810/hd
+#EXTINF:811 tvg-logo="0" group-title="Entretenimiento",La Familia PeLuche 24/7
+https://v3.playerlatino.live/stream/m3u8/811/hd
+#EXTINF:812 tvg-logo="0" group-title="Entretenimiento",Garfield 24/7
+https://v3.playerlatino.live/stream/m3u8/812/hd
+#EXTINF:813 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
+https://v3.playerlatino.live/stream/m3u8/813/hd
+#EXTINF:814 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+https://v3.playerlatino.live/stream/m3u8/814/hd
+#EXTINF:818 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
+https://v3.playerlatino.live/stream/m3u8/818/hd
+#EXTINF:819 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
+https://v3.playerlatino.live/stream/m3u8/819/hd
+#EXTINF:820 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El Señor de los Cielos 24/7
+https://v3.playerlatino.live/stream/m3u8/820/hd
+#EXTINF:822 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
+https://v3.playerlatino.live/stream/m3u8/822/hd
+#EXTINF:823 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV Sur
+https://v3.playerlatino.live/stream/m3u8/823/hd
+#EXTINF:824 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="",Cartoonito (Boomerang) HD
+https://v3.playerlatino.live/stream/m3u8/824/hd
+#EXTINF:825 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="",Investigation Discovery HD
+https://v3.playerlatino.live/stream/m3u8/825/hd
+#EXTINF:826 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="",Disney Junior HD
+https://v3.playerlatino.live/stream/m3u8/826/hd
+#EXTINF:828 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="",MTV HD
+https://v3.playerlatino.live/stream/m3u8/828/hd
+#EXTINF:829 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR op2
+https://v3.playerlatino.live/stream/m3u8/829/hd
+#EXTINF:830 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="",Studio Universal HD
+https://v3.playerlatino.live/stream/m3u8/830/hd
+#EXTINF:831 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="",TBS Very Funny HD
+https://v3.playerlatino.live/stream/m3u8/831/hd
+#EXTINF:832 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="",Tlnovelas HD
+https://v3.playerlatino.live/stream/m3u8/832/hd
+#EXTINF:833 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="",Bandamax HD
+https://v3.playerlatino.live/stream/m3u8/833/hd
+#EXTINF:834 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="",Az Corazón HD
+https://v3.playerlatino.live/stream/m3u8/834/hd
+#EXTINF:837 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes
+https://v3.playerlatino.live/stream/m3u8/837/hd
+#EXTINF:838 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes",NBA
+https://v3.playerlatino.live/stream/m3u8/838/hd
+#EXTINF:839 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="",Fox Sports 3 HD
+https://v3.playerlatino.live/stream/m3u8/839/hd
+#EXTINF:841 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+https://v3.playerlatino.live/stream/m3u8/841/hd
+#EXTINF:842 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
+https://v3.playerlatino.live/stream/m3u8/842/hd
+#EXTINF:843 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Paraguay
+https://v3.playerlatino.live/stream/m3u8/843/hd
+#EXTINF:844 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
+https://v3.playerlatino.live/stream/m3u8/844/hd
+#EXTINF:845 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
+https://v3.playerlatino.live/stream/m3u8/845/hd
+#EXTINF:846 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
+https://v3.playerlatino.live/stream/m3u8/846/hd
+#EXTINF:847 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 01
+https://v3.playerlatino.live/stream/m3u8/847/hd
+#EXTINF:848 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 02
+https://v3.playerlatino.live/stream/m3u8/848/hd
+#EXTINF:849 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 03
+https://v3.playerlatino.live/stream/m3u8/849/hd
+#EXTINF:850 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 04
+https://v3.playerlatino.live/stream/m3u8/850/hd
+#EXTINF:851 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 05
+https://v3.playerlatino.live/stream/m3u8/851/hd
+#EXTINF:852 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 06
+https://v3.playerlatino.live/stream/m3u8/852/hd
+#EXTINF:853 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 07
+https://v3.playerlatino.live/stream/m3u8/853/hd
+#EXTINF:854 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 08
+https://v3.playerlatino.live/stream/m3u8/854/hd
+#EXTINF:855 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 09
+https://v3.playerlatino.live/stream/m3u8/855/hd
+#EXTINF:856 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
+https://v3.playerlatino.live/stream/m3u8/856/hd
+#EXTINF:857 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Peliculas",Cine 2020
+https://v3.playerlatino.live/stream/m3u8/857/hd
+#EXTINF:858 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
+https://v3.playerlatino.live/stream/m3u8/858/hd
+#EXTINF:859 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
+https://v3.playerlatino.live/stream/m3u8/859/hd
+#EXTINF:860 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
+https://v3.playerlatino.live/stream/m3u8/860/hd
+#EXTINF:861 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 19
+https://v3.playerlatino.live/stream/m3u8/861/hd
+#EXTINF:862 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 14
+https://v3.playerlatino.live/stream/m3u8/862/hd
+#EXTINF:863 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 15
+https://v3.playerlatino.live/stream/m3u8/863/hd
+#EXTINF:864 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 16
+https://v3.playerlatino.live/stream/m3u8/864/hd
+#EXTINF:865 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 17
+https://v3.playerlatino.live/stream/m3u8/865/hd
+#EXTINF:866 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 18
+https://v3.playerlatino.live/stream/m3u8/866/hd
+#EXTINF:867 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
+https://v3.playerlatino.live/stream/m3u8/867/hd
+#EXTINF:868 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 11 HD
+https://v3.playerlatino.live/stream/m3u8/868/hd
+#EXTINF:869 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 12 HD
+https://v3.playerlatino.live/stream/m3u8/869/hd
+#EXTINF:870 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 13 HD
+https://v3.playerlatino.live/stream/m3u8/870/hd
+#EXTINF:871 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 14 HD
+https://v3.playerlatino.live/stream/m3u8/871/hd
+#EXTINF:872 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 19 HD
+https://v3.playerlatino.live/stream/m3u8/872/hd
+#EXTINF:873 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 15 HD
+https://v3.playerlatino.live/stream/m3u8/873/hd
+#EXTINF:874 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 16 HD
+https://v3.playerlatino.live/stream/m3u8/874/hd
+#EXTINF:875 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 18 HD
+https://v3.playerlatino.live/stream/m3u8/875/hd
+#EXTINF:876 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="",PPV 17 HD
+https://v3.playerlatino.live/stream/m3u8/876/hd
+#EXTINF:878 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+https://v3.playerlatino.live/stream/m3u8/878/hd
+#EXTINF:880 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
+https://v3.playerlatino.live/stream/m3u8/880/hd
+#EXTINF:881 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports +
+https://v3.playerlatino.live/stream/m3u8/881/hd
+#EXTINF:882 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
+https://v3.playerlatino.live/stream/m3u8/882/hd
+#EXTINF:883 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
+https://v3.playerlatino.live/stream/m3u8/883/hd
+#EXTINF:884 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
+https://v3.playerlatino.live/stream/m3u8/884/hd
+#EXTINF:885 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+https://v3.playerlatino.live/stream/m3u8/885/hd
+#EXTINF:886 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+https://v3.playerlatino.live/stream/m3u8/886/hd
+#EXTINF:887 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
+https://v3.playerlatino.live/stream/m3u8/887/hd
+#EXTINF:888 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+https://v3.playerlatino.live/stream/m3u8/888/hd
+#EXTINF:889 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
+https://v3.playerlatino.live/stream/m3u8/889/hd
+#EXTINF:890 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones
+https://v3.playerlatino.live/stream/m3u8/890/hd
+#EXTINF:891 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador",Gamavision
+https://v3.playerlatino.live/stream/m3u8/891/hd
+#EXTINF:892 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol
+https://v3.playerlatino.live/stream/m3u8/892/hd
+#EXTINF:893 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
+https://v3.playerlatino.live/stream/m3u8/893/hd
+#EXTINF:894 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="",Los Simpson (Temporadas 1-5) 24/7
+https://v3.playerlatino.live/stream/m3u8/894/hd
+#EXTINF:895 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="",Los Simpson (Temporadas 6-11) 24/7
+https://v3.playerlatino.live/stream/m3u8/895/hd
+#EXTINF:896 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="",Los Simpson (Temporadas 12-17) 24/7
+https://v3.playerlatino.live/stream/m3u8/896/hd
+#EXTINF:897 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="",Los Simpson (Temporadas 18-21) 24/7
+https://v3.playerlatino.live/stream/m3u8/897/hd
+#EXTINF:899 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="",Los Simpson (Temporadas 27-30) 24/7
+https://v3.playerlatino.live/stream/m3u8/899/hd
+#EXTINF:900 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="",SKY Sports Premier HD
+https://v3.playerlatino.live/stream/m3u8/900/hd
+#EXTINF:901 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="",Universal Premiere HD
+https://v3.playerlatino.live/stream/m3u8/901/hd
+#EXTINF:902 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="",Universal Cinema HD
+https://v3.playerlatino.live/stream/m3u8/902/hd
+#EXTINF:903 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="",Universal Comedy HD
+https://v3.playerlatino.live/stream/m3u8/903/hd
+#EXTINF:904 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="",Universal Crime HD
+https://v3.playerlatino.live/stream/m3u8/904/hd
+#EXTINF:905 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="",Universal Reality HD
+https://v3.playerlatino.live/stream/m3u8/905/hd
+#EXTINF:906 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="",TNT Sports Chile
+https://v3.playerlatino.live/stream/m3u8/906/hd
+#EXTINF:907 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="",Caso Cerrado 24/7
+https://v3.playerlatino.live/stream/m3u8/907/hd
+#EXTINF:908 tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="",CSI: Miami 24/7
+https://v3.playerlatino.live/stream/m3u8/908/hd
+#EXTINF:909 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="",Jorge el Curioso 24/7
+https://v3.playerlatino.live/stream/m3u8/909/hd
+#EXTINF:912 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Suspenso 1 HD
+https://v3.playerlatino.live/stream/m3u8/912/hd
+#EXTINF:914 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Comedia 1 HD
+https://v3.playerlatino.live/stream/m3u8/914/hd
+#EXTINF:915 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Comedia 2 HD
+https://v3.playerlatino.live/stream/m3u8/915/hd
+#EXTINF:916 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="",Movistar LaLiga HD
+https://v3.playerlatino.live/stream/m3u8/916/hd
+#EXTINF:917 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Zombis HD
+https://v3.playerlatino.live/stream/m3u8/917/hd
+#EXTINF:918 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Series Comedia 24/7
+https://v3.playerlatino.live/stream/m3u8/918/hd
+#EXTINF:922 tvg-logo="http://x.playerlatino.live/telecinco.png" group-title="",Telecinco HD
+https://v3.playerlatino.live/stream/m3u8/922/hd
+#EXTINF:923 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="",DMax HD
+https://v3.playerlatino.live/stream/m3u8/923/hd
+#EXTINF:924 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="",Movistar Series HD
+https://v3.playerlatino.live/stream/m3u8/924/hd
+#EXTINF:925 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="",Movistar Deportes HD
+https://v3.playerlatino.live/stream/m3u8/925/hd
+#EXTINF:926 tvg-logo="http://x.playerlatino.live/fox.png" group-title="",Fox (ES) HD
+https://v3.playerlatino.live/stream/m3u8/926/hd
+#EXTINF:927 tvg-logo="http://x.playerlatino.live/la1.png" group-title="",La 1 HD
+https://v3.playerlatino.live/stream/m3u8/927/hd
+#EXTINF:928 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="",La Sexta HD
+https://v3.playerlatino.live/stream/m3u8/928/hd
+#EXTINF:929 tvg-logo="http://x.playerlatino.live/mega.png" group-title="",Mega ES HD
+https://v3.playerlatino.live/stream/m3u8/929/hd
+#EXTINF:930 tvg-logo="http://x.playerlatino.live/tve.png" group-title="",TVE HD
+https://v3.playerlatino.live/stream/m3u8/930/hd
+#EXTINF:931 tvg-logo="http://x.playerlatino.live/bbc.png" group-title="",BBC HD
+https://v3.playerlatino.live/stream/m3u8/931/hd
+#EXTINF:935 tvg-logo="http://x.playerlatino.live/directvplus.png" group-title="",DirecTV Plus
+https://v3.playerlatino.live/stream/m3u8/935/hd
+#EXTINF:939 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="",Afizzionados
+https://v3.playerlatino.live/stream/m3u8/939/hd
+#EXTINF:940 tvg-logo="http://x.playerlatino.live/vamos.png" group-title="",Vamos HD
+https://v3.playerlatino.live/stream/m3u8/940/hd
+#EXTINF:941 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="",Canal 5 HD
+https://v3.playerlatino.live/stream/m3u8/941/hd
+#EXTINF:943 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="",Multimedios HD
+https://v3.playerlatino.live/stream/m3u8/943/hd
+#EXTINF:944 tvg-logo="http://x.playerlatino.live/startve.png" group-title="",StarTVE
+https://v3.playerlatino.live/stream/m3u8/944/hd
+#EXTINF:945 tvg-logo="http://x.playerlatino.live/a3cine.png" group-title="",A3Cine
+https://v3.playerlatino.live/stream/m3u8/945/hd
+#EXTINF:946 tvg-logo="http://x.playerlatino.live/bitme.png" group-title="",BitMe
+https://v3.playerlatino.live/stream/m3u8/946/hd
+#EXTINF:948 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="",Ironman 24/7
+https://v3.playerlatino.live/stream/m3u8/948/hd
+#EXTINF:949 tvg-logo="http://x.playerlatino.live/elcondepatula.png" group-title="",El Conde Patula 24/7
+https://v3.playerlatino.live/stream/m3u8/949/hd
+#EXTINF:950 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="",Much Music
+https://v3.playerlatino.live/stream/m3u8/950/hd
+#EXTINF:951 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="",ESPN 4
+https://v3.playerlatino.live/stream/m3u8/951/hd
+#EXTINF:952 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="",ESPN Premium HD
+https://v3.playerlatino.live/stream/m3u8/952/hd
+#EXTINF:953 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="",MTV 00s
+https://v3.playerlatino.live/stream/m3u8/953/hd
+#EXTINF:954 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="",MTV WW
+https://v3.playerlatino.live/stream/m3u8/954/hd
+#EXTINF:955 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="",MTV 90s
+https://v3.playerlatino.live/stream/m3u8/955/hd
+#EXTINF:956 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="",Zona TUDN
+https://v3.playerlatino.live/stream/m3u8/956/hd
+#EXTINF:961 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="",Food Network
+https://v3.playerlatino.live/stream/m3u8/961/hd
+#EXTINF:964 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="",Golf Channel HD
+https://v3.playerlatino.live/stream/m3u8/964/hd
+#EXTINF:967 tvg-logo="http://x.playerlatino.live/la2hd.png" group-title="",La 2 HD
+https://v3.playerlatino.live/stream/m3u8/967/hd
+#EXTINF:968 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="",HBO Family HD
+https://v3.playerlatino.live/stream/m3u8/968/hd
+#EXTINF:969 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="",SyFy (ES) HD
+https://v3.playerlatino.live/stream/m3u8/969/hd
+#EXTINF:970 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="",Paramount HD (ES)
+https://v3.playerlatino.live/stream/m3u8/970/hd
+#EXTINF:971 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="",HBO Xtreme HD
+https://v3.playerlatino.live/stream/m3u8/971/hd
+#EXTINF:972 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="",ESPN Premium
+https://v3.playerlatino.live/stream/m3u8/972/hd
+#EXTINF:974 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="",DirecTV Sports HD
+https://v3.playerlatino.live/stream/m3u8/974/hd
+#EXTINF:975 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="",DirecTV Sports 2 HD
+https://v3.playerlatino.live/stream/m3u8/975/hd
+#EXTINF:976 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="",Movistar Estrenos HD
+https://v3.playerlatino.live/stream/m3u8/976/hd
+#EXTINF:977 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="",HBO Pop
+https://v3.playerlatino.live/stream/m3u8/977/hd
+#EXTINF:978 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="",DirecTV Sports 2 Sur HD
+https://v3.playerlatino.live/stream/m3u8/978/hd
+#EXTINF:979 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="",Multimedios (Monterrey)
+https://v3.playerlatino.live/stream/m3u8/979/hd
+#EXTINF:980 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="",Multimedios (Monterrey) HD
+https://v3.playerlatino.live/stream/m3u8/980/hd
+#EXTINF:981 tvg-logo="http://x.playerlatino.live/amc.png" group-title="",AMC (ES)
+https://v3.playerlatino.live/stream/m3u8/981/hd
+#EXTINF:982 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="",TNT HD (ES)
+https://v3.playerlatino.live/stream/m3u8/982/hd
+#EXTINF:983 tvg-logo="http://x.playerlatino.live/daria.png" group-title="",Daria 24/7
+https://v3.playerlatino.live/stream/m3u8/983/hd
+#EXTINF:984 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="",Dragon Ball (ES) 24/7
+https://v3.playerlatino.live/stream/m3u8/984/hd
+#EXTINF:985 tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png" group-title="",Celebrity Deathmatch (EN) 24/7
+https://v3.playerlatino.live/stream/m3u8/985/hd
+#EXTINF:989 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="",SKY Sports MX HD
+https://v3.playerlatino.live/stream/m3u8/989/hd
+#EXTINF:990 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Accion
+https://v3.playerlatino.live/stream/m3u8/990/hd
+#EXTINF:992 tvg-logo="http://x.playerlatino.live/happytreefriends.png" group-title="",Happy Tree Friends 24/7
+https://v3.playerlatino.live/stream/m3u8/992/hd
+#EXTINF:993 tvg-logo="http://x.playerlatino.live/dragonballzkai.png" group-title="",Dragon Ball Z Kai 24/7
+https://v3.playerlatino.live/stream/m3u8/993/hd
+#EXTINF:994 tvg-logo="http://x.playerlatino.live/muchalucha.png" group-title="",Mucha Lucha 24/7
+https://v3.playerlatino.live/stream/m3u8/994/hd
+#EXTINF:995 tvg-logo="http://x.playerlatino.live/muchalucha.png" group-title="",Mucha Lucha HD 24/7
+https://v3.playerlatino.live/stream/m3u8/995/hd
+#EXTINF:996 tvg-logo="http://x.playerlatino.live/heman.png" group-title="",He-Man 24/7
+https://v3.playerlatino.live/stream/m3u8/996/hd
+#EXTINF:997 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="",TUDN op. 2
+https://v3.playerlatino.live/stream/m3u8/997/hd
+#EXTINF:998 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+https://v3.playerlatino.live/stream/m3u8/998/hd
+#EXTINF:999 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="",Discovery H&H HD
+https://v3.playerlatino.live/stream/m3u8/999/hd
+#EXTINF:1002 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Thriller HD
+https://v3.playerlatino.live/stream/m3u8/1002/hd
+#EXTINF:1003 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Western HD
+https://v3.playerlatino.live/stream/m3u8/1003/hd
+#EXTINF:1004 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Disney HD
+https://v3.playerlatino.live/stream/m3u8/1004/hd
+#EXTINF:1005 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Disney Animadas HD
+https://v3.playerlatino.live/stream/m3u8/1005/hd
+#EXTINF:1006 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Anime HD
+https://v3.playerlatino.live/stream/m3u8/1006/hd
+#EXTINF:1007 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Aventura 1 HD
+https://v3.playerlatino.live/stream/m3u8/1007/hd
+#EXTINF:1009 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Belico HD
+https://v3.playerlatino.live/stream/m3u8/1009/hd
+#EXTINF:1010 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Clasico  HD
+https://v3.playerlatino.live/stream/m3u8/1010/hd
+#EXTINF:1011 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Clasicos Mexicanos HD
+https://v3.playerlatino.live/stream/m3u8/1011/hd
+#EXTINF:1012 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Conciertos HD
+https://v3.playerlatino.live/stream/m3u8/1012/hd
+#EXTINF:1013 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Crimen HD
+https://v3.playerlatino.live/stream/m3u8/1013/hd
+#EXTINF:1015 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Musicales HD
+https://v3.playerlatino.live/stream/m3u8/1015/hd
+#EXTINF:1016 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Parodias HD
+https://v3.playerlatino.live/stream/m3u8/1016/hd
+#EXTINF:1017 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Religion HD
+https://v3.playerlatino.live/stream/m3u8/1017/hd
+#EXTINF:1018 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine DC Comics HD
+https://v3.playerlatino.live/stream/m3u8/1018/hd
+#EXTINF:1022 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Accion 1 HD
+https://v3.playerlatino.live/stream/m3u8/1022/hd
+#EXTINF:1023 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Romance 2 HD
+https://v3.playerlatino.live/stream/m3u8/1023/hd
+#EXTINF:1024 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="",Cine Infantil 2 HD
+https://v3.playerlatino.live/stream/m3u8/1024/hd
+#EXTINF:1025 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png" group-title="",Famosos Acceso Total
+https://v3.playerlatino.live/stream/m3u8/1025/hd
+#EXTINF:1026 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png" group-title="",Famosos D. Infierno
+https://v3.playerlatino.live/stream/m3u8/1026/hd
+#EXTINF:1027 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png" group-title="",Famosos D. Cielo
+https://v3.playerlatino.live/stream/m3u8/1027/hd
+#EXTINF:1028 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png" group-title="",Famosos Sala
+https://v3.playerlatino.live/stream/m3u8/1028/hd
+#EXTINF:1029 tvg-logo="http://x.playerlatino.live/lacasadelosfamosos.png" group-title="",Famosos Baño
+https://v3.playerlatino.live/stream/m3u8/1029/hd
