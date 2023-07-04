@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru" tvg-id="America HD" tvg-shift="",America 720P
+https://v3.playerlatino.live/stream/m3u8/780/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="DisneyJunior" tvg-shift="",Disney Junior SD
+https://v3.playerlatino.live/stream/m3u8/30/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png" group-title="Deportes" tvg-id="ESPN2 Peru" tvg-shift="",ESPN 2 720P
+https://v3.playerlatino.live/stream/m3u8/156/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" tvg-id="ESPN2 Peru" tvg-shift="",ESPN 2 SD
+https://v3.playerlatino.live/stream/m3u8/531/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes" tvg-id="ESPN2 Peru" tvg-shift="",ESPN 2 SD
+https://v3.playerlatino.live/stream/m3u8/35/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes" tvg-id="FoxSports2HD" tvg-shift="",Fox Sports 2 SD
+https://v3.playerlatino.live/stream/m3u8/53/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes" tvg-id="FoxSports3HD" tvg-shift="",Fox Sports 3 SD
+https://v3.playerlatino.live/stream/m3u8/54/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" tvg-id="FoxSportsPrem" tvg-shift="",Fox Sports Premium HD
+https://v3.playerlatino.live/stream/m3u8/512/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" tvg-id="GOLPERU HD" tvg-shift="",Gol Peru SD
+https://v3.playerlatino.live/stream/m3u8/686/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" tvg-id="GolTV HD" tvg-shift="",Gol TV SD
+https://v3.playerlatino.live/stream/m3u8/514/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas" tvg-id="Paramount HD" tvg-shift="",Paramount HD
+https://v3.playerlatino.live/stream/m3u8/647/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" tvg-id="Space HD" tvg-shift="",Space SD
+https://v3.playerlatino.live/stream/m3u8/83/hd
+
+

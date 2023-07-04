@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png" group-title="España" tvg-id="ATRES" tvg-shift="",A3Series 720P
+https://v3.playerlatino.live/stream/m3u8/945/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España" tvg-id="ATRES" tvg-shift="",A3Series 720P
+https://v3.playerlatino.live/stream/m3u8/444/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="AMCHD" tvg-shift="",AMC SD
+https://v3.playerlatino.live/stream/m3u8/475/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes" tvg-id="CLAROSP" tvg-shift="",Claro Sports
+https://v3.playerlatino.live/stream/m3u8/328/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador" tvg-id="ECUAVI" tvg-shift="",Ecuavisa
+https://v3.playerlatino.live/stream/m3u8/319/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador" tvg-id="" tvg-shift="",El Canal Del Futbol
+https://v3.playerlatino.live/stream/m3u8/892/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes" tvg-id="ESPNHD" tvg-shift="",ESPN Chile
+https://v3.playerlatino.live/stream/m3u8/842/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes" tvg-id="FSA" tvg-shift="",Fox Sports Premium HD
+https://v3.playerlatino.live/stream/m3u8/192/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" tvg-id="FOXSPHD" tvg-shift="",Fox Sports Argentina HD
+https://v3.playerlatino.live/stream/m3u8/769/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes" tvg-id="FOXSPHD" tvg-shift="",Fox Sports 720P
+https://v3.playerlatino.live/stream/m3u8/402/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador" tvg-id="GAMATV" tvg-shift="",Gamavision
+https://v3.playerlatino.live/stream/m3u8/891/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="HBO 2" tvg-shift="",HBO 2 HD
+https://v3.playerlatino.live/stream/m3u8/300/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="" tvg-id="HBO 2" tvg-shift="",HBO 2 HD
+https://v3.playerlatino.live/stream/m3u8/732/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="HBOHD" tvg-shift="",HBO HD
+https://v3.playerlatino.live/stream/m3u8/62/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="HBO+" tvg-shift="",HBO Plus HD
+https://v3.playerlatino.live/stream/m3u8/64/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="HBO+" tvg-shift="",HBO Plus HD
+https://v3.playerlatino.live/stream/m3u8/655/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="Entretenimiento" tvg-id="PASNHD" tvg-shift="",Pasiones HD
+https://v3.playerlatino.live/stream/m3u8/755/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador" tvg-id="TAMAZ" tvg-shift="",TeleAmazonas
+https://v3.playerlatino.live/stream/m3u8/320/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento" tvg-id="TELEMUND" tvg-shift="",Telemundo 720P
+https://v3.playerlatino.live/stream/m3u8/92/hd

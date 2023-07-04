@@ -1,0 +1,48 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" tvg-id="Antena 3" tvg-shift="",Antena 3 720P
+https://v3.playerlatino.live/stream/m3u8/298/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España" tvg-id="AXN" tvg-shift="",AXN HD
+https://v3.playerlatino.live/stream/m3u8/713/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España" tvg-id="Movistar Acción" tvg-shift="",Canal+ Accion
+https://v3.playerlatino.live/stream/m3u8/364/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes" tvg-id="Toros" tvg-shift="",Canal+ Toros
+https://v3.playerlatino.live/stream/m3u8/369/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="España" tvg-id="Discovery Max" tvg-shift="",Discovery Max HD
+https://v3.playerlatino.live/stream/m3u8/923/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Peliculas" tvg-id="Fox" tvg-shift="",Fox (ES) HD
+https://v3.playerlatino.live/stream/m3u8/926/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="España" tvg-id="LA 1" tvg-shift="",La 1 HD
+https://v3.playerlatino.live/stream/m3u8/927/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png" group-title="España" tvg-id="LA 2" tvg-shift="",La 2 HD
+https://v3.playerlatino.live/stream/m3u8/967/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España" tvg-id="La Sexta" tvg-shift="",La Sexta
+https://v3.playerlatino.live/stream/m3u8/326/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" tvg-id="M. Liga de Campeones 1" tvg-shift="",Liga de Campeones
+https://v3.playerlatino.live/stream/m3u8/890/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="Mega" tvg-shift="",Mega
+https://v3.playerlatino.live/stream/m3u8/766/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="Mega" tvg-shift="",Mega ES HD
+https://v3.playerlatino.live/stream/m3u8/929/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España" tvg-id="Movistar Comedia" tvg-shift="",Movistar Comedia
+https://v3.playerlatino.live/stream/m3u8/370/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="Movistar Deportes" tvg-shift="",Movistar Deportes SD
+https://v3.playerlatino.live/stream/m3u8/366/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="Peliculas" tvg-id="Movistar Estrenos" tvg-shift="",Movistar Estrenos HD
+https://v3.playerlatino.live/stream/m3u8/976/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="Deportes" tvg-id="M. LaLiga" tvg-shift="",Movistar LaLiga HD
+https://v3.playerlatino.live/stream/m3u8/916/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Entretenimiento" tvg-id="Movistar Series" tvg-shift="",Movistar Series HD
+https://v3.playerlatino.live/stream/m3u8/924/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España" tvg-id="MTV" tvg-shift="",MTV (ES)
+https://v3.playerlatino.live/stream/m3u8/803/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="España" tvg-id="Paramount Channel" tvg-shift="",Paramount HD (ES)
+https://v3.playerlatino.live/stream/m3u8/970/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="España" tvg-id="SYFY" tvg-shift="",SyFy (ES) HD
+https://v3.playerlatino.live/stream/m3u8/969/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telecinco.png" group-title="España" tvg-id="Telecinco" tvg-shift="",Telecinco HD
+https://v3.playerlatino.live/stream/m3u8/922/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teledeporte.png" group-title="España" tvg-id="Teledeporte" tvg-shift="",Teledeporte HD (ES)
+https://v3.playerlatino.live/stream/m3u8/330/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png" group-title="España" tvg-id="#Vamos" tvg-shift="",Vamos HD
+https://v3.playerlatino.live/stream/m3u8/940/hd
+

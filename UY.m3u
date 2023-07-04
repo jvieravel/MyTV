@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Peliculas" tvg-id="UNIVERSAL COMEDY" tvg-shift="",Universal Comedy HD
+https://v3.playerlatino.live/stream/m3u8/903/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Peliculas" tvg-id="UNIVERSAL CRIME" tvg-shift="",Universal Crime HD
+https://v3.playerlatino.live/stream/m3u8/904/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas" tvg-id="UNIVERSAL CHANNEL" tvg-shift="",Universal SD
+https://v3.playerlatino.live/stream/m3u8/502/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Peliculas" tvg-id="UNIVERSAL PREMIERE" tvg-shift="",Universal Premiere HD
+https://v3.playerlatino.live/stream/m3u8/901/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Peliculas" tvg-id="UNIVERSAL REALITY" tvg-shift="",Universal Reality HD
+https://v3.playerlatino.live/stream/m3u8/905/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay" tvg-id="VTV" tvg-shift="",VTV Uruaguay
+https://v3.playerlatino.live/stream/m3u8/708/hd
+

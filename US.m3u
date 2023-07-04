@@ -1,0 +1,36 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="AMCHD" tvg-shift="",AMC 720P
+https://v3.playerlatino.live/stream/m3u8/981/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas" tvg-id="AZCINE" tvg-shift="",Az Cinema
+https://v3.playerlatino.live/stream/m3u8/186/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento" tvg-id="AZCLIC" tvg-shift="",Az Clic
+https://v3.playerlatino.live/stream/m3u8/165/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento" tvg-id="AZCRZON" tvg-shift="",Az Corazón 720P
+https://v3.playerlatino.live/stream/m3u8/166/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento" tvg-id="AZCRZON" tvg-shift="",Az Corazón HD
+https://v3.playerlatino.live/stream/m3u8/834/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica" tvg-id="BANDA" tvg-shift="",Bandamax HD
+https://v3.playerlatino.live/stream/m3u8/8/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica" tvg-id="BANDA" tvg-shift="",Bandamax HD
+https://v3.playerlatino.live/stream/m3u8/833/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png" group-title="Noticias" tvg-id="BBCWN" tvg-shift="",BBC 720P
+https://v3.playerlatino.live/stream/m3u8/931/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes" tvg-id="beINHD" tvg-shift="",BeinSports
+https://v3.playerlatino.live/stream/m3u8/753/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes" tvg-id="beINHD" tvg-shift="",BeinSports 720P
+https://v3.playerlatino.live/stream/m3u8/9/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes" tvg-id="beINHD" tvg-shift="",BeinSports Ñ
+https://v3.playerlatino.live/stream/m3u8/761/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes" tvg-id="beINHD" tvg-shift="",BeinSports Ñ HD
+https://v3.playerlatino.live/stream/m3u8/376/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas" tvg-id="MMXHD" tvg-shift="",Movie Max
+https://v3.playerlatino.live/stream/m3u8/678/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas" tvg-id="STZCI" tvg-shift="",Starz Cinema
+https://v3.playerlatino.live/stream/m3u8/680/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas" tvg-id="STZAC" tvg-shift="",Starz Encore Action
+https://v3.playerlatino.live/stream/m3u8/682/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas" tvg-id="STZFM" tvg-shift="",Starz Encore Family
+https://v3.playerlatino.live/stream/m3u8/684/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento" tvg-id="TLNOV" tvg-shift="",Univision Tlnovelas
+https://v3.playerlatino.live/stream/m3u8/413/hd
+
