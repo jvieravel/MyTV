@@ -1,37 +1,37 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina" tvg-id="CNL13" tvg-shift="",El 13 Argentina
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina" tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-shift="",El 13 Argentina
 https://v3.playerlatino.live/stream/m3u8/239/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina" tvg-id="CNL9" tvg-shift="",El Nueve
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina" tvg-id="Canal.Nueve.(CNL9).ar" tvg-shift="",El Nueve
 https://v3.playerlatino.live/stream/m3u8/772/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina" tvg-id="" tvg-shift="",El Trece
 https://v3.playerlatino.live/stream/m3u8/767/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" tvg-id="ESPNXTRA" tvg-shift="",ESPN Extra SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes" tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-shift="",ESPN Extra SD
 https://v3.playerlatino.live/stream/m3u8/487/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes" tvg-id="ESPN4" tvg-shift="",ESPN Premium
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes" tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-shift="",ESPN Premium
 https://v3.playerlatino.live/stream/m3u8/972/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes" tvg-id="ESPN4" tvg-shift="",ESPN Premium 720P
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes" tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-shift="",ESPN Premium 720P
 https://v3.playerlatino.live/stream/m3u8/952/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="F&A" tvg-shift="",Film & Arts HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).ar" tvg-shift="",Film & Arts HD
 https://v3.playerlatino.live/stream/m3u8/149/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="Entretenimiento" tvg-id="FOOD" tvg-shift="",Food Network
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="Entretenimiento" tvg-id="Food.Network.(Latin.America).(FOOD).ar" tvg-shift="",Food Network
 https://v3.playerlatino.live/stream/m3u8/961/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" tvg-id="ESPN4" tvg-shift="",ESPN Premium 720P
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes" tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-shift="",ESPN Premium 720P
 https://v3.playerlatino.live/stream/m3u8/658/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="HBOPOP" tvg-shift="",HBO Pop SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="HBO.POP.(Panamerican).(HBOPOP).ar" tvg-shift="",HBO Pop SD
 https://v3.playerlatino.live/stream/m3u8/977/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="Musica" tvg-id="MUCHLA" tvg-shift="",Much Music
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="Musica" tvg-id="Much.Music.(Latin.America).(MUCHLA).ar" tvg-shift="",Much Music
 https://v3.playerlatino.live/stream/m3u8/950/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas" tvg-id="TCMLA" tvg-shift="",TCM SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas" tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-shift="",TCM SD
 https://v3.playerlatino.live/stream/m3u8/85/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina" tvg-id="TELFE2" tvg-shift="",Telefe
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina" tvg-id="Telefe.(TELFE2).ar" tvg-shift="",Telefe
 https://v3.playerlatino.live/stream/m3u8/771/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas" tvg-id="TNT-I" tvg-shift="",TNT SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas" tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-shift="",TNT SD
 https://v3.playerlatino.live/stream/m3u8/500/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" tvg-id="TNT-I" tvg-shift="",TNT 720P
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-shift="",TNT 720P
 https://v3.playerlatino.live/stream/m3u8/90/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" tvg-id="TNT-I" tvg-shift="",TNT Series 720P
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento" tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-shift="",TNT Series 720P
 https://v3.playerlatino.live/stream/m3u8/650/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" tvg-id="TNTSP" tvg-shift="",TNT Sports Chile
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes" tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-shift="",TNT Sports Chile
 https://v3.playerlatino.live/stream/m3u8/906/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" tvg-id="TYC" tvg-shift="",Tyc Sports
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-shift="",Tyc Sports
 https://v3.playerlatino.live/stream/m3u8/274/hd
