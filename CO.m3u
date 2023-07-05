@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="AMC" tvg-shift="",AMC SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="AMC.co" tvg-shift="",AMC SD
 https://v3.playerlatino.live/stream/m3u8/183/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia" tvg-id="RCN" tvg-shift="",RCN
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia" tvg-id="RCN.co" tvg-shift="",RCN
 https://v3.playerlatino.live/stream/m3u8/390/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" tvg-id="Space" tvg-shift="",Space HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" tvg-id="Space.co" tvg-shift="",Space HD
 https://v3.playerlatino.live/stream/m3u8/499/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png" group-title="España" tvg-id="Star TVE HD" tvg-shift="",Star TVE HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png" group-title="España" tvg-id="Star.TVE.HD.co" tvg-shift="",Star TVE HD
 https://v3.playerlatino.live/stream/m3u8/944/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" tvg-id="Win Sports" tvg-shift="",Win Sports HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" tvg-id="Win.Sports.co" tvg-shift="",Win Sports HD
 https://v3.playerlatino.live/stream/m3u8/292/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Deportes" tvg-id="Win Sports+" tvg-shift="",Win Sports +
 https://v3.playerlatino.live/stream/m3u8/881/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Deportes" tvg-id="Win Sports+" tvg-shift="",Win Sports + HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Deportes" tvg-id="Win.Sports+.co" tvg-shift="",Win Sports + HD
 https://v3.playerlatino.live/stream/m3u8/802/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" tvg-id="Win Sports" tvg-shift="",Win Sports HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" tvg-id="Win.Sports.co" tvg-shift="",Win Sports HD
 https://v3.playerlatino.live/stream/m3u8/754/hd
