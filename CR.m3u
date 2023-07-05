@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" tvg-id="A&amp;E.HDTV.(Andes).(A&amp;EHD).[925].cr" tvg-shift="",A&E HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" tvg-id="A&E.HDTV.(Andes).(A&amp;EHD).[925].cr" tvg-shift="",A&E HD
 https://v3.playerlatino.live/stream/m3u8/474/hd
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" tvg-id="A&amp;E.HDTV.(Andes).(A&amp;EHD).[925].cr" tvg-shift="",A&E SD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento" tvg-id="A&E.HDTV.(Andes).(A&amp;EHD).[925].cr" tvg-shift="",A&E SD
 https://v3.playerlatino.live/stream/m3u8/1/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura" tvg-id="Animal.Planet.HDTV.(International).(APHD).[941].cr" tvg-shift="",Animal Planet SD
 https://v3.playerlatino.live/stream/m3u8/3/hd
