@@ -23,5 +23,29 @@ https://v3.playerlatino.live/stream/m3u8/514/hd
 https://v3.playerlatino.live/stream/m3u8/647/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas" tvg-id="SPACE.REGIONAL.DTH.LIVE.(Space.HD).pe" tvg-shift="",Space SD
 https://v3.playerlatino.live/stream/m3u8/83/hd
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-shift="",Animal Planet HD
+http://45.160.12.253:8000/play/025
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Cartoon.Network.HD.(Cartoon.Network.HD).pe" tvg-shift="",Cartoon Network HD
+http://45.160.12.253:8000/play/009
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="CINECANAL.HD.(Cinecanal.HD).pe" tvg-shift="",Cinecanal SD
+http://45.160.12.253:8000/play/107
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="DISCOVERY.HD.(DiscoveryHD).pe" tvg-shift="",Discovery Channel HD
+http://45.160.12.253:8000/play/024
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HOME.&amp;.HEALTH.HD.(Home&amp;HealthHD).pe" tvg-shift="",Discovery H&H HD
+http://45.160.12.253:8000/play/171
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="DISNEY.CHANNEL.HD.(DisneyHD).pe" tvg-shift="",Disney Channel HD
+http://45.160.12.253:8000/play/010
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="DISNEY.JUNIOR.(DisneyJunior).pe" tvg-shift="",Disney Jr SD
+http://45.160.12.253:8000/play/006
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ENLACE.TBN.(Enlace).pe" tvg-shift="",Enlace SD
+http://45.160.12.253:8000/play/042
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="FX.HD.(FX.HD).pe" tvg-shift="",FX HD
+http://45.160.12.253:8000/play/093
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ID.HD.-.INVESTIGATION.DISCOVERY.HD.(Invest.DiscoveryHD).pe" tvg-shift="",ID HD
+http://45.160.12.253:8000/play/079
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="NAT.GEO.HD.(Nat.Geo.HD).pe" tvg-shift="",Nat Geo HD
+http://45.160.12.253:8000/play/027
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TLC.(TLC).pe" tvg-shift="",TLC SD
+http://45.160.12.253:8000/play/172
 
 

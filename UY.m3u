@@ -11,4 +11,45 @@ https://v3.playerlatino.live/stream/m3u8/901/hd
 https://v3.playerlatino.live/stream/m3u8/905/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay" tvg-id="VTV.uy" tvg-shift="",VTV Uruaguay
 https://v3.playerlatino.live/stream/m3u8/708/hd
-
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="A&amp;E.MUNDO.HD.uy" tvg-shift="-1",AE Mundo HD
+http://45.160.12.253:8000/play/102
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="AXN.HD.uy" tvg-shift="",AXN HD
+http://45.160.12.253:8000/play/087
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="LAS.ESTRELLAS.uy" tvg-shift="",Canal Estrellas HD
+http://45.160.12.253:8000/play/151
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="DISCOVERY.KIDS.HD.uy" tvg-shift="",Discovery Kids HD
+http://45.160.12.253:8000/play/005
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.HD.uy" tvg-shift="",ESPN
+http://45.160.12.253:8000/play/212
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.2.HD.uy" tvg-shift="",ESPN 2
+http://45.160.12.253:8000/play/214
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.3.HD.uy" tvg-shift="",ESPN 3
+http://45.160.12.253:8000/play/216
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.HD.uy" tvg-shift="",HBO HD
+http://45.160.12.253:8000/play/017
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.2.uy" tvg-shift="",HBO 2 SD
+http://45.160.12.253:8000/play/021
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family
+http://45.160.12.253:8000/play/018
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.PLUS.HD.uy" tvg-shift="",HBO Plus SD
+http://45.160.12.253:8000/play/019
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.XTREME.HD.uy" tvg-shift="",HBO Xtreme HD
+http://45.160.12.253:8000/play/020
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="H2.HD.uy" tvg-shift="",History 2 HD
+http://45.160.12.253:8000/play/033
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HISTORY.HD.uy" tvg-shift="",History Channel HD
+http://45.160.12.253:8000/play/032
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="LIFETIME.uy" tvg-shift="",Lifetime SD
+http://45.160.12.253:8000/play/100
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="MTV.uy" tvg-shift="",MTV SD
+http://45.160.12.253:8000/play/132
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SPACE.HD.uy" tvg-shift="",Space HD
+http://45.160.12.253:8000/play/119
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="STAR.CHANNEL.HD.uy" tvg-shift="",Star Channel HD
+http://45.160.12.253:8000/play/083
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SYFY.uy" tvg-shift="",SyFy SD
+http://45.160.12.253:8000/play/101
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TNT.HD.uy" tvg-shift="",TNT HD
+http://45.160.12.253:8000/play/109
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TVE.uy" tvg-shift="",TVE SD
+http://45.160.12.253:8000/play/153

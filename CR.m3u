@@ -143,3 +143,11 @@ https://v3.playerlatino.live/stream/m3u8/99/hd
 https://v3.playerlatino.live/stream/m3u8/503/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="" tvg-id="Tu.Deportes.Network.(TUDN).Centroamerica.(TUDN).[206].cr" tvg-shift="",Zona TUDN
 https://v3.playerlatino.live/stream/m3u8/956/hd
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.4.Latin.America.(Cono.Norte).(FOXSP).[200].cr" tvg-shift="",ESPN 4
+http://45.160.12.253:8000/play/218
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" tvg-shift="",Telemundo SD
+http://45.160.12.253:8000/play/149
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TV.Chile.(TVN.Internacional).(TVCHILE).[544].cr" tvg-shift="",TVN Chile HD
+http://45.160.12.253:8000/play/064
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Universal.Channel.(Latin.America).(UNIVERS).[354].cr" tvg-shift="",Universal SD
+http://45.160.12.253:8000/play/088
