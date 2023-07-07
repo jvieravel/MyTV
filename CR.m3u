@@ -151,3 +151,97 @@ http://45.160.12.253:8000/play/149
 http://45.160.12.253:8000/play/064
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="Universal.Channel.(Latin.America).(UNIVERS).[354].cr" tvg-shift="",Universal SD
 http://45.160.12.253:8000/play/088
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="A&amp;E.(Andes).(A&amp;E).[403].cr" tvg-shift="",A&E SD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="AXN.Latin.America.HDTV.(AXNHD).[926].cr" tvg-shift="",AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Animal.Planet.HDTV.(International).(APHD).[941].cr" tvg-shift="",Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Antena.3.(Internacional).(ANTENA.3).[536].cr" tvg-shift="",Antena 3 SD
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Cinecanal.(Latin.America).(CINEC).[791].cr" tvg-shift="",CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Cable.News.Network.en.Español.(Latin.America).(CNNESP).[525].cr" tvg-shift="",CNNE SD
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Cinecanal.(Latin.America).(CINEC).[791].cr" tvg-shift="",CineCanal SD
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.Theater.HDTV.(Latin.America).(THEATER).[949].cr" tvg-shift="",DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Disney.en.Español.(Central.feed/Multi.country).(DISNEY).[306].cr" tvg-shift="",DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="The.Discovery.Channel.HDTV.(Latin.America).(DCKHD).[940].cr" tvg-shift="",Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-shift="",Discovery Home & Health sd
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Investigation.Discovery.(Latin.America).(ID).[406].cr" tvg-shift="",Discovery ID HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.Kids.(Latin.America).(DSCKDS).[302].cr" tvg-shift="",Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.Turbo.International.(DTUR).[300].cr" tvg-shift="",Discovery Turbo SD
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.World.HDTV.(Latin.America).(DWORLD).[948].cr" tvg-shift="",Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="E!.Entertainment.Television.HDTV.(Andes).(E!HD).[811].cr" tvg-shift="",E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.2.Latin.Central.América.HD.(ESPN2HD).[810].cr" tvg-shift="",ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).[902].cr" tvg-shift="",ESPN 3 HD
+http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="ESPN.Centroamérica.(ESPNCA).[1036].cr" tvg-shift="",ESPN HD
+http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Eternal.Word.Television.(Latin.America).(EWTN).[101].cr" tvg-shift="",EWTN SD
+http://45.166.92.22:58001/play/a050/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Fox.News.Channel.(East).(FNC).[527].cr" tvg-shift="",FOX NEWS HD
+http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="FX.Latin.America.HDTV.(Colombia).(FXHD).[927].cr" tvg-shift="",FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.Latin.America.(West).(HBO).[820].cr" tvg-shift="",HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).[824].cr" tvg-shift="",HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.Xtreme.HDTV.(Mexico).(HBOXTR).[826].cr" tvg-shift="",HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HBO.2.HDTV.(Mexico).(HBO2HD).[821].cr" tvg-shift="",HBO 2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="History.2.HDTV.(Latin.America).(H2HD).[783].cr" tvg-shift="",HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="HTV.Música.(HTV).[614].cr" tvg-shift="",HTV SD
+http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="The.History.Channel.HDTV.(Andes).(THCHD).[857].cr" tvg-shift="",History HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Discovery.Home.&amp;.Health.HDTV.(Latin.America).(DH&amp;HHD).[936].cr" tvg-shift="",Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Nat.Geo.HDTV.(NGCHD).[854].cr" tvg-shift="",Nat Geo HD
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Nat.Geo.HDTV.(NGCHD).[854].cr" tvg-shift="",National Geographic SD
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Paramount.Network.(Latin.America).(PARAM).[402].cr" tvg-shift="",Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Penthouse.TV.-.Premium.(Latin.America).(PHTV).[961].cr" tvg-shift="",Penthouse
+http://45.166.92.22:58001/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Sony.Entertainment.Television.HDTV.(Centro.America.feed).(SONYHD).[931].cr" tvg-shift="",SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Space.HDTV.(Panamericano).(SPACEHD).[922].cr" tvg-shift="",SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Star.International.(Centroamérica).(STARC).[353].cr" tvg-shift="",STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Studio.Universal.HDTV.(Latin.America).(STUNIHD).[1048].cr" tvg-shift="",Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TCM.-.Turner.Classic.Movies.(Pan-Regional).(TCMLA).[358].cr" tvg-shift="",TCM SD
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TLC.(Latin.America).(TLC).[455].cr" tvg-shift="",TLC SD
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TNT.Series.PAN.HDTV.(TNTSERHD).[929].cr" tvg-shift="",TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TVE.Internacional.(North.&amp;.South.America).(TVE).[535].cr" tvg-shift="",TVE HD
+http://45.166.92.22:58001/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Telemundo.(Central.America/Non-US).HDTV.(TELEMHD).[862].cr" tvg-shift="",Telemundo HD
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Torneos.y.Competencias.HDTV.(Latin.America).(TYCHD).[906].cr" tvg-shift="",TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-shift="",Univision HD
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Warner.Channel.HDTV.(Andes).(WARNERHD).[846].cr" tvg-shift="",WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="I51.4.79548.zap2it.com" tvg-shift="",TELEMUNDO MIAMI 51
+http://45.166.92.22:58001/play/a05i/index.m3u8
