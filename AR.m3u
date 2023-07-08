@@ -35,3 +35,5 @@ https://v3.playerlatino.live/stream/m3u8/650/hd
 https://v3.playerlatino.live/stream/m3u8/906/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes" tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-shift="",Tyc Sports
 https://v3.playerlatino.live/stream/m3u8/274/hd
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Film&amp;Arts.(Latin.America).(F&amp;A).ar" tvg-shift="",Film & Arts HD
+http://45.166.92.22:58001/play/a00o/index.m3u8

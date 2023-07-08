@@ -35,3 +35,5 @@ http://45.160.12.253:8000/play/085
 http://45.160.12.253:8000/play/110
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="Warner.Hd.cl" tvg-shift="",Warner HD
 http://45.160.12.253:8000/play/081
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Hola.Tv.cl" tvg-shift="",HOLA! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8

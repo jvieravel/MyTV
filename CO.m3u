@@ -15,3 +15,9 @@ https://v3.playerlatino.live/stream/m3u8/881/hd
 https://v3.playerlatino.live/stream/m3u8/802/hd
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes" tvg-id="Win.Sports.co" tvg-shift="",Win Sports HD
 https://v3.playerlatino.live/stream/m3u8/754/hd
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="AMC.co" tvg-shift="",AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="DHE.HD.co" tvg-shift="",DHE HD
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="MTV.Live.co" tvg-shift="",MTV Live HD
+http://45.166.92.22:58001/play/a018/index.m3u8

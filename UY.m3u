@@ -53,3 +53,13 @@ http://45.160.12.253:8000/play/101
 http://45.160.12.253:8000/play/109
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="TVE.uy" tvg-shift="",TVE SD
 http://45.160.12.253:8000/play/153
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SONY.MOVIES.uy" tvg-shift="",Sony Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="PASIONES.uy" tvg-shift="",Pasiones HD
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="STAR.TVE.uy" tvg-shift="",Star TVE HD
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="TNT.HD.uy" tvg-shift="",TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="UNIVERSAL.CINEMA.uy" tvg-shift="",Universal cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8

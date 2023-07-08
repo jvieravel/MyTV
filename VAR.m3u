@@ -1,0 +1,11 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml.gz"
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias" tvg-id="I9.15384.schedulesdirect.org" tvg-shift="",ADN 40 HD
+https://v3.playerlatino.live/stream/m3u8/447/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes" tvg-id="I13.108507.schedulesdirect.org" tvg-shift="",Afizzionados 720P
+https://v3.playerlatino.live/stream/m3u8/878/hd
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes" tvg-id="I14.108506.schedulesdirect.org" tvg-shift="",Afizzionados SD
+https://v3.playerlatino.live/stream/m3u8/939/hd
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="I269.27741.schedulesdirect.org" tvg-shift="",Europa HD
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="I51.4.79548.zap2it.com" tvg-shift="",TELEMUNDO MIAMI 51
+http://45.166.92.22:58001/play/a05i/index.m3u8
