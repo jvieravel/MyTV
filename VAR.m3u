@@ -11,7 +11,7 @@ http://45.166.92.22:58001/play/a00t/index.m3u8
 http://45.166.92.22:58001/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es" tvg-id="I269.27741.schedulesdirect.org", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" tvg-id="I48.1.30460.zap2it.com" tvg-shift="2", Telemundo California
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" tvg-id="I48.1.30460.zap2it.com" tvg-shift="3", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/KGNSTelemundo83.png" tvg-id="I269.27741.schedulesdirect.org" tvg-shift="2", Telemundo Laredo TX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/KGNSTelemundo83.png" tvg-id="I269.27741.schedulesdirect.org" tvg-shift="3", Telemundo Laredo TX
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
