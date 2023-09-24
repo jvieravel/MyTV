@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="" tvg-shift="0",AMC HD (CO)
 http://204.199.109.34:35000/play/a07k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento" tvg-id="" tvg-shift="0",AXN (CO)
