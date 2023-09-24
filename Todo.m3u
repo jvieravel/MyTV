@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, "
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento" tvg-id="" tvg-shift="0",AMC HD
 http://204.199.109.34:35000/play/a07k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento" tvg-id="" tvg-shift="0",AXN
