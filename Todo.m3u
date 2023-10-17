@@ -969,45 +969,45 @@ http://user.tvcluboficial.com/stream/sep/sep/738.m3u8
 http://204.199.109.34:35000/play/a06t
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (NI)
 http://45.170.225.212:58001/play/a03a/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="1",Cinemax (PY)
 http://45.184.111.158:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (GT)
 http://45.228.234.193:16003/play/a0eg/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (PE)
 http://45.189.117.32:7076/play/a0vz/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (GT)
 http://45.228.232.219:16000/play/a0o7/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (PE)
 http://45.186.252.17:8000/play/a0ch
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (CO)
 http://45.177.53.7:8000/play/a0d3/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="1",Cinemax (VE)
 http://38.41.8.1:8000/play/a05v
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (CO)
 http://190.95.220.212:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax (GT)
 http://190.149.66.90:4000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="1",Cinemax (EC)
 http://177.234.242.150:50032/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (CL)
 http://45.184.85.7:1080/play/a0e5
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (PE)
 http://45.189.117.32:7076/play/a0vk/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="4",Cinemax HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/638.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (VE)
 http://38.41.8.1:8000/play/a00y
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (CL)
 http://201.222.44.220:4227/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (PE)
 http://161.132.243.192:50001/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (PE)
 http://161.132.108.76:50001/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="1509dtv.cl" tvg-shift="",Cinemax HD (PE)
 http://161.132.108.75:50001/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax SD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="509dtv.ar" tvg-shift="",Cinemax SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/20.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Cinemax Sur (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas" tvg-id="509dtv.ar" tvg-shift="",Cinemax Sur (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/739.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Colombia" tvg-id="133dtv.co" tvg-shift="",City TV (CO)
 http://204.199.109.34:35000/play/a068
@@ -1265,119 +1265,119 @@ http://45.228.232.219:16000/play/a0kg/index.m3u8
 http://190.149.66.90:4000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (CO)
 http://204.199.109.34:35000/play/a06e
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (PY)
 http://45.184.111.158:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (GT)
 http://45.228.234.193:16003/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (PE)
 http://45.189.117.32:7076/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (CO)
 http://181.78.21.60:16123/play/ch22
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel (GT)
 http://45.228.232.219:16000/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.ar" tvg-shift="",Discovery Channel (PE)
 http://45.186.252.17:8000/play/a0bp
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (VE)
 http://38.41.8.1:8000/play/a07l
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (CO)
 http://190.95.220.212:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel (GT)
 http://190.149.66.90:4000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel (EC)
 http://177.234.242.150:50032/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel  HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel  HD (CO)
 http://45.177.53.7:8000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (CO)
 http://204.199.109.34:35000/play/a088
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (NI)
 http://45.170.225.212:58001/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (CL)
 http://45.184.85.7:1080/play/a0hh
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (GT)
 http://45.228.234.193:16003/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (PE)
 http://45.189.117.32:7076/play/a0ti/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (PE)
 http://45.189.117.32:7076/play/a0p7/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel HD (HN)
 http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="discoverychannel.mx" tvg-shift="",Discovery Channel HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/639.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.ar" tvg-shift="",Discovery Channel HD (PE)
 http://45.186.252.17:8000/play/a0c3
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (VE)
 http://38.41.8.1:8000/play/a02y
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (CL)
 http://201.222.44.220:4227/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel HD (GT)
 http://190.149.66.90:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (PE)
 http://161.132.243.192:50001/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (PE)
 http://161.132.108.76:50001/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.cl" tvg-shift="",Discovery Channel HD (PE)
 http://161.132.108.75:50001/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel SD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/22.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Channel SD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura" tvg-id="732dtv.co" tvg-shift="",Discovery Channel SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/741.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PY)
 http://45.184.111.158:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PE)
 http://45.189.117.32:7076/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.co" tvg-shift="",Discovery Home & Health (HN)
 http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (CO)
 http://181.78.21.60:16123/play/ch25
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/24.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.co" tvg-shift="",Discovery Home & Health (GT)
 http://45.228.232.219:16000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (CO)
 http://190.95.220.212:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (GT)
 http://190.149.66.90:4000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PE)
 http://161.132.243.192:50001/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PE)
 http://161.132.108.76:50001/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (PE)
 http://161.132.108.75:50001/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health (EC)
 http://177.234.242.150:50032/play/a0di/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (NI)
 http://45.170.225.212:58001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (CL)
 http://45.184.85.7:1080/play/a0el
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (GT)
 http://45.228.234.193:16003/play/a0f7/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (PE)
 http://45.189.117.32:7076/play/a0sn/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.co" tvg-shift="",Discovery Home & Health HD (HN)
 http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (PE)
 http://45.186.252.17:8000/play/a0c2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (CO)
 http://45.177.53.7:8000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (VE)
 http://38.41.8.1:8000/play/a017
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="229dtv.cl" tvg-shift="",Discovery Home & Health HD (CL)
 http://201.222.44.220:4227/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Home & Health HD (GT)
 http://190.149.66.90:4000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (PY)
 http://45.184.111.158:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (PE)
 http://45.189.117.32:7076/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (CO)
 http://181.78.21.60:16123/play/ch23
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/68.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (GT)
 http://45.228.232.219:16000/play/a0nx/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (VE)
 http://38.41.8.1:8000/play/a071
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID (CO)
 http://190.95.220.212:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID (GT)
 http://190.149.66.90:4000/play/a04b/index.m3u8
@@ -1385,99 +1385,99 @@ http://190.149.66.90:4000/play/a04b/index.m3u8
 http://177.234.242.150:50032/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (NI)
 http://45.170.225.212:58001/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (CL)
 http://45.184.85.7:1080/play/a0e7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (GT)
 http://45.228.234.193:16003/play/a0f0/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (PE)
 http://45.189.117.32:7076/play/a0sl/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (HN)
 http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/825.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (CO)
 http://45.177.53.7:8000/play/a0io/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (CL)
 http://201.222.44.220:4227/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (GT)
 http://190.149.66.90:4000/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (PE)
 http://161.132.243.192:50001/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (PE)
 http://161.132.108.76:50001/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery ID HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura" tvg-id="223dtv.cl" tvg-shift="",Discovery ID HD (PE)
 http://161.132.108.75:50001/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (CO)
 http://204.199.109.34:35000/play/a059
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (NI)
 http://45.170.225.212:58001/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (PY)
 http://45.184.111.158:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (CO)
 http://181.78.21.60:16123/play/ch02
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.co" tvg-shift="",Discovery Kids (GT)
 http://45.228.232.219:16000/play/a0nr/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (PE)
 http://45.186.252.17:8000/play/a0bj
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (VE)
 http://38.41.8.1:8000/play/a058
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (CO)
 http://190.95.220.212:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.co" tvg-shift="",Discovery Kids (GT)
 http://190.149.66.90:4000/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids (EC)
 http://177.234.242.150:50032/play/a0c5/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (NI)
 http://45.170.225.212:58001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (CL)
 http://45.184.85.7:1080/play/a0ek
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (GT)
 http://45.228.234.193:16003/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (PE)
 http://45.189.117.32:7076/play/a0op/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.co" tvg-shift="",Discovery Kids HD (HN)
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/641.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (CO)
 http://45.177.53.7:8000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (VE)
 http://38.41.8.1:8000/play/a016
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (CL)
 http://201.222.44.220:4227/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (PE)
 http://161.132.243.192:50001/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (PE)
 http://161.132.108.76:50001/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="330dtv.cl" tvg-shift="",Discovery Kids HD (PE)
 http://161.132.108.75:50001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Discovery Kids SD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/25.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="España" tvg-id="0" tvg-shift="",Discovery Max HD (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="España" tvg-id="discoverymax.es" tvg-shift="",Discovery Max HD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/923.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (NI)
 http://45.170.225.212:58001/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (GT)
 http://45.228.234.193:16003/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science (PE)
 http://45.189.117.32:7076/play/a0uo/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science (PE)
 http://45.186.252.17:8000/play/a0an
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (CO)
 http://45.177.53.7:8000/play/a0g9/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science (CO)
 http://190.95.220.212:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science HD (PE)
 http://161.132.243.192:50001/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science HD (PE)
 http://161.132.108.76:50001/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science HD (PE)
 http://161.132.108.75:50001/play/a039/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Science SD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="discovery-science.cl" tvg-shift="",Discovery Science SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/26.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/27.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater (CO)
 http://45.177.53.7:8000/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (NI)
 http://45.170.225.212:58001/play/a00u/index.m3u8
@@ -1485,63 +1485,63 @@ http://45.170.225.212:58001/play/a00u/index.m3u8
 http://45.184.85.7:1080/play/a0em
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (GT)
 http://45.228.234.193:16003/play/a0f6/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (PE)
 http://45.189.117.32:7076/play/a0os/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (HN)
 http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (PE)
 http://45.186.252.17:8000/play/a0b1
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (VE)
 http://38.41.8.1:8000/play/a018
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (CL)
 http://201.222.44.220:4227/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (GT)
 http://190.149.66.90:4000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (PE)
 http://161.132.243.192:50001/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (PE)
 http://161.132.108.76:50001/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Theater HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura" tvg-id="1731dtv.cl" tvg-shift="",Discovery Theater HD (PE)
 http://161.132.108.75:50001/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (CO)
 http://204.199.109.34:35000/play/a070
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (NI)
 http://45.170.225.212:58001/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (PY)
 http://45.184.111.158:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (GT)
 http://45.228.234.193:16003/play/a0e5/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (PE)
 http://45.189.117.32:7076/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (HN)
 http://45.166.92.22:58001/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (GT)
 http://45.228.232.219:16000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (PE)
 http://45.186.252.17:8000/play/a0a5
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (CO)
 http://45.177.53.7:8000/play/a0jn/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (VE)
 http://38.41.8.1:8000/play/a068
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (CL)
 http://201.222.44.220:4227/play/a044/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (CL)
 http://201.222.44.220:4227/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (CO)
 http://190.95.220.212:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (GT)
 http://190.149.66.90:4000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo (EC)
 http://177.234.242.150:50032/play/a0e9/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo HD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/28.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo HD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/727.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo HD (PE)
 http://161.132.243.192:50001/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo HD (PE)
 http://161.132.108.76:50001/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery Turbo HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura" tvg-id="736dtv.cl" tvg-shift="",Discovery Turbo HD (PE)
 http://161.132.108.75:50001/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World (CO)
 http://45.177.53.7:8000/play/a0g1/index.m3u8
@@ -1553,23 +1553,23 @@ http://45.170.225.212:58001/play/a01e/index.m3u8
 http://45.184.85.7:1080/play/a0fi
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (GT)
 http://45.228.234.193:16003/play/a0ex/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (PE)
 http://45.189.117.32:7076/play/a0sv/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (HN)
 http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/187.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (PE)
 http://45.186.252.17:8000/play/a0b3
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (CL)
 http://201.222.44.220:4227/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (GT)
 http://190.149.66.90:4000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (PE)
 http://161.132.243.192:50001/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (PE)
 http://161.132.108.76:50001/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="0" tvg-shift="",Discovery World HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura" tvg-id="1738dtv.cl" tvg-shift="",Discovery World HD (PE)
 http://161.132.108.75:50001/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (CO)
 http://204.199.109.34:35000/play/a06d
@@ -1577,11 +1577,11 @@ http://204.199.109.34:35000/play/a06d
 http://45.170.225.212:58001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (CL)
 http://45.184.85.7:1080/play/a02v
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="312dtv.cl" tvg-shift="",Disney Channel (PY)
 http://45.184.111.158:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (GT)
 http://45.228.234.193:16003/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="312dtv.cl" tvg-shift="",Disney Channel (CO)
 http://181.78.21.60:16123/play/ch03
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Channel (GT)
 http://45.228.232.219:16000/play/a0nt/index.m3u8
@@ -1623,39 +1623,39 @@ http://204.199.109.34:35000/play/a05m
 http://45.170.225.212:58001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (CL)
 http://45.184.85.7:1080/play/a00c
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (PY)
 http://45.184.111.158:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (GT)
 http://45.228.234.193:16003/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (PE)
 http://45.189.117.32:7076/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (CO)
 http://181.78.21.60:16123/play/ch05
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (GT)
 http://45.228.232.219:16000/play/a0lr/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (PE)
 http://45.186.252.17:8000/play/a0c4
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (CO)
 http://45.177.53.7:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (VE)
 http://38.41.8.1:8000/play/a05l
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (CO)
 http://190.95.220.212:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (GT)
 http://190.149.66.90:4000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (EC)
 http://177.234.242.150:50032/play/a0ci/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior (CO)
 http://45.191.234.189:15082/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/826.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior HD (PE)
 http://161.132.243.192:50001/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior HD (PE)
 http://161.132.108.76:50001/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior HD (PE)
 http://161.132.108.75:50001/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney Junior SD (PL-PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles" tvg-id="315dtv.cl" tvg-shift="",Disney Junior SD (PL-PE)
 http://user.tvcluboficial.com/stream/sep/sep/30.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles" tvg-id="0" tvg-shift="",Disney XD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/31.m3u8
@@ -2201,23 +2201,23 @@ http://161.132.108.75:50001/play/a02d/index.m3u8
 http://190.149.66.90:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts (GT)
 http://45.228.234.193:16003/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts (GT)
 http://190.149.66.90:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (NI)
 http://45.170.225.212:58001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (GT)
 http://45.228.234.193:16003/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (HN)
 http://45.166.92.22:58001/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (PL-AR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (PL-AR)
 http://user.tvcluboficial.com/stream/sep/sep/149.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (PE)
 http://45.186.252.17:8000/play/a0b2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (PE)
 http://161.132.243.192:50001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (PE)
 http://161.132.108.76:50001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="0" tvg-shift="",Film & Arts HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Cultura" tvg-id="746dtv.cl" tvg-shift="",Film & Arts HD (PE)
 http://161.132.108.75:50001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",FM PUEBLO (HN)
 http://45.166.92.22:58001/play/a04t/index.m3u8
@@ -2427,77 +2427,77 @@ http://45.228.234.193:16003/play/a0eo/index.m3u8
 http://190.149.66.90:4000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (CO)
 http://204.199.109.34:35000/play/a06x
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="-2",FX (PY)
 http://45.184.111.158:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (GT)
 http://45.228.234.193:16003/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="-2",FX (PE)
 http://45.189.117.32:7076/play/a0vx/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX (CO)
 http://181.78.21.60:16123/play/ch08
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
+http://user.tvcluboficial.com/stream/sep/sep/42.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX (GT)
 http://45.228.232.219:16000/play/a0kv/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX (CO)
 http://190.95.220.212:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX (GT)
 http://190.149.66.90:4000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (EC)
 http://177.234.242.150:50032/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
-http://user.tvcluboficial.com/stream/sep/sep/42.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (NI)
 http://45.170.225.212:58001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (CL)
 http://45.184.85.7:1080/play/a0f0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (GT)
 http://45.228.234.193:16003/play/a0cb/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (PE)
 http://45.189.117.32:7076/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (HN)
 http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/495.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (GT)
 http://45.228.234.77:3340/play/fxhd/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PE)
 http://45.186.252.17:8000/play/a0ax
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (CO)
 http://45.177.53.7:8000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (VE)
 http://38.41.8.1:8000/play/a01h
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (CL)
 http://201.222.44.220:4227/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (GT)
 http://190.149.66.90:4000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (PE)
 http://161.132.243.192:50001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (PE)
 http://161.132.108.76:50001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (PE)
 http://161.132.108.75:50001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="217dtv.cl" tvg-shift="",FX HD (CO)
 http://45.191.234.189:15082/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Gama TV (VE)
-http://38.41.8.1:8000/play/a0ak
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",GamaTV (EC)
-http://177.234.242.150:50032/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador" tvg-id="0" tvg-shift="",Gamavision (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador" tvg-id="183dtv.ec" tvg-shift="2",Gamavision (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/891.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Gamavision (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Ecuador" tvg-id="183dtv.ec" tvg-shift="2",Gama TV (VE)
+http://38.41.8.1:8000/play/a0ak
+#EXTINF:-1 tvg-logo="0" group-title="Ecuador" tvg-id="183dtv.ec" tvg-shift="2",Gamavision (CO)
 http://190.95.220.212:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Glitz (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Ecuador" tvg-id="183dtv.ec" tvg-shift="2",GamaTV (EC)
+http://177.234.242.150:50032/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="224dtvc." tvg-shift="",Glitz (PE)
 http://45.186.252.17:8000/play/a0cx
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Glitz (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="224dtvc." tvg-shift="",Glitz (CO)
 http://190.95.220.212:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Glitz SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/158.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Global HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="198dtv.pe" tvg-shift="",Global HD (PE)
 http://161.132.243.192:50001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Global HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="198dtv.pe" tvg-shift="",Global HD (PE)
 http://161.132.108.76:50001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Global HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="198dtv.pe" tvg-shift="",Global HD (PE)
 http://161.132.108.75:50001/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Globo Internacional (PY)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="776dtv.cl" tvg-shift="",Globo Internacional (PY)
 http://45.184.111.158:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/63432aef40121d1b7f572d1746e653b0.png" group-title="Venezuela" tvg-id="0" tvg-shift="",Globovision (VE)
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
@@ -2507,17 +2507,17 @@ http://38.41.8.1:8000/play/a03u
 http://201.222.44.220:4227/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Goku TV (CL)
 http://45.184.85.7:1080/play/a0c2
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",GOLPERU (CL)
 http://201.222.44.220:4227/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
-http://161.132.243.192:50001/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
-http://161.132.108.76:50001/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
-http://161.132.108.75:50001/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",GOLPERU HD (CL)
 http://201.222.44.220:4227/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru SD (PL-PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",Gol Peru HD (PE)
+http://161.132.243.192:50001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",Gol Peru HD (PE)
+http://161.132.108.76:50001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",Gol Peru HD (PE)
+http://161.132.108.75:50001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" tvg-id="11mvstr.pe" tvg-shift="",Gol Peru SD (PL-PE)
 http://user.tvcluboficial.com/stream/sep/sep/686.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" tvg-id="0" tvg-shift="",Gol TV (PY)
 http://45.184.111.158:8000/play/a01g/index.m3u8
@@ -2533,9 +2533,9 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 http://45.228.234.193:16003/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden (GT)
 http://45.228.234.77:3340/play/goldenedge/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="503dtv.cl" tvg-shift="",Golden (GT)
 http://45.228.232.219:16000/play/a0l8/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="503dtv.cl" tvg-shift="",Golden (GT)
 http://190.149.66.90:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Edge (PE)
 http://45.189.117.32:7076/play/a0ue/index.m3u8
@@ -2549,35 +2549,35 @@ http://161.132.243.192:50001/play/a04a/index.m3u8
 http://161.132.108.76:50001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Edge HD (PE)
 http://161.132.108.75:50001/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="503dtv.cl" tvg-shift="",Golden HD (PE)
 http://161.132.243.192:50001/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="503dtv.cl" tvg-shift="",Golden HD (PE)
 http://161.132.108.76:50001/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="503dtv.cl" tvg-shift="",Golden HD (PE)
 http://161.132.108.75:50001/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (EC)
 http://177.234.242.150:50032/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus (CO)
 http://181.78.21.60:16123/play/ch46
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (CO)
-http://45.191.234.189:15082/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (PE)
 http://45.189.117.32:7076/play/a0rv/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (CO)
 http://45.177.53.7:8000/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (VE)
 http://38.41.8.1:8000/play/a028
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (CL)
 http://201.222.44.220:4227/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (PE)
 http://161.132.243.192:50001/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (PE)
 http://161.132.108.76:50001/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus HD (PE)
 http://161.132.108.75:50001/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus SD (PL-CR)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden HD (CO)
+http://45.191.234.189:15082/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/58.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus SD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="1503dtv.cl" tvg-shift="",Golden Plus SD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/57.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Premiere 2 HD (NI)
 http://45.170.225.212:58001/play/a02g/index.m3u8
@@ -2599,21 +2599,21 @@ http://161.132.243.192:50001/play/a03k/index.m3u8
 http://161.132.108.76:50001/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Premiere HD (PE)
 http://161.132.108.75:50001/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (NI)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (NI)
 http://45.170.225.212:58001/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (GT)
 http://45.228.234.193:16003/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/964.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (GT)
 http://45.228.234.77:3340/play/golfchannelhd/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (GT)
 http://190.149.66.90:4000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (PE)
 http://161.132.243.192:50001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (PE)
 http://161.132.108.76:50001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="628dtv.cl" tvg-shift="",Golf Channel HD (PE)
 http://161.132.108.75:50001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GolTV HD (CL)
 http://201.222.44.220:4227/play/a02d/index.m3u8
@@ -2635,207 +2635,207 @@ http://190.149.66.90:4000/play/a00k/index.m3u8
 http://45.228.234.77:3340/play/guatevision/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (CO)
 http://204.199.109.34:35000/play/a06s
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="2",HBO (PY)
 http://45.184.111.158:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="2",HBO (PE)
 http://45.189.117.32:7076/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO (PE)
 http://45.186.252.17:8000/play/a0be
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="2",HBO (VE)
 http://38.41.8.1:8000/play/a05u
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO (CO)
 http://190.95.220.212:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="2",HBO (EC)
 http://177.234.242.150:50032/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (CO)
 http://204.199.109.34:35000/play/a05i
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (PY)
 http://45.184.111.158:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (PE)
 http://45.189.117.32:7076/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (PE)
 http://45.186.252.17:8000/play/a0bg
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (CO)
 http://45.177.53.7:8000/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (VE)
 http://38.41.8.1:8000/play/a05h
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (CO)
 http://190.95.220.212:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 (EC)
 http://177.234.242.150:50032/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (CO)
 http://204.199.109.34:35000/play/a07t
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (NI)
 http://45.170.225.212:58001/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (CL)
 http://45.184.85.7:1080/play/a0fy
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (GT)
 http://45.228.234.193:16003/play/a0au/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PE)
 http://45.189.117.32:7076/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="hbo-2.mx" tvg-shift="",HBO 2 HD (HN)
 http://45.166.92.22:58001/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/300.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/732.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-2.mx" tvg-shift="",HBO 2 HD (VE)
 http://38.41.8.1:8000/play/a021
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (CL)
 http://201.222.44.220:4227/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-2.mx" tvg-shift="",HBO 2 HD (GT)
 http://190.149.66.90:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PE)
 http://161.132.243.192:50001/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PE)
 http://161.132.108.76:50001/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (PE)
 http://161.132.108.75:50001/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO 2 HD (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="525dtv.cl" tvg-shift="",HBO 2 HD (EC)
 http://177.234.242.150:50032/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (CO)
 http://204.199.109.34:35000/play/a05l
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (PY)
 http://45.184.111.158:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (PE)
 http://45.189.117.32:7076/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/63.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (PE)
 http://45.186.252.17:8000/play/a0bh
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (CO)
 http://45.177.53.7:8000/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (VE)
 http://38.41.8.1:8000/play/a05k
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family (EC)
 http://177.234.242.150:50032/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (CO)
 http://204.199.109.34:35000/play/a08b
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (NI)
 http://45.170.225.212:58001/play/a029/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (CL)
 http://45.184.85.7:1080/play/a0hn
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (GT)
 http://45.228.234.193:16003/play/a0aw/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (PE)
 http://45.189.117.32:7076/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/968.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (VE)
 http://38.41.8.1:8000/play/a031
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (CL)
 http://201.222.44.220:4227/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (GT)
 http://190.149.66.90:4000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (PE)
 http://161.132.243.192:50001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (PE)
 http://161.132.108.76:50001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Family HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD (PE)
 http://161.132.108.75:50001/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (CO)
 http://204.199.109.34:35000/play/a07w
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (NI)
 http://45.170.225.212:58001/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (CL)
 http://45.184.85.7:1080/play/a0fo
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (GT)
 http://45.228.234.193:16003/play/a0at/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PE)
 http://45.189.117.32:7076/play/a0pl/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="1",HBO HD (HN)
 http://45.166.92.22:58001/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PL-CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PL-CL)
 http://user.tvcluboficial.com/stream/sep/sep/654.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/62.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (VE)
 http://38.41.8.1:8000/play/a01u
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (CL)
 http://201.222.44.220:4227/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (CL)
 http://201.222.44.220:4227/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-oeste.mx" tvg-shift="1",HBO HD (GT)
 http://190.149.66.90:4000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PE)
 http://161.132.243.192:50001/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PE)
 http://161.132.108.76:50001/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (PE)
 http://161.132.108.75:50001/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO HD (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="1481dtv.cl" tvg-shift="",HBO HD (EC)
 http://177.234.242.150:50032/play/a0f7/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Mundi (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-mundi.mx" tvg-shift="",HBO Mundi (PE)
 http://45.186.252.17:8000/play/a0af
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Mundi (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="hbo-mundi.mx" tvg-shift="",HBO Mundi (CL)
 http://201.222.44.220:4227/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (CO)
 http://204.199.109.34:35000/play/a05j
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus (PY)
 http://45.184.111.158:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus (PE)
 http://45.189.117.32:7076/play/a0l7/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus (PE)
 http://45.186.252.17:8000/play/a0bf
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (CO)
 http://45.177.53.7:8000/play/a0ex/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus (VE)
 http://38.41.8.1:8000/play/a05i
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus (EC)
 http://177.234.242.150:50032/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (NI)
 http://45.170.225.212:58001/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (GT)
 http://45.228.234.193:16003/play/a0av/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (HN)
 http://45.166.92.22:58001/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/64.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (PL-EC)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (PL-EC)
 http://user.tvcluboficial.com/stream/sep/sep/655.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (GT)
 http://190.149.66.90:4000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (PE)
 http://161.132.243.192:50001/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (PE)
 http://161.132.108.76:50001/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Plus HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="526dtv.cl" tvg-shift="",HBO Plus HD (PE)
 http://161.132.108.75:50001/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop (PL-AR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop (PL-AR)
 http://user.tvcluboficial.com/stream/sep/sep/977.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop (PE)
 http://45.186.252.17:8000/play/a0ae
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop (CO)
 http://45.177.53.7:8000/play/a0f2/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop (CO)
 http://190.95.220.212:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (CL)
 http://45.184.85.7:1080/play/a0jv
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (PE)
 http://45.189.117.32:7076/play/a0se/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (VE)
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (CL)
 http://201.222.44.220:4227/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (PE)
 http://161.132.243.192:50001/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (PE)
 http://161.132.108.76:50001/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Pop HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="541dtv.cl" tvg-shift="",HBO Pop HD (PE)
 http://161.132.108.75:50001/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="528dtv.cl" tvg-shift="",HBO Signature (PE)
 http://45.186.252.17:8000/play/a0ah
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature (CO)
 http://45.177.53.7:8000/play/a0ey/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="528dtv.cl" tvg-shift="",HBO Signature (CL)
 http://201.222.44.220:4227/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="528dtv.cl" tvg-shift="",HBO Signature HD (PE)
 http://161.132.243.192:50001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="528dtv.cl" tvg-shift="",HBO Signature HD (PE)
 http://161.132.108.76:50001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Signature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="528dtv.cl" tvg-shift="",HBO Signature HD (PE)
 http://161.132.108.75:50001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (CO)
 http://204.199.109.34:35000/play/a05k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (NI)
 http://45.170.225.212:58001/play/a02a/index.m3u8
@@ -2843,39 +2843,39 @@ http://45.170.225.212:58001/play/a02a/index.m3u8
 http://45.184.111.158:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (GT)
 http://45.228.234.193:16003/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (PE)
 http://45.189.117.32:7076/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (HN)
 http://45.166.92.22:58001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/814.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (PE)
 http://45.186.252.17:8000/play/a0ag
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (VE)
 http://38.41.8.1:8000/play/a05j
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (GT)
 http://190.149.66.90:4000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme (EC)
 http://177.234.242.150:50032/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (CO)
 http://204.199.109.34:35000/play/a08c
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (CL)
 http://45.184.85.7:1080/play/a0ho
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (PE)
 http://45.189.117.32:7076/play/a0m0/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/971.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (VE)
 http://38.41.8.1:8000/play/a032
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (CL)
 http://201.222.44.220:4227/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (CL)
 http://201.222.44.220:4227/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (PE)
 http://161.132.243.192:50001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (PE)
 http://161.132.108.76:50001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",HBO Xtreme HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="542dtv.cl" tvg-shift="",HBO Xtreme HD (PE)
 http://161.132.108.75:50001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Honduras" tvg-id="0" tvg-shift="",HCH- HON (GT)
 http://45.228.232.219:16000/play/a0ln/index.m3u8
@@ -2883,45 +2883,45 @@ http://45.228.232.219:16000/play/a0ln/index.m3u8
 http://38.41.8.1:8000/play/a03g
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 (GT)
 http://45.228.234.193:16003/play/a0ct/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 (GT)
 http://45.228.232.219:16000/play/a0ky/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 (PE)
 http://45.186.252.17:8000/play/a0am
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 (CO)
 http://190.95.220.212:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 (GT)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 (GT)
 http://190.149.66.90:4000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (CO)
 http://204.199.109.34:35000/play/a08a
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (CL)
 http://45.184.85.7:1080/play/a0hm
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (PE)
 http://45.189.117.32:7076/play/a0p8/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (HN)
 http://45.166.92.22:58001/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (CO)
 http://45.177.53.7:8000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (VE)
 http://38.41.8.1:8000/play/a030
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (CL)
 http://201.222.44.220:4227/play/a02z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (PE)
 http://161.132.243.192:50001/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (PE)
 http://161.132.108.76:50001/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (PE)
 http://161.132.108.75:50001/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History 2 HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="744dtv.cl" tvg-shift="",History 2 HD (CO)
 http://45.191.234.189:15082/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (CO)
 http://204.199.109.34:35000/play/a00d
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (PY)
 http://45.184.111.158:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (GT)
 http://45.228.234.193:16003/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (PE)
 http://45.189.117.32:7076/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/61.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/67.m3u8
@@ -2929,11 +2929,11 @@ http://user.tvcluboficial.com/stream/sep/sep/67.m3u8
 http://45.228.234.77:3340/play/historychannel/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (GT)
 http://45.228.232.219:16000/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (PE)
 http://45.186.252.17:8000/play/a09r
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (VE)
 http://38.41.8.1:8000/play/a04p
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel (CO)
 http://190.95.220.212:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel (GT)
 http://190.149.66.90:4000/play/a038/index.m3u8
@@ -2941,11 +2941,11 @@ http://190.149.66.90:4000/play/a038/index.m3u8
 http://177.234.242.150:50032/play/a0bm/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (NI)
 http://45.170.225.212:58001/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (CL)
 http://45.184.85.7:1080/play/a0jo
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (GT)
 http://45.228.234.193:16003/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (PE)
 http://45.189.117.32:7076/play/a0py/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (HN)
 http://45.166.92.22:58001/play/a038/index.m3u8
@@ -2953,21 +2953,21 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/642.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (GT)
 http://45.228.232.219:16000/play/a0md/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (CO)
 http://45.177.53.7:8000/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (VE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (VE)
 http://38.41.8.1:8000/play/a005
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (CL)
 http://201.222.44.220:4227/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (GT)
 http://190.149.66.90:4000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (PE)
 http://161.132.243.192:50001/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (PE)
 http://161.132.108.76:50001/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (PE)
 http://161.132.108.75:50001/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="0" tvg-shift="",History Channel HD (CO)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura" tvg-id="1742dtv.cl" tvg-shift="",History Channel HD (CO)
 http://45.191.234.189:15082/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Hit List (CO)
 http://204.199.109.34:35000/play/a06b
@@ -2977,57 +2977,57 @@ http://45.191.234.189:15084/play/a02b/index.m3u8
 http://45.170.225.212:58001/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV (GT)
 http://45.228.234.193:16003/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/189.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV (CO)
 http://190.95.220.212:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (NI)
 http://45.170.225.212:58001/play/a00w/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV HD (CL)
 http://45.184.85.7:1080/play/a0du
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (GT)
 http://45.228.234.193:16003/play/a0f8/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV HD (HN)
 http://45.166.92.22:58001/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV HD (VE)
 http://38.41.8.1:8000/play/a00r
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV HD (CL)
 http://201.222.44.220:4227/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Hola TV HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="221dtv.cl" tvg-shift="",Hola TV HD (GT)
 http://190.149.66.90:4000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV (GT)
 http://45.228.234.193:16003/play/a0a5/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV (PE)
 http://45.186.252.17:8000/play/a0cz
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV (CO)
 http://45.177.53.7:8000/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV (CL)
 http://201.222.44.220:4227/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV (CO)
 http://190.95.220.212:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV HD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/23.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV HD (PE)
 http://161.132.243.192:50001/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV HD (PE)
 http://161.132.108.76:50001/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="0" tvg-shift="",Home Garden Latino HGTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Cultura" tvg-id="hgtv.ar" tvg-shift="",Home Garden Latino HGTV HD (PE)
 http://161.132.108.75:50001/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" tvg-id="0" tvg-shift="",HTV (GT)
 http://45.228.234.193:16003/play/a0d2/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" tvg-id="0" tvg-shift="",HTV (HN)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (HN)
 http://45.166.92.22:58001/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" tvg-id="0" tvg-shift="",HTV (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/66.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (GT)
 http://45.228.234.77:3340/play/htv/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (GT)
 http://45.228.232.219:16000/play/a0l7/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (PE)
 http://45.186.252.17:8000/play/a0ar
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (CO)
 http://45.177.53.7:8000/play/a0jo/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="272dtv.cl" tvg-shift="",HTV (VE)
 http://38.41.8.1:8000/play/a08i
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",HTV (CL)
 http://201.222.44.220:4227/play/a03q/index.m3u8
@@ -3035,79 +3035,79 @@ http://201.222.44.220:4227/play/a03q/index.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/341.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",IN (PE)
 http://45.186.252.17:8000/play/a09v
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",INFANTIL (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Infantiles" tvg-id="" tvg-shift="",INFANTIL (CO)
 http://181.78.21.60:16123/play/ch06
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",INSTITUCIONAL (CO)
 http://181.78.21.60:16123/play/ch62
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",INSTITUCIONAL (CO)
 http://45.191.234.189:15084/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",IPE HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8571mvstr.pe" tvg-shift="",IPE HD (PE)
 http://161.132.243.192:50001/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",IPE HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8571mvstr.pe" tvg-shift="",IPE HD (PE)
 http://161.132.108.76:50001/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",IPE HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8571mvstr.pe" tvg-shift="",IPE HD (PE)
 http://161.132.108.75:50001/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (CL)
 http://45.184.85.7:1080/play/a05r
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (PY)
 http://45.184.111.158:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (GT)
 http://45.228.234.193:16003/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (PE)
 http://45.189.117.32:7076/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/153.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (GT)
 http://45.228.232.219:16000/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PE)
 http://45.186.252.17:8000/play/a0bb
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (VE)
 http://38.41.8.1:8000/play/a04s
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="520dtv.cl" tvg-shift="",I-Sat (GT)
 http://190.149.66.90:4000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (EC)
 http://177.234.242.150:50032/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/IVC_Network_Logo.png/150px-IVC_Network_Logo.png" group-title="Venezuela" tvg-id="0" tvg-shift="",IVC (VE)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_session=1048830379&_cdn_timestamp=1691984600&_cdn_token=7e04e3aa6ab17543ccd3f38a05ce359f79b5bbd3
-#EXTINF:-1 tvg-logo="0" group-title="Venezuela" tvg-id="0" tvg-shift="",IVC (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Venezuela" tvg-id="235dtv.cl" tvg-shift="-2",IVC (VE)
 http://38.41.8.1:8000/play/a09r
-#EXTINF:-1 tvg-logo="0" group-title="Venezuela" tvg-id="0" tvg-shift="",IVC (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Venezuela" tvg-id="235dtv.cl" tvg-shift="-2",IVC (CO)
 http://190.95.220.212:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",JN19TV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8577mvstr.pe" tvg-shift="",JN19TV HD (PE)
 http://161.132.243.192:50001/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",JN19TV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8577mvstr.pe" tvg-shift="",JN19TV HD (PE)
 http://161.132.108.76:50001/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",JN19TV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="8577mvstr.pe" tvg-shift="",JN19TV HD (PE)
 http://161.132.108.75:50001/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama (PE)
 http://45.189.117.32:7076/play/a0ur/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama (CO)
 http://190.95.220.212:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (CL)
 http://45.184.85.7:1080/play/a0fr
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (PE)
 http://45.189.117.32:7076/play/a0sx/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (CL)
 http://201.222.44.220:4227/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (PE)
 http://161.132.243.192:50001/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (PE)
 http://161.132.108.76:50001/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Kanal D Drama HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="892mvstr.cl" tvg-shift="",Kanal D Drama HD (PE)
 http://161.132.108.75:50001/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Karavana TV (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",Karavana TV (CL)
 http://45.184.85.7:1080/play/a0cb
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Karibena HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",Karibena HD (PE)
 http://161.132.243.192:50001/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Karibena HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",Karibena HD (PE)
 http://161.132.108.76:50001/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Karibena HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",Karibena HD (PE)
 http://161.132.108.75:50001/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",KPOP (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",KPOP (CL)
 http://45.184.85.7:1080/play/a0k5
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="España" tvg-id="0" tvg-shift="",La 1 HD (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="España" tvg-id="la1.es" tvg-shift="",La 1 HD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/927.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png" group-title="España" tvg-id="0" tvg-shift="",La 2 HD (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png" group-title="España" tvg-id="la2.es" tvg-shift="",La 2 HD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/967.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LA KALLE (CO)
 http://204.199.109.34:35000/play/a08v
@@ -3117,15 +3117,15 @@ http://181.78.21.60:16123/play/ch41
 http://45.191.234.189:15084/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Nacion TV (PE)
 http://45.186.252.17:8000/play/a0a1
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Red (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="lared.cl" tvg-shift="",La Red (CL)
 http://45.184.85.7:1080/play/a006
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Red HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="0" tvg-shift="",La Red HD (CL)
 http://45.184.85.7:1080/play/a0bj
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Red HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="lared.cl" tvg-shift="",La Red HD (CL)
 http://201.222.44.220:4227/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España" tvg-id="0" tvg-shift="",La Sexta (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/326.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Tele (PY)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="la-tele.py" tvg-shift="",La Tele (PY)
 http://45.184.111.158:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",La Tele HD (PE)
 http://161.132.243.192:50001/play/a043/index.m3u8
@@ -3141,129 +3141,129 @@ http://45.228.232.219:16000/play/a0nz/index.m3u8
 http://190.149.66.90:4000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LAS ESTRELLAS (CO)
 http://181.78.21.60:16123/play/ch44
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas (CL)
 http://201.222.44.220:4227/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas (CL)
 http://201.222.44.220:4227/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas (CO)
 http://190.95.220.212:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (CO)
 http://204.199.109.34:35000/play/a086
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (CL)
 http://45.184.85.7:1080/play/a0hf
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (PE)
 http://45.189.117.32:7076/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="0" tvg-shift="",Las Estrellas HD (VE)
 http://38.41.8.1:8000/play/a02w
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (CL)
 http://201.222.44.220:4227/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (PE)
 http://161.132.243.192:50001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (PE)
 http://161.132.108.76:50001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (PE)
 http://161.132.108.75:50001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="226dtv.cl" tvg-shift="",Las Estrellas HD (CO)
 http://45.191.234.189:15082/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Las Estrellas-CH76 (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="0" tvg-shift="",Las Estrellas-CH76 (GT)
 http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latin America Sport (GT)
 http://45.228.232.219:16000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latin America Sport (GT)
 http://190.149.66.90:4000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina (CO)
 http://190.95.220.212:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (PE)
 http://45.189.117.32:7076/play/a0t8/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="0" tvg-shift="",Latina HD (VE)
 http://38.41.8.1:8000/play/a02h
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (CL)
 http://201.222.44.220:4227/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (PE)
 http://161.132.243.192:50001/play/a029/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (PE)
 http://161.132.108.76:50001/play/a029/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (PE)
 http://161.132.108.75:50001/play/a029/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Latina HD (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Peru" tvg-id="2mvstr.pe" tvg-shift="",Latina HD (EC)
 http://177.234.242.150:50032/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (NI)
 http://45.170.225.212:58001/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (CL)
 http://45.184.85.7:1080/play/a063
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (PY)
 http://45.184.111.158:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (GT)
 http://45.228.234.193:16003/play/a0bn/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (PE)
 http://45.189.117.32:7076/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/152.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (GT)
 http://45.228.232.219:16000/play/a0m1/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (PE)
 http://45.186.252.17:8000/play/a0d5
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (CO)
 http://45.177.53.7:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (VE)
 http://38.41.8.1:8000/play/a056
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (CL)
 http://201.222.44.220:4227/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (CO)
 http://190.95.220.212:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (GT)
 http://190.149.66.90:4000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (EC)
 http://177.234.242.150:50032/play/a02p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime (CO)
 http://45.191.234.189:15082/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime HD (PE)
 http://161.132.243.192:50001/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime HD (PE)
 http://161.132.108.76:50001/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Lifetime HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="228dtv.cl" tvg-shift="",Lifetime HD (PE)
 http://161.132.108.75:50001/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LIGA 1 (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",LIGA 1 (PE)
 http://45.186.252.17:8000/play/a05g
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LIGA 1 MAX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="604dtv.pe" tvg-shift="",LIGA 1 MAX HD (PE)
 http://161.132.243.192:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LIGA 1 MAX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="604dtv.pe" tvg-shift="",LIGA 1 MAX HD (PE)
 http://161.132.108.76:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LIGA 1 MAX HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="604dtv.pe" tvg-shift="",LIGA 1 MAX HD (PE)
 http://161.132.108.75:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" tvg-id="0" tvg-shift="",Liga de Campeones (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes" tvg-id="mpluslcampeones.es" tvg-shift="",Liga de Campeones (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/890.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Lolly Kids HD (VE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="843mvstr.cl" tvg-shift="",Lolly Kids HD (VE)
 http://38.41.8.1:8000/play/a02n
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Lolly Kids HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="843mvstr.cl" tvg-shift="",Lolly Kids HD (CL)
 http://201.222.44.220:4227/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Lolly Kids HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="843mvstr.cl" tvg-shift="",Lolly Kids HD (PE)
 http://161.132.243.192:50001/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Lolly Kids HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="843mvstr.cl" tvg-shift="",Lolly Kids HD (PE)
 http://161.132.108.76:50001/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Lolly Kids HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="843mvstr.cl" tvg-shift="",Lolly Kids HD (PE)
 http://161.132.108.75:50001/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature (CO)
 http://181.78.21.60:16123/play/ch50
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature (CO)
 http://190.95.220.212:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (CO)
 http://204.199.109.34:35000/play/a081
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (CL)
 http://45.184.85.7:1080/play/a0gw
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (PE)
 http://45.189.117.32:7076/play/a0jr/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (CO)
 http://45.177.53.7:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (CL)
 http://201.222.44.220:4227/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (PE)
 http://161.132.243.192:50001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (PE)
 http://161.132.108.76:50001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (PE)
 http://161.132.108.75:50001/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Love Nature HD (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="865mvstr.cl" tvg-shift="",Love Nature HD (CO)
 http://45.191.234.189:15082/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",LTAS SD 111 (NI)
 http://45.170.225.212:58001/play/a01y/index.m3u8
@@ -3271,15 +3271,15 @@ http://45.170.225.212:58001/play/a01y/index.m3u8
 http://45.5.117.182:8000/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic (GT)
 http://45.228.234.193:16003/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="230dtv.cl" tvg-shift="",Mas Chic (CO)
 http://181.78.21.60:16123/play/ch33
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic (CO)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="230dtv.cl" tvg-shift="",Mas Chic (CO)
 http://190.95.220.212:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="230dtv.cl" tvg-shift="",Mas Chic HD (PE)
 http://161.132.243.192:50001/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="230dtv.cl" tvg-shift="",Mas Chic HD (PE)
 http://161.132.108.76:50001/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mas Chic HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="230dtv.cl" tvg-shift="",Mas Chic HD (PE)
 http://161.132.108.75:50001/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",MASTV - PAN (GT)
 http://45.228.234.193:16003/play/a0cn/index.m3u8
@@ -3289,17 +3289,17 @@ http://45.228.232.219:16000/play/a0ko/index.m3u8
 http://190.149.66.90:4000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png" group-title="Venezuela" tvg-id="0" tvg-shift="",MDA TV (VE)
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mega (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="mega.cl" tvg-shift="",Mega (CL)
 http://45.184.85.7:1080/play/a0fg
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="0" tvg-shift="",Mega (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="mega.es" tvg-shift="",Mega (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/766.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mega (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="mega.cl" tvg-shift="",Mega (CO)
 http://190.95.220.212:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="0" tvg-shift="",Mega ES HD (PL-ES)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="España" tvg-id="mega.es" tvg-shift="",Mega ES HD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/929.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mega HD (CL)
 http://45.184.85.7:1080/play/a0bg
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Mega HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="mega.cl" tvg-shift="",Mega HD (CL)
 http://201.222.44.220:4227/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",MEGAVISION (CO)
 http://45.191.234.189:15082/play/a05c/index.m3u8
@@ -3329,17 +3329,17 @@ http://45.186.252.17:8000/play/a0d9
 http://user.tvcluboficial.com/stream/sep/sep/678.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España" tvg-id="0" tvg-shift="",Movistar Comedia (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/370.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes (PE)
 http://45.189.117.32:7076/play/a0vd/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes (CO)
 http://190.95.220.212:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes HD (PE)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes HD (PE)
 http://45.189.117.32:7076/play/a0t1/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes HD (PE)
 http://161.132.243.192:50001/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes HD (PE)
 http://161.132.108.76:50001/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="3mvstr.pe" tvg-shift="",Movistar Deportes HD (PE)
 http://161.132.108.75:50001/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes" tvg-id="0" tvg-shift="",Movistar Deportes SD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/366.m3u8
@@ -3349,25 +3349,25 @@ http://user.tvcluboficial.com/stream/sep/sep/976.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/916.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",Movistar Series HD (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/924.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Movistar TV (CO)
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="800dtv.cl" tvg-shift="",Movistar TV (CO)
 http://190.95.220.212:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (CL)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (CL)
 http://45.184.85.7:1080/play/a05s
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PY)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (PY)
 http://45.184.111.158:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/823.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (GT)
 http://45.228.232.219:16000/play/a0o1/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (PE)
 http://45.186.252.17:8000/play/a0ap
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (VE)
 http://38.41.8.1:8000/play/a04t
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (CL)
 http://201.222.44.220:4227/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (GT)
 http://190.149.66.90:4000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (EC)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV (EC)
 http://177.234.242.150:50032/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España" tvg-id="0" tvg-shift="",MTV (ES) (PL-ES)
 http://user.tvcluboficial.com/stream/sep/sep/803.m3u8
@@ -3377,19 +3377,19 @@ http://45.184.85.7:1080/play/a0e3
 http://45.228.234.193:16003/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s (PE)
 http://45.189.117.32:7076/play/a0sk/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s (GT)
 http://45.228.232.219:16000/play/a0l6/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s (PE)
 http://45.186.252.17:8000/play/a0ck
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s (CL)
 http://201.222.44.220:4227/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s (GT)
 http://190.149.66.90:4000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s HD (NI)
 http://45.170.225.212:58001/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s HD (PL-CR)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s HD (PL-CR)
 http://user.tvcluboficial.com/stream/sep/sep/953.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="262dtv.cl" tvg-shift="",MTV 00s HD (GT)
 http://190.149.66.90:4000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 80s (GT)
 http://45.228.234.193:16003/play/a0bq/index.m3u8
@@ -3405,59 +3405,59 @@ http://45.170.225.212:58001/play/a01z/index.m3u8
 http://45.184.85.7:1080/play/a0h9
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (GT)
 http://45.228.234.193:16003/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (PE)
 http://45.189.117.32:7076/play/a0tf/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/828.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (GT)
 http://45.228.234.77:3340/play/mtv-hd/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (GT)
 http://45.228.232.219:16000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (VE)
 http://38.41.8.1:8000/play/a02u
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (CL)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (CL)
 http://201.222.44.220:4227/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (GT)
 http://190.149.66.90:4000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (PE)
 http://161.132.243.192:50001/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (PE)
 http://161.132.108.76:50001/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="mtv.cl" tvg-shift="",MTV HD (PE)
 http://161.132.108.75:50001/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s SD (PL-CR)
-http://user.tvcluboficial.com/stream/sep/sep/69.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (GT)
 http://45.228.234.193:16003/play/a0bp/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="261dtv.cl" tvg-shift="",MTV 00s SD (PL-CR)
+http://user.tvcluboficial.com/stream/sep/sep/69.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="261dtv.cl" tvg-shift="",MTV Hits (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/101.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="261dtv.cl" tvg-shift="",MTV Hits (GT)
 http://45.228.232.219:16000/play/a0m3/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="261dtv.cl" tvg-shift="",MTV Hits (GT)
 http://190.149.66.90:4000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PL-MX)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/70.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (CL)
 http://45.184.85.7:1080/play/a0eq
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (PE)
 http://45.189.117.32:7076/play/a0so/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (CO)
-http://45.177.53.7:8000/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (CL)
-http://201.222.44.220:4227/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
-http://161.132.243.192:50001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
-http://161.132.108.76:50001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
-http://161.132.108.75:50001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (HN)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV SIM HD (HN)
 http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (CO)
+http://45.177.53.7:8000/play/a0i4/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (CL)
+http://201.222.44.220:4227/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (PE)
+http://161.132.243.192:50001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (PE)
+http://161.132.108.76:50001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV Live HD (PE)
+http://161.132.108.75:50001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (NI)
 http://45.170.225.212:58001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (GT)
 http://45.228.234.193:16003/play/a0fa/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (GT)
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="263dtv.cl" tvg-shift="",MTV SIM HD (GT)
 http://190.149.66.90:4000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="Musica" tvg-id="0" tvg-shift="",Much Music (PL-AR)
 http://user.tvcluboficial.com/stream/sep/sep/950.m3u8
