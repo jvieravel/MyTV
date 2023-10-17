@@ -2443,6 +2443,8 @@ http://190.95.220.212:8000/play/a017/index.m3u8
 http://190.149.66.90:4000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX (EC)
 http://177.234.242.150:50032/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
+http://user.tvcluboficial.com/stream/sep/sep/42.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (NI)
 http://45.170.225.212:58001/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento" tvg-id="0" tvg-shift="",FX HD (CL)
@@ -2505,12 +2507,16 @@ http://38.41.8.1:8000/play/a03u
 http://201.222.44.220:4227/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Goku TV (CL)
 http://45.184.85.7:1080/play/a0c2
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU (CL)
+http://201.222.44.220:4227/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
 http://161.132.243.192:50001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
 http://161.132.108.76:50001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru HD (PE)
 http://161.132.108.75:50001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU HD (CL)
+http://201.222.44.220:4227/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes" tvg-id="0" tvg-shift="",Gol Peru SD (PL-PE)
 http://user.tvcluboficial.com/stream/sep/sep/686.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes" tvg-id="0" tvg-shift="",Gol TV (PY)
@@ -2551,10 +2557,10 @@ http://161.132.108.76:50001/play/a03m/index.m3u8
 http://161.132.108.75:50001/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (EC)
 http://177.234.242.150:50032/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (CO)
-http://45.191.234.189:15082/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus (CO)
 http://181.78.21.60:16123/play/ch46
+#EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden HD (CO)
+http://45.191.234.189:15082/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (PE)
 http://45.189.117.32:7076/play/a0rv/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",Golden Plus HD (CO)
@@ -2609,10 +2615,6 @@ http://161.132.243.192:50001/play/a03w/index.m3u8
 http://161.132.108.76:50001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",Golf Channel HD (PE)
 http://161.132.108.75:50001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU (CL)
-http://201.222.44.220:4227/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GOLPERU HD (CL)
-http://201.222.44.220:4227/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GolTV HD (CL)
 http://201.222.44.220:4227/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Deportes" tvg-id="0" tvg-shift="",GolTV HD (PE)
@@ -3053,10 +3055,6 @@ http://45.184.111.158:8000/play/a007/index.m3u8
 http://45.228.234.193:16003/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PE)
 http://45.189.117.32:7076/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (CO)
-http://181.78.21.60:16123/play/CH77
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
-http://user.tvcluboficial.com/stream/sep/sep/42.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/153.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (GT)
@@ -3358,8 +3356,6 @@ http://45.184.85.7:1080/play/a05s
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PY)
 http://45.184.111.158:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PL-MX)
-http://user.tvcluboficial.com/stream/sep/sep/70.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PL-MX)
 http://user.tvcluboficial.com/stream/sep/sep/823.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV (GT)
 http://45.228.232.219:16000/play/a0o1/index.m3u8
@@ -3395,8 +3391,6 @@ http://45.170.225.212:58001/play/a00z/index.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/953.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s HD (GT)
 http://190.149.66.90:4000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s SD (PL-CR)
-http://user.tvcluboficial.com/stream/sep/sep/69.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 80s (GT)
 http://45.228.234.193:16003/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV 80s (GT)
@@ -3431,6 +3425,8 @@ http://161.132.243.192:50001/play/a01s/index.m3u8
 http://161.132.108.76:50001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV HD (PE)
 http://161.132.108.75:50001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV 00s SD (PL-CR)
+http://user.tvcluboficial.com/stream/sep/sep/69.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (GT)
 http://45.228.234.193:16003/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (PL-MX)
@@ -3439,6 +3435,8 @@ http://user.tvcluboficial.com/stream/sep/sep/101.m3u8
 http://45.228.232.219:16000/play/a0m3/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Hits (GT)
 http://190.149.66.90:4000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Musica" tvg-id="0" tvg-shift="",MTV (PL-MX)
+http://user.tvcluboficial.com/stream/sep/sep/70.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (CL)
 http://45.184.85.7:1080/play/a0eq
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
@@ -3453,12 +3451,12 @@ http://161.132.243.192:50001/play/a00u/index.m3u8
 http://161.132.108.76:50001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV Live HD (PE)
 http://161.132.108.75:50001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (HN)
+http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (NI)
 http://45.170.225.212:58001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (GT)
 http://45.228.234.193:16003/play/a0fa/index.m3u8
-#EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (HN)
-http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Musica" tvg-id="0" tvg-shift="",MTV SIM HD (GT)
 http://190.149.66.90:4000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="Musica" tvg-id="0" tvg-shift="",Much Music (PL-AR)
@@ -4557,6 +4555,8 @@ http://45.170.225.212:58001/play/a02v/index.m3u8
 http://45.228.232.219:16000/play/a0lj/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Telesistema RD (GT)
 http://190.149.66.90:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas" tvg-id="0" tvg-shift="",I-Sat (CO)
+http://181.78.21.60:16123/play/CH77
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="Venezuela" tvg-id="0" tvg-shift="",Telesur (VE)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="0" group-title="0" tvg-id="0" tvg-shift="",Telesur (CO)
