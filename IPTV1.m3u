@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/acidjesuz/EPG/raw/master/guide.xml.gz"
 #EXTINF:-1,5 USA NETWORK HD (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1,A&E ENG HD (IPTVS)
