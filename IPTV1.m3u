@@ -1,693 +1,694 @@
 #EXTM3U url-tvg="https://github.com/acidjesuz/EPG/raw/master/guide.xml.gz"
 #EXTINF:-1 tvg-id="I242.11207.zap2it.com" tvg-shift="",USA NETWORK HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481|User-Agent=VLC
 #EXTINF:-1 tvg-id="I265.10035.zap2it.com" tvg-shift="",A&E ENG HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482|User-Agent=VLC
 #EXTINF:-1 tvg-id="I187.20456.zap2it.com" tvg-shift="",ABC 7 CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483|User-Agent=VLC
 #EXTINF:-1 tvg-id="I458.16800.zap2it.com" tvg-shift="",ANTENA 3 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484|User-Agent=VLC
 #EXTINF:-1 tvg-id="I824.56036.schedulesdirect.org" tvg-shift="",BABY TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",BANDAMAX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486|User-Agent=VLC
 #EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-shift="",BEIN SPORTS Ñ HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487|User-Agent=VLC
 #EXTINF:-1 tvg-id="I392.76942.zap2it.com" tvg-shift="",BEIN SPORTS ENG HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488|User-Agent=VLC
 #EXTINF:-1 tvg-id="I237.10057.zap2it.com" tvg-shift="",BRAVO ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489|User-Agent=VLC
 #EXTINF:-1 tvg-id="I610.58321.zap2it.com" tvg-shift="",BTN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490|User-Agent=VLC
 #EXTINF:-1 tvg-id="I8.1.31236.zap2it.com" tvg-shift="",CBS 11 HOUSTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS 2 CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS 4 TEXAS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493|User-Agent=VLC
 #EXTINF:-1 tvg-id="I5.1.19572.zap2it.com" tvg-shift="",CBS BAY AREA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494|User-Agent=VLC
 #EXTINF:-1 tvg-id="I5.1.19572.zap2it.com" tvg-shift="",CBS LA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS SAN DIEGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS NEWYORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS NY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CBS PENN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499|User-Agent=VLC
 #EXTINF:-1 tvg-id="I221.16365.zap2it.com" tvg-shift="",CBS SN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500|User-Agent=VLC
 #EXTINF:-1 tvg-id="I355.58780.zap2it.com" tvg-shift="",CNBC HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501|User-Agent=VLC
 #EXTINF:-1 tvg-id="I355.10139.zap2it.com" tvg-shift="",CNBC US (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502|User-Agent=VLC
 #EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-shift="",CNN SPA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/503
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/503|User-Agent=VLC
 #EXTINF:-1 tvg-id="I232.30156.zap2it.com" tvg-shift="",COOKING (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504|User-Agent=VLC
 #EXTINF:-1 tvg-id="I341.45805.zap2it.com" tvg-shift="",COZI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DE PELICULA CLASICO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/506
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/506|User-Agent=VLC
 #EXTINF:-1 tvg-id="I174.16288.schedulesdirect.org" tvg-shift="",DE PELICULA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507|User-Agent=VLC
 #EXTINF:-1 tvg-id="I286.16617.zap2it.com" tvg-shift="",DESTINATION AMERICA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508|User-Agent=VLC
 #EXTINF:-1 tvg-id="I294.16618.zap2it.com" tvg-shift="",DISCOVERY FAMILY ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509|User-Agent=VLC
 #EXTINF:-1 tvg-id="I436.58428.zap2it.com" tvg-shift="",DISCOVERY FAMILIA SPA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510|User-Agent=VLC
 #EXTINF:-1 tvg-id="I436.58428.zap2it.com" tvg-shift="",DISCOVERY FAMILIA SPA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511|User-Agent=VLC
 #EXTINF:-1 tvg-id="I292.18279.zap2it.com" tvg-shift="",DISNEY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512|User-Agent=VLC
 #EXTINF:-1 tvg-id="I289.74796.zap2it.com" tvg-shift="",DISNEY JR (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISNEY XD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514|User-Agent=VLC
 #EXTINF:-1 tvg-id="I230.67375.zap2it.com" tvg-shift="",MAGNOLIA NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/515
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/515|User-Agent=VLC
 #EXTINF:-1 tvg-id="I236.10989.zap2it.com" tvg-shift="",E! Entertaiment USA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ELEVEN SPORTS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ELREY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/518
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/518|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",EPIX HITS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519|User-Agent=VLC
 #EXTINF:-1 tvg-id="I206.10179.zap2it.com" tvg-shift="",ESPN 1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN BASES LOADED (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/521
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/521|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FANTASY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/522
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/522|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FCS ATLANTIC (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/523
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/523|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FCS CENTRAL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/524
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/524|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FCS PACIFIC (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/525
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/525|User-Agent=VLC
 #EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-shift="",FIGHT NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FISHING (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/527
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/527|User-Agent=VLC
 #EXTINF:-1 tvg-id="I231.12574.zap2it.com" tvg-shift="",FOOD NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FORO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/529
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/529|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX  SPORTS FLORIDA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/530
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/530|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX DEPORTES HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX LIFE HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/532
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/532|User-Agent=VLC
 #EXTINF:-1 tvg-id="I11.10741.zap2it.com" tvg-shift="",FOX 11 LA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/533|User-Agent=VLC
 #EXTINF:-1 tvg-id="I12.11438.zap2it.com" tvg-shift="",FOX 2 CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534|User-Agent=VLC
 #EXTINF:-1 tvg-id="I234.19600.zap2it.com" tvg-shift="",FOX 2 DETROIT (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/535|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX 2 SAN FRANCISCO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/536
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/536|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX 32 CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/537
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/537|User-Agent=VLC
 #EXTINF:-1 tvg-id="I7.1.20290.zap2it.com" tvg-shift="",CBS SEATTLE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/538
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/538|User-Agent=VLC
 #EXTINF:-1 tvg-id="I5.1.20360.zap2it.com" tvg-shift="",FOX 5 NEWYORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539|User-Agent=VLC
 #EXTINF:-1 tvg-id="I7.1.21220.zap2it.com" tvg-shift="",FOX 7 MIAMI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/540|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX BUSINESS (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/541
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/541|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX COLLEGE SPORTS CENTRAL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX PENN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/543
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/543|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX SOCCER (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/544
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/544|User-Agent=VLC
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" tvg-shift="",FOX SPORTS LATINOAMERICA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545|User-Agent=VLC
 #EXTINF:-1 tvg-id="I13.1.21223.zap2it.com" tvg-shift="",FOX TAMPA BAY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/546
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/546|User-Agent=VLC
 #EXTINF:-1 tvg-id="I5.1.20367.zap2it.com" tvg-shift="",FOX WASHINGTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/547|User-Agent=VLC
 #EXTINF:-1 tvg-id="I311.10093.zap2it.com" tvg-shift="",FREE FORM (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548|User-Agent=VLC
 #EXTINF:-1 tvg-id="I219.82541.zap2it.com" tvg-shift="",FS1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549|User-Agent=VLC
 #EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-shift="",FS2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550|User-Agent=VLC
 #EXTINF:-1 tvg-id="I339.59116.zap2it.com" tvg-shift="",FUSE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/551|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FUSION (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/552
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/552|User-Agent=VLC
 #EXTINF:-1 tvg-id="I258.70253.zap2it.com" tvg-shift="",FXM (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553|User-Agent=VLC
 #EXTINF:-1 tvg-id="I259.17927.zap2it.com" tvg-shift="",FXX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554|User-Agent=VLC
 #EXTINF:-1 tvg-id="I266.58988.zap2it.com" tvg-shift="",FYI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/555|User-Agent=VLC
 #EXTINF:-1 tvg-id="I404.10222.zap2it.com" tvg-shift="-2",GALAVISION (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556|User-Agent=VLC
 #EXTINF:-1 tvg-id="I233.14909.zap2it.com" tvg-shift="",GAME SHOW NETWORK  GSN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/557
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/557|User-Agent=VLC
 #EXTINF:-1 tvg-id="I218.14899.zap2it.com" tvg-shift="",GOLF CHANNEL HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558|User-Agent=VLC
 #EXTINF:-1 tvg-id="I468.32161.zap2it.com" tvg-shift="",GOL TV SPA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559|User-Agent=VLC
 #EXTINF:-1 tvg-id="I468.32161.zap2it.com" tvg-shift="",GOL TV ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/560
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/560|User-Agent=VLC
 #EXTINF:-1 tvg-id="I312.11221.zap2it.com" tvg-shift="",HALLMARK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561|User-Agent=VLC
 #EXTINF:-1 tvg-id="I564.105723.zap2it.com" tvg-shift="",HALLMARK DRAMA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562|User-Agent=VLC
 #EXTINF:-1 tvg-id="I565.46710.zap2it.com" tvg-shift="",HALLMARK MOVIES MYSTERIES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/563|User-Agent=VLC
 #EXTINF:-1 tvg-id="I229.14902.zap2it.com" tvg-shift="",HGTV (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564|User-Agent=VLC
 #EXTINF:-1 tvg-id="I269.14771.zap2it.com" tvg-shift="",History HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565|User-Agent=VLC
 #EXTINF:-1 tvg-id="I333.14873.zap2it.com" tvg-shift="",IFC (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/566
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/566|User-Agent=VLC
 #EXTINF:-1 tvg-id="I252.10918.zap2it.com" tvg-shift="",Lifetime HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567|User-Agent=VLC
 #EXTINF:-1 tvg-id="I253.18480.zap2it.com" tvg-shift="",Lifetime Movie (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568|User-Agent=VLC
 #EXTINF:-1 tvg-id="I677.72861.zap2it.com" tvg-shift="",LONGHORN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 720 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 721 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 722 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 723 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 724 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 725 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 726 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 727 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 728 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 729 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 730 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 731 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 732 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 733 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 734 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 735 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 736 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 737 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 738 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 739 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 740 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 742 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 744 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB 746 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB STRIKEZONE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/594
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/594|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MOTORSPORT (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/595
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/595|User-Agent=VLC
 #EXTINF:-1 tvg-id="I356.16300.zap2it.com" tvg-shift="",MSNBC HD ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596|User-Agent=VLC
 #EXTINF:-1 tvg-id="I197.24959.zap2it.com" tvg-shift="",NATGEO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597|User-Agent=VLC
 #EXTINF:-1 tvg-id="I435.72449.zap2it.com" tvg-shift="",NATGEO MUNDO HD SPA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598|User-Agent=VLC
 #EXTINF:-1 tvg-id="I190.66804.zap2it.com" tvg-shift="",NATGEO WILD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/599
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/599|User-Agent=VLC
 #EXTINF:-1 tvg-id="I216.32281.zap2it.com" tvg-shift="",NBA HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600|User-Agent=VLC
 #EXTINF:-1 tvg-id="I4.1.20459.zap2it.com" tvg-shift="",NBC NEW YORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601|User-Agent=VLC
 #EXTINF:-1 tvg-id="I188.20452.zap2it.com" tvg-shift="",NBC5CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/602|User-Agent=VLC
 #EXTINF:-1 tvg-id="I5.1.34580.zap2it.com" tvg-shift="",NBC MIAMI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/603|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC NY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/604
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/604|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC PENN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/605
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/605|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC SN HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL 15 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608|User-Agent=VLC
 #EXTINF:-1 tvg-id="I212.34710.zap2it.com" tvg-shift="",NFL NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL REDZONE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",OLYMPIC CHANNEL  HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624|User-Agent=VLC
 #EXTINF:-1 tvg-id="I606.14776.zap2it.com" tvg-shift="",OUTDOOR CHANNEL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",OUTSIDE TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/626
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/626|User-Agent=VLC
 #EXTINF:-1 tvg-id="I279.70387.zap2it.com" tvg-shift="",OWN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627|User-Agent=VLC
 #EXTINF:-1 tvg-id="I251.21484.zap2it.com" tvg-shift="",OXYGEN TRUE CRIME (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PAC 12 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/629
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/629|User-Agent=VLC
 #EXTINF:-1 tvg-id="I377.76372.zap2it.com" tvg-shift="",PAC 12 ARIZONA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/630|User-Agent=VLC
 #EXTINF:-1 tvg-id="I381.76370.zap2it.com" tvg-shift="",PAC 12 BAY AREA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/631
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/631|User-Agent=VLC
 #EXTINF:-1 tvg-id="I376.76375.zap2it.com" tvg-shift="",PAC 12 LOS ANGELES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/632
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/632|User-Agent=VLC
 #EXTINF:-1 tvg-id="I380.76374.zap2it.com" tvg-shift="",PAC 12 MOUNTAIN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/633
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/633|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PAC 12 NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/634
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/634|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PAC 12 OREGON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/635
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/635|User-Agent=VLC
 #EXTINF:-1 tvg-id="I375.76366.zap2it.com" tvg-shift="",PAC 12 WASHINGTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/636
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/636|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PEOPLE TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/637
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/637|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",POP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/638
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/638|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",RCN NOTICIAS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/639
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/639|User-Agent=VLC
 #EXTINF:-1 tvg-id="I384.83098.zap2it.com" tvg-shift="",REVOLT MUSIC (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELEHIT (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/641
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/641|User-Agent=VLC
 #EXTINF:-1 tvg-id="I570.58532.zap2it.com" tvg-shift="",SMITHSONIAN CHANNEL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/642
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/642|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",SONY MOVIE CHANNEL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643|User-Agent=VLC
 #EXTINF:-1 tvg-id="I696.63138.zap2it.com" tvg-shift="",NBC SPORTS BAY AREA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644|User-Agent=VLC
 #EXTINF:-1 tvg-id="I630.49198.zap2it.com" tvg-shift="",NBC SPORTS BOSTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645|User-Agent=VLC
 #EXTINF:-1 tvg-id="I698.73564.zap2it.com" tvg-shift="",NBC SPORTS CALIFORNIA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646|User-Agent=VLC
 #EXTINF:-1 tvg-id="I665.44905.zap2it.com" tvg-shift="",NBC SPORTS CHICAGO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647|User-Agent=VLC
 #EXTINF:-1 tvg-id="I605.33930.zap2it.com" tvg-shift="",SPORTSMAN CHANNEL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC SPORTS NORTHWEST (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC SPORTS PHILADELPHIA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/650|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC SPORTS WASHINGTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/651|User-Agent=VLC
 #EXTINF:-1 tvg-id="I244.11097.zap2it.com" tvg-shift="",SYFY ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELEHIT (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELEMUNDO 44 WASHINGTON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELEMUNDO 48 EL PASO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655|User-Agent=VLC
 #EXTINF:-1 tvg-id="I52.1.42678.zap2it.com" tvg-shift="",TELEMUNDO 52 LOS ANGELES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656|User-Agent=VLC
 #EXTINF:-1 tvg-id="I51.4.79548.zap2it.com" tvg-shift="",TELEMUNDO 51 MIAMI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657|User-Agent=VLC
 #EXTINF:-1 tvg-id="I47.1.54437.zap2it.com" tvg-shift="",TELEMUNDO 47 NEW YORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELEXITOS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/659
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/659|User-Agent=VLC
 #EXTINF:-1 tvg-id="I245.11164.zap2it.com" tvg-shift="",TNT (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660|User-Agent=VLC
 #EXTINF:-1 tvg-id="I277.11180.zap2it.com" tvg-shift="",TRAVEL HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661|User-Agent=VLC
 #EXTINF:-1 tvg-id="I469.111046.zap2it.com" tvg-shift="",TYC SPORTS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",UNIMAS HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663|User-Agent=VLC
 #EXTINF:-1 tvg-id="I295.70225.zap2it.com" tvg-shift="",UNIVERSAL KIDS ENG (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",UNIVERSO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TUDN USA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666|User-Agent=VLC
 #EXTINF:-1 tvg-id="I204.37232.schedulesdirect.org" tvg-shift="",TELENOVELAS UNIVISION (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667|User-Agent=VLC
 #EXTINF:-1 tvg-id="I270.11118.zap2it.com" tvg-shift="",UNIVISION USA HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|User-Agent=VLC
 #EXTINF:-1 tvg-id="I281.31046.zap2it.com" tvg-shift="",MOTORTREND (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669|User-Agent=VLC
 #EXTINF:-1 tvg-id="I271.18822.zap2it.com" tvg-shift="",VICELAND (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/670
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/670|User-Agent=VLC
 #EXTINF:-1 tvg-id="I242.11207.zap2it.com" tvg-shift="",USA 9 NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/671
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/671|User-Agent=VLC
 #EXTINF:-1 tvg-id="I332.16361.zap2it.com" tvg-shift="",MTV 2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MTV Classic (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MTV-U (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",A3SERIES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ADN 40 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AZTECA 7 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AZTECA UNO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",BBC AME HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",BOOMERANG MEXICO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Canal 5 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Canal De Las Estrellas (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CARTOON NETWORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CNN ESPAÑOL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",COMEDY CENTRAL ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISCOVERY CIVILIZATION (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISCOVERY KIDS HD ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISNEY CHANNEL  ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISNEY JR ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISNEY XD  ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/690
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/690|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISTRITO COMEDIA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",E! Entertaiment ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",EL CHAPULIN COLORADO ANIMADO (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/693
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/693|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN 2 HD MX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN 3 MX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN MX HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESTRELLATV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FORMULA 1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Foro TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX ACTION (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX CINEMA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX CLASSIC (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX COMEDY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX FAMILY (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/704
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/704|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX ONE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX SPORTS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FOX SPORTS 2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",FX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",GOLDEN PREMIERE 1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",HBO2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",HISTORY ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",IMAGEN NOTICIAS SD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",LOS SIMPSONS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MILENIO NOTICIAS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MTV MX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/715
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/715|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NATGEO MX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NICK JR (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NICKELODEON (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NUEVE 9 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Once TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",RCN NOVELAS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/721
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/721|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TDN DEPORTES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TELENOVELAS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TLC MX (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TOONCAST (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",UFC ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Unicable (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ABC NEW YORK (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/728|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AFIZZIONADOS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Animal HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Comedy Central HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CW HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN 2 HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Fox News HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Investigation Discovery ID (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MLB NETWORKS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",MTV LIVE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NATGEO KIDS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 01 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 02 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 03 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 04 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 05 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 06 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 07 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 08 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 09 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 10 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 11 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 12 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 13 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS 14 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NFL GAMEPASS REDZONE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Nickelodeon HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PARAMOUNT NETWORK (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",REDBULL TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",SUNDANCETV HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TBS (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TIIN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TRUTV ESP (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TVC DEPORTES (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",VEPLUSTV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",WHVL HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/763
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/763|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AXN (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AZTECA CINEMA (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Bloomberg (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Caracol HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",CINEMAX HD (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",DISCOVERY SCIENCE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN GOAL LINE (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",EUROCHANNEL (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PBS HD (ENG) (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",RAI (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",TV5 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",GLITZ (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN Deportes (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Discovery Channel US (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ABC Miami (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1126|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-16 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-15 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-14 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-13 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-12 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-11 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-10 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-9 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-8 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-7 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-6 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-5 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-4 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-3 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-21 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-20 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-19 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-18 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-17 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-16 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-15 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-14 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-13 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-12 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-11 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-10 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-9 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-8 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-7 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-6 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-5 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-4 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-3 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NHL-1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-30 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-29 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-28 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-27 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-26 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-25 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-24 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-23 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-22 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-21 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-20 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-19 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-18 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBA-17 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",NBC-Kansas (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Fox-Sports-Kansas (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Comet-TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",Morbido-TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PPV 1 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1183
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1183|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PPV 2 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1184
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1184|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",PPV 3 (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1185
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1185|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",El Gourmet (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",AXS TV (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN U (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-shift="",ESPN News (IPTVS)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191|User-Agent=VLC
+
