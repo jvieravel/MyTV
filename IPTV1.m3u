@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/acidjesuz/EPG/raw/master/guide.xml.gz"
+#EXTM3U url-tvg="https://github.com/bebawy6/EPG/raw/master/usEPG.xml"
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="I242.11207.zap2it.com" tvg-shift="",USA NETWORK HD (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481|User-Agent=VLC
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="I265.10035.zap2it.com" tvg-shift="",A&E ENG HD (IPTVS)
