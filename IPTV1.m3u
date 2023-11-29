@@ -419,13 +419,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703|User-Agent=VLC
 #EXTINF:-1 group-title="" tvg-id="" tvg-shift="",FOX FAMILY (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/704|User-Agent=VLC
-#EXTINF:-1 group-title="" tvg-id="I688.122761.schedulesdirect.org" tvg-shift="",UNIVERSAL PREMIERE (IPTVS)
+#EXTINF:-1 group-title="" tvg-id="I688.122761.schedulesdirect.org" tvg-shift="-3",UNIVERSAL PREMIERE (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705|User-Agent=VLC
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="I219.82541.zap2it.com" tvg-shift="",FOX SPORTS (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706|User-Agent=VLC
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="I618.33178.zap2it.com" tvg-shift="",FOX SPORTS 2 (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707|User-Agent=VLC
-#EXTINF:-1 group-title="" tvg-id="I319.46442.schedulesdirect.org" tvg-shift="",FX (IPTVS)
+#EXTINF:-1 group-title="" tvg-id="I319.46442.schedulesdirect.org" tvg-shift="-2",FX (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708|User-Agent=VLC
 #EXTINF:-1 group-title="" tvg-id="I338.80805.schedulesdirect.org" tvg-shift="",GOLDEN PREMIERE 1 (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709|User-Agent=VLC
@@ -671,7 +671,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178|User-Agent=VLC
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="" tvg-shift="",NBC-Kansas (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1179|User-Agent=VLC
-#EXTINF:-1 group-title="USA (Ingles)" tvg-id="https://zap2it.tmsimg.com/h3/NowShowing/20290/s28711_ll_h15_ab.png" tvg-shift="",CBS-Fox-Sports-Kansas (IPTVS)
+#EXTINF:-1 group-title="USA (Ingles)" tvg-id="I7.1.20290.zap2it.com" tvg-shift="",CBS-Fox-Sports-Kansas (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180|User-Agent=VLC
 #EXTINF:-1 group-title="USA (Ingles)" tvg-id="Comet TV (COMET) [289]" tvg-shift="",Comet-TV (IPTVS)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181|User-Agent=VLC
