@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz, https://github.com/acidjesuz/EPG/raw/master/guide.xml, https://github.com/bebawy6/EPG/raw/master/usEPG.xml"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml, https://github.com/acidjesuz/EPG/raw/master/guide.xml, https://github.com/bebawy6/EPG/raw/master/usEPG.xml"
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="" tvg-shift="",AMC (HD)
 http://204.199.109.34:35000/play/a07k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="" tvg-id="" tvg-shift="",AXN ()
