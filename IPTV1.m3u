@@ -33,12 +33,12 @@ http://38.41.8.1:8000/play/a006
 http://201.222.44.220:4227/play/a04s/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="" tvg-shift="",A&E (HD)
 http://201.222.44.220:4227/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="0" tvg-shift="",A&E (HD)
+http://161.132.108.75:50001/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="" tvg-shift="",A&E (HD)
 http://161.132.243.192:50001/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="" tvg-shift="",A&E (HD)
 http://161.132.108.76:50001/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="0" tvg-shift="",A&E (HD)
-http://161.132.108.75:50001/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="" tvg-shift="",A&E (SD)
 http://204.199.137.51:5047/play/a031 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="" tvg-id="" tvg-shift="",A&E (HD)
@@ -85,10 +85,10 @@ http://38.41.8.1:8000/play/a03p
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="" tvg-shift="",AMC (SD)
 http://user.tvcluboficial.com/stream/sep/sep/183.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="AMC.HDTV.(North).(AMCHD).pa" tvg-shift="",AMC (HD)
-http://user.tvcluboficial.com/stream/sep/sep/475.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="" tvg-shift="",AMC (SD)
 http://user.tvcluboficial.com/stream/sep/sep/981.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="AMC.HDTV.(North).(AMCHD).pa" tvg-shift="",AMC (HD)
+http://user.tvcluboficial.com/stream/sep/sep/475.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="AMC.co" tvg-shift="",AMC (SD)
 http://45.228.232.219:16000/play/a0m7/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="" tvg-id="" tvg-shift="",AMC (HD)
@@ -183,8 +183,8 @@ http://181.226.112.56:8000/play/a01l/index.m3u8
 http://181.78.22.70:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="" tvg-id="ANIMAL.PLANET.uy" tvg-shift="",Animal Planet (HD)
 http://181.78.22.70:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" tvg-id="Antena.3.es" tvg-shift="",Antena 3 (HD)
 http://user.tvcluboficial.com/stream/sep/sep/298.m3u8
-#N/D
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" tvg-id="ANTENA3.uy" tvg-shift="",Antena 3 Intl (SD)
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España" tvg-id="ANTENA3.uy" tvg-shift="",Antena 3 Intl ()
@@ -309,14 +309,14 @@ http://user.tvcluboficial.com/stream/sep/sep/834.m3u8
 http://45.228.232.219:16000/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="I170.61404.schedulesdirect.org" tvg-shift="",Az Corazon (SD)
 http://190.149.66.90:4000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-shift="",Azteca 7 (HD)
 http://user.tvcluboficial.com/stream/sep/sep/635.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-shift="",Azteca 7 (HD)
 http://user.tvcluboficial.com/stream/sep/sep/5.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-shift="",Azteca 7 (SD)
 http://181.189.246.86:58004/play/a00l/index.m3u8 
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-shift="",Azteca 7 (SD)
 http://181.78.105.146:2000/play/a08z/index.m3u8 
-#N/D
 #EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-shift="",Azteca Mundo (SD)
 http://45.228.232.219:16000/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Mexico" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-shift="",Azteca Mundo (SD)
@@ -371,8 +371,8 @@ http://user.tvcluboficial.com/stream/sep/sep/931.m3u8
 http://45.228.232.219:16000/play/a0m9/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="" tvg-id="BBC.WORLD.uy" tvg-shift="",BBC World (SD)
 http://190.149.66.90:4000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="" tvg-id="BBC.WORLD.uy" tvg-shift="",BBC World (SD)
 http://168.181.122.234:8000/play/a020/index.m3u8 
-#N/D
 #EXTINF:-1 tvg-logo="" group-title="Radio" tvg-id="" tvg-shift="",Beethoven  (AU)
 http://204.199.137.51:5047/play/a04b 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",BeinSports ()
@@ -563,12 +563,12 @@ http://161.132.108.76:50001/play/a031/index.m3u8
 http://161.132.108.75:50001/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",CANAL CONGRESO  (HD)
 http://181.119.66.30:8000/play/204/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="LAS.ESTRELLAS.uy" tvg-shift="",Canal de las Estrellas (SD)
+http://user.tvcluboficial.com/stream/sep/sep/636.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="XEW.Las.Estrellas.DF.(LASESTRE).mx" tvg-shift="",Canal de las Estrellas (SD)
 http://user.tvcluboficial.com/stream/sep/sep/411.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="XEW.Las.Estrellas.DF.(LASESTRE).mx" tvg-shift="",Canal de las Estrellas (SD)
 http://user.tvcluboficial.com/stream/sep/sep/736.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="LAS.ESTRELLAS.uy" tvg-shift="",Canal de las Estrellas (SD)
-http://user.tvcluboficial.com/stream/sep/sep/636.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="XEW.Las.Estrellas.DF.(LASESTRE).mx" tvg-shift="",Canal de las Estrellas (HD)
 http://45.177.53.7:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico" tvg-id="LAS.ESTRELLAS.uy" tvg-shift="",Canal de Las Estrellas (SD)
@@ -671,6 +671,8 @@ http://user.tvcluboficial.com/stream/sep/sep/369.m3u8
 http://181.78.105.146:2000/play/a00j/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (SD)
 http://user.tvcluboficial.com/stream/sep/sep/391.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (HD)
+http://user.tvcluboficial.com/stream/sep/sep/290.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (SD)
 http://38.41.8.1:8000/play/a06i
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (HD)
@@ -687,6 +689,8 @@ http://161.132.108.75:50001/play/a030/index.m3u8
 http://181.78.12.119:16123/play/ch58/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (HD)
 http://181.78.12.119:16123/play/ch58a/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (SD)
+http://204.199.137.51:5047/play/a064 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (HD)
 http://181.119.66.30:8000/play/200/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (HD)
@@ -697,10 +701,6 @@ http://181.226.112.56:8000/play/a01u/index.m3u8
 http://181.78.105.146:2000/play/a092/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="" tvg-id="Caracol.co" tvg-shift="",Caracol (SD)
 http://181.78.22.70:8000/play/a00g/index.m3u8
-http://204.199.137.51:5047/play/a064 
-#N/D
-http://user.tvcluboficial.com/stream/sep/sep/290.m3u8
-#N/D
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Caracol News HD (HD)
 http://161.132.243.192:50001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Caracol News HD (HD)
@@ -840,13 +840,13 @@ http://45.177.53.7:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="" tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-shift="",Cine Latino (SD)
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="" tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-shift="",Cine Latino (SD)
+http://user.tvcluboficial.com/stream/sep/sep/295.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="" tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-shift="",Cine Latino (SD)
 http://45.228.232.219:16000/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="" tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-shift="",Cine Latino (SD)
 http://190.149.66.90:4000/play/a04k/index.m3u8
-http://user.tvcluboficial.com/stream/sep/sep/295.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="" tvg-id="Cine.Latino.(Mexico.City).(CINELA).mx" tvg-shift="",Cine Latino (SD)
 http://168.181.122.234:8000/play/a02a/index.m3u8 
-#N/D
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Cine Mexicano (HD)
 http://181.78.105.146:2000/play/a095/index.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",CINE PREMIUM (HD)
@@ -903,20 +903,20 @@ http://181.78.105.146:2000/play/a04q/index.m3u8
 http://181.78.22.70:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",CINEMA+ (SD)
 http://181.78.12.119:16123/play/ch12a/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="" tvg-shift="",Cinemax (SD)
+http://user.tvcluboficial.com/stream/sep/sep/638.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="CINEMAX.uy" tvg-shift="",Cinemax (SD)
 http://user.tvcluboficial.com/stream/sep/sep/20.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="CINEMAX.uy" tvg-shift="",Cinemax (SD)
 http://user.tvcluboficial.com/stream/sep/sep/739.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="" tvg-shift="",Cinemax (SD)
-http://user.tvcluboficial.com/stream/sep/sep/638.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-shift="",Cinemax (SD)
 http://45.228.232.219:16000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="" tvg-shift="",Cinemax (SD)
 http://45.177.53.7:8000/play/a0d3/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="CINEMAX.uy" tvg-shift="",Cinemax (SD)
-http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-shift="",Cinemax (HD)
 http://38.41.8.1:8000/play/a00y
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="CINEMAX.uy" tvg-shift="",Cinemax (SD)
+http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="" tvg-shift="",Cinemax (HD)
 http://201.222.44.220:4227/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="" tvg-id="Cinemax.(Panamerican).(CINEMAXE).[352].cr" tvg-shift="",Cinemax (SD)
@@ -1005,18 +1005,18 @@ http://181.226.112.56:8000/play/a07l/index.m3u8
 http://181.78.22.70:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Clover (HD)
 http://181.78.22.70:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (HD)
+http://45.177.53.7:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (HD)
+http://201.222.44.220:4227/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (SD)
 http://190.95.220.212:8000/play/a026/index.m3u8
-http://45.177.53.7:8000/play/a0hn/index.m3u8
-#N/D
-http://201.222.44.220:4227/play/a003/index.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (SD)
 http://204.199.137.51:5047/play/a01m 
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (SD)
 http://138.219.58.234:8112/play/054 
-#N/D
+#EXTINF:-1 tvg-logo="0" group-title="Chile" tvg-id="Cnn.cl" tvg-shift="",CNN Chile (HD)
 http://181.226.112.56:8000/play/a07a/index.m3u8 
-#N/D
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="" tvg-id="CNN.EN.ESPAÑOL.uy" tvg-shift="",CNN en Español (SD)
 http://45.166.92.22:58001/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="" tvg-id="CNN.EN.ESPAÑOL.uy" tvg-shift="",CNN en Español (SD)
@@ -1237,10 +1237,10 @@ http://181.226.112.56:8000/play/a01x/index.m3u8
 http://181.78.105.146:2000/play/a03x/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="" tvg-id="DISCOVERY.HD.(DiscoveryHD).pe" tvg-shift="",Discovery Channel (SD)
 http://181.78.22.70:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="" tvg-id="Discovery.Home.&.Health.(Latin.America).(DH&H).[454].cr" tvg-shift="",Discovery Home & Health (SD)
-http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="" tvg-id="" tvg-shift="",Discovery Home & Health (HD)
 http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="" tvg-id="Discovery.Home.&.Health.(Latin.America).(DH&H).[454].cr" tvg-shift="",Discovery Home & Health (SD)
+http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="" tvg-id="" tvg-shift="",Discovery Home & Health (SD)
 http://user.tvcluboficial.com/stream/sep/sep/24.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="" tvg-id="" tvg-shift="",Discovery Home & Health (SD)
@@ -1745,10 +1745,10 @@ http://38.41.8.1:8000/play/a00k
 http://201.222.44.220:4227/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="ESPN.uy" tvg-shift="",ESPN (SD)
 http://190.95.220.212:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="ESPN.uy" tvg-shift="",ESPN (SD)
-http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="" tvg-shift="",ESPN (HD)
 http://190.149.66.90:4000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="ESPN.uy" tvg-shift="",ESPN (SD)
+http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="ESPN.uy" tvg-shift="",ESPN (HD)
 http://161.132.243.192:50001/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="" tvg-id="ESPN.uy" tvg-shift="",ESPN (HD)
@@ -1779,10 +1779,10 @@ http://181.78.22.70:8000/play/a014/index.m3u8
 http://181.78.22.70:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-shift="",ESPN 2 (HD)
 http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
-http://user.tvcluboficial.com/stream/sep/sep/484.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-shift="",ESPN 2 (HD)
 http://user.tvcluboficial.com/stream/sep/sep/531.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
+http://user.tvcluboficial.com/stream/sep/sep/484.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (SD)
 http://user.tvcluboficial.com/stream/sep/sep/35.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-shift="",ESPN 2 (SD)
@@ -1791,10 +1791,10 @@ http://45.228.232.219:16000/play/a0n8/index.m3u8
 http://45.177.53.7:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.co" tvg-shift="",ESPN 2 (SD)
 http://38.41.8.1:8000/play/a05o
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 ()
-http://38.41.8.1:8000/play/a00c
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.co" tvg-shift="",ESPN 2 (SD)
 http://38.41.8.1:8000/play/a07q
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 ()
+http://38.41.8.1:8000/play/a00c
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
 http://201.222.44.220:4227/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.co" tvg-shift="",ESPN 2 (SD)
@@ -1817,10 +1817,10 @@ http://204.199.137.51:5047/play/a02z
 http://138.219.58.234:8112/play/214 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-shift="",ESPN 2 (HD)
 http://168.181.122.234:8000/play/a00p/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
-http://181.119.66.30:8000/play/a05i/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.co" tvg-shift="",ESPN 2 (HD)
 http://181.119.66.30:8000/play/a041/index.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
+http://181.119.66.30:8000/play/a05i/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="" tvg-shift="",ESPN 2 (HD)
 http://181.226.112.56:8000/play/a00w/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="" tvg-shift="",ESPN 2 (HD)
@@ -1829,10 +1829,10 @@ http://181.226.112.56:8000/play/a07m/index.m3u8
 http://181.226.112.56:8000/play/a07i/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-shift="",ESPN 2 (SD)
 http://181.78.105.146:2000/play/a063/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
-http://181.78.22.70:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.co" tvg-shift="",ESPN 2 (HD)
 http://181.78.22.70:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="" tvg-id="ESPN.2.uy" tvg-shift="",ESPN 2 (HD)
+http://181.78.22.70:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="" tvg-id="" tvg-shift="",ESPN 3 (HD)
 http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="" tvg-id="ESPN.3.uy" tvg-shift="",ESPN 3 (HD)
@@ -1943,12 +1943,12 @@ http://181.119.66.30:8000/play/a04m/index.m3u8
 http://181.226.112.56:8000/play/a01b/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="" tvg-id="ESPN.EXTRA.uy" tvg-shift="",ESPN Extra (HD)
 http://181.78.22.70:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="" tvg-id="ESPN.PREMIUM.ar" tvg-shift="",ESPN Premium (SD)
-http://user.tvcluboficial.com/stream/sep/sep/972.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="" tvg-id="" tvg-shift="",ESPN Premium (HD)
 http://user.tvcluboficial.com/stream/sep/sep/952.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="" tvg-id="" tvg-shift="",ESPN Premium ()
 http://user.tvcluboficial.com/stream/sep/sep/658.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="" tvg-id="ESPN.PREMIUM.ar" tvg-shift="",ESPN Premium (SD)
+http://user.tvcluboficial.com/stream/sep/sep/972.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",ESPN SUR  (HD)
 http://181.189.246.86:58004/play/a009/index.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",ETC TV  (SD)
@@ -2031,8 +2031,8 @@ http://168.181.122.234:8000/play/a01v/index.m3u8
 http://181.78.105.146:2000/play/a08i/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="" tvg-id="FILM&ARTS.uy" tvg-shift="2",Film & Arts (SD)
 http://181.78.22.70:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Fitmaxx (HD)
 http://138.219.58.234:8112/play/231 
-#N/D
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",FM PUEBLO (HD)
 http://45.166.92.22:58001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",FMH Family (SD)
@@ -2445,10 +2445,10 @@ http://181.119.66.30:8000/play/a061/index.m3u8
 http://181.119.66.30:8000/play/a05z/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="" tvg-id="" tvg-shift="",HBO (HD)
 http://181.226.112.56:8000/play/a01c/index.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="" tvg-id="HBO.uy" tvg-shift="",HBO (HD)
-http://181.78.22.70:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="" tvg-id="Hbo.Hd.cl" tvg-shift="",HBO (SD)
 http://181.78.22.70:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="" tvg-id="HBO.uy" tvg-shift="",HBO (HD)
+http://181.78.22.70:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="" tvg-id="HBO.2.(Mexico).(HBO2).[971].cr" tvg-shift="",HBO 2 (HD)
 http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="" tvg-id="HBO.2.uy" tvg-shift="",HBO 2 (HD)
@@ -2487,10 +2487,10 @@ http://user.tvcluboficial.com/stream/sep/sep/968.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/63.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family (HD)
 http://45.177.53.7:8000/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family (SD)
-http://38.41.8.1:8000/play/a05k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="" tvg-shift="",HBO Family (HD)
 http://38.41.8.1:8000/play/a031
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family (SD)
+http://38.41.8.1:8000/play/a05k
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family (HD)
 http://201.222.44.220:4227/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="" tvg-id="HBO.FAMILY.HD.uy" tvg-shift="",HBO Family (HD)
@@ -2669,10 +2669,10 @@ http://161.132.108.76:50001/play/a003/index.m3u8
 http://161.132.108.75:50001/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="History.cl" tvg-shift="",History Channel (SD)
 http://204.199.137.51:5047/play/a02o 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="History.cl" tvg-shift="",History Channel (HD)
-http://138.219.58.234:8112/play/032 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="" tvg-shift="",History Channel (HD)
 http://138.219.58.234:8112/play/033 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="History.cl" tvg-shift="",History Channel (HD)
+http://138.219.58.234:8112/play/032 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="The.History.Channel.(Andes).(THC).[507].cr" tvg-shift="",History Channel (HD)
 http://168.181.122.234:8000/play/a019/index.m3u8 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="" tvg-id="History.cl" tvg-shift="",History Channel (HD)
@@ -4213,10 +4213,10 @@ http://45.228.232.219:16000/play/a0n6/index.m3u8
 http://45.177.53.7:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="" tvg-shift="",TLC Discovery (SD)
 http://38.41.8.1:8000/play/a07y
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="DISCOVERY.TLC.uy" tvg-shift="",TLC Discovery (SD)
-http://201.222.44.220:4227/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="" tvg-shift="",TLC Discovery ()
 http://201.222.44.220:4227/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="DISCOVERY.TLC.uy" tvg-shift="",TLC Discovery (SD)
+http://201.222.44.220:4227/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="DISCOVERY.TLC.uy" tvg-shift="",TLC Discovery (SD)
 http://190.149.66.90:4000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="" tvg-id="DISCOVERY.TLC.uy" tvg-shift="",TLC Discovery (HD)
@@ -4393,12 +4393,12 @@ http://201.222.44.220:4227/play/a04e/index.m3u8
 http://190.149.66.90:4000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="0" group-title="" tvg-id="" tvg-shift="",Tooncast (SD)
 http://181.78.12.119:16123/play/ch203/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="" tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-shift="",Tooncast (SD)
+http://204.199.137.51:5047/play/a00v 
 #EXTINF:-1 tvg-logo="0" group-title="" tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-shift="",Tooncast (HD)
 http://181.119.66.30:8000/play/84/index.m3u8 
 #EXTINF:-1 tvg-logo="0" group-title="" tvg-id="Tooncast.Latin.America.(TOONC).[310].cr" tvg-shift="",Tooncast (SD)
 http://181.78.22.70:8000/play/a03j/index.m3u8
-http://204.199.137.51:5047/play/a00v 
-#N/D
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Top Latino (HD)
 http://161.132.243.192:50001/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",Top Latino (HD)
@@ -4619,10 +4619,10 @@ http://user.tvcluboficial.com/stream/sep/sep/502.m3u8
 http://45.228.232.219:16000/play/a0o3/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="Universal.Channel.(Latin.America).(UNIVERS).[354].cr" tvg-shift="",Universal Channel (HD)
 http://45.177.53.7:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="Universal.Channel.(Latin.America).(UNIVERS).[354].cr" tvg-shift="",Universal Channel (HD)
-http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="" tvg-shift="",Universal Channel (SD)
 http://38.41.8.1:8000/play/a04r
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="Universal.Channel.(Latin.America).(UNIVERS).[354].cr" tvg-shift="",Universal Channel (HD)
+http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="" tvg-shift="",Universal Channel (HD)
 http://201.222.44.220:4227/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="" tvg-id="" tvg-shift="",Universal Channel (SD)
@@ -4697,10 +4697,10 @@ http://161.132.108.75:50001/play/a03b/index.m3u8
 http://user.tvcluboficial.com/stream/sep/sep/901.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-shift="",Universal Premier (SD)
 http://38.41.8.1:8000/play/a05p
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-shift="",Universal Premier (HD)
-http://190.149.66.90:4000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="" tvg-shift="",Universal Premier (HD)
 http://190.149.66.90:4000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-shift="",Universal Premier (HD)
+http://190.149.66.90:4000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-shift="",Universal Premier (HD)
 http://161.132.243.192:50001/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-shift="",Universal Premier (HD)
