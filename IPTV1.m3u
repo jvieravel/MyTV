@@ -4945,3 +4945,5 @@ http://168.181.122.234:8000/play/a03f/index.m3u8
 http://181.119.66.30:8000/play/ZOOMOO/index.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="" tvg-shift="",ZooMoo  (HD)
 http://181.78.22.70:8000/play/a04c/index.m3u8
+#EXTINF:-1, Santa Claus: The Movie (1985)
+http://magi-stv.net:8080/movie/Joseluis/Joseluis123/45070.mp4
