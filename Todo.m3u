@@ -149,9 +149,9 @@ http://181.78.105.146:6060/play/a00i/index.m3u8
 http://181.78.105.146:6060/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-shift="",HTV
 http://181.78.105.146:6060/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-shift="",History Channel
+#EXTINF:-1 tvg-id="742dtv.co" tvg-shift="",History Channel
 http://181.78.105.146:6060/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-shift="",History HD
+#EXTINF:-1 tvg-id="742dtv.co" tvg-shift="",History HD
 http://181.78.105.146:6060/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-shift="",Hola!TV
 http://181.78.105.146:6060/play/a008/index.m3u8
