@@ -135,7 +135,7 @@ http://181.78.105.146:6060/play/a02p/index.m3u8
 http://181.78.105.146:6060/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-shift="",HBO Family HD
 http://181.78.105.146:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="",HBO HD
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-shift="",HBO HD
 http://181.78.105.146:6060/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-shift="",HBO Plus
 http://181.78.105.146:6060/play/a04f/index.m3u8
